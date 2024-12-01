@@ -7493,3 +7493,2406 @@ GEOID1,GEOID2,Subset,County,State,Continent,variable,estimate,moe,year,Tag
 41051,53011,,Clark County, Washington,,MOVEDNET,-2575,1229,2015,OOS
 41051,53011,,Clark County, Washington,,MOVEDNET,-2938,994,2018,OOS
 41051,41005,,Clackamas County, Oregon,,MOVEDNET,-3493,1725,2018,IS
+41051,41001,,Baker County, Oregon,,MOVEDIN,232,117,2020,IS
+41051,41001,,Baker County, Oregon,,MOVEDOUT,112,83,2020,IS
+41051,41001,,Baker County, Oregon,,MOVEDNET,120,160,2020,IS
+41051,41003,,Benton County, Oregon,,MOVEDIN,755,307,2020,IS
+41051,41003,,Benton County, Oregon,,MOVEDOUT,752,185,2020,IS
+41051,41003,,Benton County, Oregon,,MOVEDNET,3,366,2020,IS
+41051,41005,,Clackamas County, Oregon,,MOVEDIN,7793,1103,2020,IS
+41051,41005,,Clackamas County, Oregon,,MOVEDOUT,9470,1192,2020,IS
+41051,41005,,Clackamas County, Oregon,,MOVEDNET,-1677,1621,2020,IS
+41051,41007,,Clatsop County, Oregon,,MOVEDIN,189,97,2020,IS
+41051,41007,,Clatsop County, Oregon,,MOVEDOUT,190,115,2020,IS
+41051,41007,,Clatsop County, Oregon,,MOVEDNET,-1,156,2020,IS
+41051,41009,,Columbia County, Oregon,,MOVEDIN,340,164,2020,IS
+41051,41009,,Columbia County, Oregon,,MOVEDOUT,452,220,2020,IS
+41051,41009,,Columbia County, Oregon,,MOVEDNET,-112,283,2020,IS
+41051,41011,,Coos County, Oregon,,MOVEDIN,99,80,2020,IS
+41051,41011,,Coos County, Oregon,,MOVEDOUT,30,49,2020,IS
+41051,41011,,Coos County, Oregon,,MOVEDNET,69,84,2020,IS
+41051,41013,,Crook County, Oregon,,MOVEDIN,86,90,2020,IS
+41051,41013,,Crook County, Oregon,,MOVEDOUT,40,44,2020,IS
+41051,41013,,Crook County, Oregon,,MOVEDNET,46,101,2020,IS
+41051,41015,,Curry County, Oregon,,MOVEDIN,10,20,2020,IS
+41051,41015,,Curry County, Oregon,,MOVEDOUT,18,29,2020,IS
+41051,41015,,Curry County, Oregon,,MOVEDNET,-8,37,2020,IS
+41051,41017,,Deschutes County, Oregon,,MOVEDIN,404,194,2020,IS
+41051,41017,,Deschutes County, Oregon,,MOVEDOUT,587,234,2020,IS
+41051,41017,,Deschutes County, Oregon,,MOVEDNET,-183,305,2020,IS
+41051,41019,,Douglas County, Oregon,,MOVEDIN,102,71,2020,IS
+41051,41019,,Douglas County, Oregon,,MOVEDOUT,122,79,2020,IS
+41051,41019,,Douglas County, Oregon,,MOVEDNET,-20,96,2020,IS
+41051,41021,,Gilliam County, Oregon,,MOVEDIN,0,30,2020,IS
+41051,41021,,Gilliam County, Oregon,,MOVEDOUT,30,25,2020,IS
+41051,41021,,Gilliam County, Oregon,,MOVEDNET,-30,25,2020,IS
+41051,41023,,Grant County, Oregon,,MOVEDIN,0,30,2020,IS
+41051,41023,,Grant County, Oregon,,MOVEDOUT,12,14,2020,IS
+41051,41023,,Grant County, Oregon,,MOVEDNET,-12,14,2020,IS
+41051,41027,,Hood River County, Oregon,,MOVEDIN,213,170,2020,IS
+41051,41027,,Hood River County, Oregon,,MOVEDOUT,163,122,2020,IS
+41051,41027,,Hood River County, Oregon,,MOVEDNET,50,211,2020,IS
+41051,41029,,Jackson County, Oregon,,MOVEDIN,545,196,2020,IS
+41051,41029,,Jackson County, Oregon,,MOVEDOUT,376,170,2020,IS
+41051,41029,,Jackson County, Oregon,,MOVEDNET,169,261,2020,IS
+41051,41031,,Jefferson County, Oregon,,MOVEDIN,140,182,2020,IS
+41051,41031,,Jefferson County, Oregon,,MOVEDOUT,80,44,2020,IS
+41051,41031,,Jefferson County, Oregon,,MOVEDNET,60,184,2020,IS
+41051,41033,,Josephine County, Oregon,,MOVEDIN,74,55,2020,IS
+41051,41033,,Josephine County, Oregon,,MOVEDOUT,101,64,2020,IS
+41051,41033,,Josephine County, Oregon,,MOVEDNET,-27,84,2020,IS
+41051,41035,,Klamath County, Oregon,,MOVEDIN,131,133,2020,IS
+41051,41035,,Klamath County, Oregon,,MOVEDOUT,51,31,2020,IS
+41051,41035,,Klamath County, Oregon,,MOVEDNET,80,134,2020,IS
+41051,41037,,Lake County, Oregon,,MOVEDIN,26,29,2020,IS
+41051,41037,,Lake County, Oregon,,MOVEDOUT,21,26,2020,IS
+41051,41037,,Lake County, Oregon,,MOVEDNET,5,38,2020,IS
+41051,41039,,Lane County, Oregon,,MOVEDIN,1614,335,2020,IS
+41051,41039,,Lane County, Oregon,,MOVEDOUT,1425,453,2020,IS
+41051,41039,,Lane County, Oregon,,MOVEDNET,189,559,2020,IS
+41051,41041,,Lincoln County, Oregon,,MOVEDIN,297,307,2020,IS
+41051,41041,,Lincoln County, Oregon,,MOVEDOUT,352,144,2020,IS
+41051,41041,,Lincoln County, Oregon,,MOVEDNET,-55,321,2020,IS
+41051,41043,,Linn County, Oregon,,MOVEDIN,483,289,2020,IS
+41051,41043,,Linn County, Oregon,,MOVEDOUT,106,70,2020,IS
+41051,41043,,Linn County, Oregon,,MOVEDNET,377,296,2020,IS
+41051,41045,,Malheur County, Oregon,,MOVEDIN,64,47,2020,IS
+41051,41045,,Malheur County, Oregon,,MOVEDOUT,127,74,2020,IS
+41051,41045,,Malheur County, Oregon,,MOVEDNET,-63,89,2020,IS
+41051,41047,,Marion County, Oregon,,MOVEDIN,2754,746,2020,IS
+41051,41047,,Marion County, Oregon,,MOVEDOUT,1182,401,2020,IS
+41051,41047,,Marion County, Oregon,,MOVEDNET,1572,903,2020,IS
+41051,41049,,Morrow County, Oregon,,MOVEDIN,0,30,2020,IS
+41051,41049,,Morrow County, Oregon,,MOVEDOUT,57,76,2020,IS
+41051,41049,,Morrow County, Oregon,,MOVEDNET,-57,76,2020,IS
+41051,41053,,Polk County, Oregon,,MOVEDIN,422,203,2020,IS
+41051,41053,,Polk County, Oregon,,MOVEDOUT,424,204,2020,IS
+41051,41053,,Polk County, Oregon,,MOVEDNET,-2,274,2020,IS
+41051,41055,,Sherman County, Oregon,,MOVEDIN,0,30,2020,IS
+41051,41055,,Sherman County, Oregon,,MOVEDOUT,8,9,2020,IS
+41051,41055,,Sherman County, Oregon,,MOVEDNET,-8,9,2020,IS
+41051,41057,,Tillamook County, Oregon,,MOVEDIN,51,38,2020,IS
+41051,41057,,Tillamook County, Oregon,,MOVEDOUT,352,171,2020,IS
+41051,41057,,Tillamook County, Oregon,,MOVEDNET,-301,174,2020,IS
+41051,41059,,Umatilla County, Oregon,,MOVEDIN,64,80,2020,IS
+41051,41059,,Umatilla County, Oregon,,MOVEDOUT,231,116,2020,IS
+41051,41059,,Umatilla County, Oregon,,MOVEDNET,-167,140,2020,IS
+41051,41061,,Union County, Oregon,,MOVEDIN,27,42,2020,IS
+41051,41061,,Union County, Oregon,,MOVEDOUT,29,22,2020,IS
+41051,41061,,Union County, Oregon,,MOVEDNET,-2,48,2020,IS
+41051,41063,,Wallowa County, Oregon,,MOVEDIN,0,30,2020,IS
+41051,41063,,Wallowa County, Oregon,,MOVEDOUT,42,39,2020,IS
+41051,41063,,Wallowa County, Oregon,,MOVEDNET,-42,39,2020,IS
+41051,41065,,Wasco County, Oregon,,MOVEDIN,82,84,2020,IS
+41051,41065,,Wasco County, Oregon,,MOVEDOUT,289,156,2020,IS
+41051,41065,,Wasco County, Oregon,,MOVEDNET,-207,175,2020,IS
+41051,41067,,Washington County, Oregon,,MOVEDIN,6561,680,2020,IS
+41051,41067,,Washington County, Oregon,,MOVEDOUT,8650,1135,2020,IS
+41051,41067,,Washington County, Oregon,,MOVEDNET,-2089,1350,2020,IS
+41051,41069,,Wheeler County, Oregon,,MOVEDIN,0,30,2020,IS
+41051,41069,,Wheeler County, Oregon,,MOVEDOUT,8,8,2020,IS
+41051,41069,,Wheeler County, Oregon,,MOVEDNET,-8,8,2020,IS
+41051,41071,,Yamhill County, Oregon,,MOVEDIN,697,459,2020,IS
+41051,41071,,Yamhill County, Oregon,,MOVEDOUT,460,222,2020,IS
+41051,41071,,Yamhill County, Oregon,,MOVEDNET,237,514,2020,IS
+41051,,,,,Africa,MOVEDIN,399,182,2020,OOC
+41051,,,,,Africa,MOVEDOUT,,,2020,OOC
+41051,,,,,Africa,MOVEDNET,,,2020,OOC
+41051,,,,,Asia,MOVEDIN,3086,728,2020,OOC
+41051,,,,,Asia,MOVEDOUT,,,2020,OOC
+41051,,,,,Asia,MOVEDNET,,,2020,OOC
+41051,,,,,Central America,MOVEDIN,167,106,2020,OOC
+41051,,,,,Central America,MOVEDOUT,,,2020,OOC
+41051,,,,,Central America,MOVEDNET,,,2020,OOC
+41051,,,,,Caribbean,MOVEDIN,216,177,2020,OOC
+41051,,,,,Caribbean,MOVEDOUT,,,2020,OOC
+41051,,,,,Caribbean,MOVEDNET,,,2020,OOC
+41051,,,,,Europe,MOVEDIN,2206,851,2020,OOC
+41051,,,,,Europe,MOVEDOUT,,,2020,OOC
+41051,,,,,Europe,MOVEDNET,,,2020,OOC
+41051,,,,,Northern America,MOVEDIN,330,135,2020,OOC
+41051,,,,,Northern America,MOVEDOUT,,,2020,OOC
+41051,,,,,Northern America,MOVEDNET,,,2020,OOC
+41051,,,,,Oceania and At Sea,MOVEDIN,248,147,2020,OOC
+41051,,,,,Oceania and At Sea,MOVEDOUT,,,2020,OOC
+41051,,,,,Oceania and At Sea,MOVEDNET,,,2020,OOC
+41051,,,,,South America,MOVEDIN,188,109,2020,OOC
+41051,,,,,South America,MOVEDOUT,,,2020,OOC
+41051,,,,,South America,MOVEDNET,,,2020,OOC
+41051,4200128960,Gettysburg Borough, Adams County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4200128960,Gettysburg Borough, Adams County, Pennsylvania,,MOVEDOUT,6,10,2020,OOS
+41051,4200128960,Gettysburg Borough, Adams County, Pennsylvania,,MOVEDNET,-6,10,2020,OOS
+41051,5000140075,Lincoln Town, Addison County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,5000140075,Lincoln Town, Addison County, Vermont,,MOVEDOUT,12,14,2020,OOS
+41051,5000140075,Lincoln Town, Addison County, Vermont,,MOVEDNET,-12,14,2020,OOS
+41051,5000144350,Middlebury Town, Addison County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,5000144350,Middlebury Town, Addison County, Vermont,,MOVEDOUT,9,13,2020,OOS
+41051,5000144350,Middlebury Town, Addison County, Vermont,,MOVEDNET,-9,13,2020,OOS
+41051,3600101000,Albany City, Albany County, New York,,MOVEDIN,18,30,2020,OOS
+41051,3600101000,Albany City, Albany County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,3600101000,Albany City, Albany County, New York,,MOVEDNET,18,30,2020,OOS
+41051,4200305312,Bellevue Borough, Allegheny County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4200305312,Bellevue Borough, Allegheny County, Pennsylvania,,MOVEDOUT,8,13,2020,OOS
+41051,4200305312,Bellevue Borough, Allegheny County, Pennsylvania,,MOVEDNET,-8,13,2020,OOS
+41051,4200351696,Mount Lebanon Township, Allegheny County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4200351696,Mount Lebanon Township, Allegheny County, Pennsylvania,,MOVEDOUT,14,25,2020,OOS
+41051,4200351696,Mount Lebanon Township, Allegheny County, Pennsylvania,,MOVEDNET,-14,25,2020,OOS
+41051,4200361000,Pittsburgh City, Allegheny County, Pennsylvania,,MOVEDIN,64,51,2020,OOS
+41051,4200361000,Pittsburgh City, Allegheny County, Pennsylvania,,MOVEDOUT,85,56,2020,OOS
+41051,4200361000,Pittsburgh City, Allegheny County, Pennsylvania,,MOVEDNET,-21,81,2020,OOS
+41051,2300346685,Monticello Town, Aroostook County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,2300346685,Monticello Town, Aroostook County, Maine,,MOVEDOUT,3,4,2020,OOS
+41051,2300346685,Monticello Town, Aroostook County, Maine,,MOVEDNET,-3,4,2020,OOS
+41051,5500342562,La Pointe Town, Ashland County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5500342562,La Pointe Town, Ashland County, Wisconsin,,MOVEDOUT,2,3,2020,OOS
+41051,5500342562,La Pointe Town, Ashland County, Wisconsin,,MOVEDNET,-2,3,2020,OOS
+41051,3400121870,Estell Manor City, Atlantic County, New Jersey,,MOVEDIN,28,46,2020,OOS
+41051,3400121870,Estell Manor City, Atlantic County, New Jersey,,MOVEDOUT,0,13,2020,OOS
+41051,3400121870,Estell Manor City, Atlantic County, New Jersey,,MOVEDNET,28,46,2020,OOS
+41051,3400129280,Hamilton Township, Atlantic County, New Jersey,,MOVEDIN,1,2,2020,OOS
+41051,3400129280,Hamilton Township, Atlantic County, New Jersey,,MOVEDOUT,0,24,2020,OOS
+41051,3400129280,Hamilton Township, Atlantic County, New Jersey,,MOVEDNET,1,2,2020,OOS
+41051,4200762352,Potter Township, Beaver County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4200762352,Potter Township, Beaver County, Pennsylvania,,MOVEDOUT,2,4,2020,OOS
+41051,4200762352,Potter Township, Beaver County, Pennsylvania,,MOVEDNET,-2,4,2020,OOS
+41051,2700705068,Bemidji City, Beltrami County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2700705068,Bemidji City, Beltrami County, Minnesota,,MOVEDOUT,21,33,2020,OOS
+41051,2700705068,Bemidji City, Beltrami County, Minnesota,,MOVEDNET,-21,33,2020,OOS
+41051,4201102328,Amity Township, Berks County, Pennsylvania,,MOVEDIN,13,23,2020,OOS
+41051,4201102328,Amity Township, Berks County, Pennsylvania,,MOVEDOUT,0,17,2020,OOS
+41051,4201102328,Amity Township, Berks County, Pennsylvania,,MOVEDNET,13,23,2020,OOS
+41051,2500371095,Tyringham Town, Berkshire County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2500371095,Tyringham Town, Berkshire County, Massachusetts,,MOVEDOUT,13,14,2020,OOS
+41051,2500371095,Tyringham Town, Berkshire County, Massachusetts,,MOVEDNET,-13,14,2020,OOS
+41051,4400105140,Barrington Town, Bristol County, Rhode Island,,MOVEDIN,15,25,2020,OOS
+41051,4400105140,Barrington Town, Bristol County, Rhode Island,,MOVEDOUT,0,21,2020,OOS
+41051,4400105140,Barrington Town, Bristol County, Rhode Island,,MOVEDNET,15,25,2020,OOS
+41051,2500516425,Dartmouth Town, Bristol County, Massachusetts,,MOVEDIN,10,16,2020,OOS
+41051,2500516425,Dartmouth Town, Bristol County, Massachusetts,,MOVEDOUT,0,28,2020,OOS
+41051,2500516425,Dartmouth Town, Bristol County, Massachusetts,,MOVEDNET,10,16,2020,OOS
+41051,2500546598,North Attleborough Town City, Bristol County, Massachusetts,,MOVEDIN,11,19,2020,OOS
+41051,2500546598,North Attleborough Town City, Bristol County, Massachusetts,,MOVEDOUT,0,25,2020,OOS
+41051,2500546598,North Attleborough Town City, Bristol County, Massachusetts,,MOVEDNET,11,19,2020,OOS
+41051,3600508510,Bronx Borough, Bronx County, New York,,MOVEDIN,117,116,2020,OOS
+41051,3600508510,Bronx Borough, Bronx County, New York,,MOVEDOUT,71,87,2020,OOS
+41051,3600508510,Bronx Borough, Bronx County, New York,,MOVEDNET,46,145,2020,OOS
+41051,3600776056,Union Town, Broome County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3600776056,Union Town, Broome County, New York,,MOVEDOUT,27,56,2020,OOS
+41051,3600776056,Union Town, Broome County, New York,,MOVEDNET,-27,56,2020,OOS
+41051,5500972200,Scott Town, Brown County, Wisconsin,,MOVEDIN,6,13,2020,OOS
+41051,5500972200,Scott Town, Brown County, Wisconsin,,MOVEDOUT,0,9,2020,OOS
+41051,5500972200,Scott Town, Brown County, Wisconsin,,MOVEDNET,6,13,2020,OOS
+41051,4201754192,Newtown Township, Bucks County, Pennsylvania,,MOVEDIN,32,52,2020,OOS
+41051,4201754192,Newtown Township, Bucks County, Pennsylvania,,MOVEDOUT,0,17,2020,OOS
+41051,4201754192,Newtown Township, Bucks County, Pennsylvania,,MOVEDNET,32,52,2020,OOS
+41051,3400563660,Riverton Borough, Burlington County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3400563660,Riverton Borough, Burlington County, New Jersey,,MOVEDOUT,8,12,2020,OOS
+41051,3400563660,Riverton Borough, Burlington County, New Jersey,,MOVEDNET,-8,12,2020,OOS
+41051,2701706328,Blackhoof Township, Carlton County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2701706328,Blackhoof Township, Carlton County, Minnesota,,MOVEDOUT,1,4,2020,OOS
+41051,2701706328,Blackhoof Township, Carlton County, Minnesota,,MOVEDNET,-1,4,2020,OOS
+41051,3300314660,Conway Town, Carroll County, New Hampshire,,MOVEDIN,28,31,2020,OOS
+41051,3300314660,Conway Town, Carroll County, New Hampshire,,MOVEDOUT,0,19,2020,OOS
+41051,3300314660,Conway Town, Carroll County, New Hampshire,,MOVEDNET,28,31,2020,OOS
+41051,2701947520,Norwood Young America City, Carver County, Minnesota,,MOVEDIN,8,13,2020,OOS
+41051,2701947520,Norwood Young America City, Carver County, Minnesota,,MOVEDOUT,0,9,2020,OOS
+41051,2701947520,Norwood Young America City, Carver County, Minnesota,,MOVEDNET,8,13,2020,OOS
+41051,3600959509,Portville Town, Cattaraugus County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3600959509,Portville Town, Cattaraugus County, New York,,MOVEDOUT,5,7,2020,OOS
+41051,3600959509,Portville Town, Cattaraugus County, New York,,MOVEDNET,-5,7,2020,OOS
+41051,4202705256,Bellefonte Borough, Centre County, Pennsylvania,,MOVEDIN,14,25,2020,OOS
+41051,4202705256,Bellefonte Borough, Centre County, Pennsylvania,,MOVEDOUT,106,164,2020,OOS
+41051,4202705256,Bellefonte Borough, Centre County, Pennsylvania,,MOVEDNET,-92,164,2020,OOS
+41051,4202773808,State College Borough, Centre County, Pennsylvania,,MOVEDIN,105,155,2020,OOS
+41051,4202773808,State College Borough, Centre County, Pennsylvania,,MOVEDOUT,0,23,2020,OOS
+41051,4202773808,State College Borough, Centre County, Pennsylvania,,MOVEDNET,105,155,2020,OOS
+41051,4202953816,New London Township, Chester County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4202953816,New London Township, Chester County, Pennsylvania,,MOVEDOUT,11,17,2020,OOS
+41051,4202953816,New London Township, Chester County, Pennsylvania,,MOVEDNET,-11,17,2020,OOS
+41051,4202960120,Phoenixville Borough, Chester County, Pennsylvania,,MOVEDIN,62,75,2020,OOS
+41051,4202960120,Phoenixville Borough, Chester County, Pennsylvania,,MOVEDOUT,0,17,2020,OOS
+41051,4202960120,Phoenixville Borough, Chester County, Pennsylvania,,MOVEDNET,62,75,2020,OOS
+41051,5000706550,Bolton Town, Chittenden County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,5000706550,Bolton Town, Chittenden County, Vermont,,MOVEDOUT,9,15,2020,OOS
+41051,5000706550,Bolton Town, Chittenden County, Vermont,,MOVEDNET,-9,15,2020,OOS
+41051,5000710675,Burlington City, Chittenden County, Vermont,,MOVEDIN,53,58,2020,OOS
+41051,5000710675,Burlington City, Chittenden County, Vermont,,MOVEDOUT,23,29,2020,OOS
+41051,5000710675,Burlington City, Chittenden County, Vermont,,MOVEDNET,30,66,2020,OOS
+41051,5000714875,Colchester Town, Chittenden County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,5000714875,Colchester Town, Chittenden County, Vermont,,MOVEDOUT,49,77,2020,OOS
+41051,5000714875,Colchester Town, Chittenden County, Vermont,,MOVEDNET,-49,77,2020,OOS
+41051,5000784475,Williston Town, Chittenden County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,5000784475,Williston Town, Chittenden County, Vermont,,MOVEDOUT,48,74,2020,OOS
+41051,5000784475,Williston Town, Chittenden County, Vermont,,MOVEDNET,-48,74,2020,OOS
+41051,4203110792,Callensburg Borough, Clarion County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4203110792,Callensburg Borough, Clarion County, Pennsylvania,,MOVEDOUT,3,4,2020,OOS
+41051,4203110792,Callensburg Borough, Clarion County, Pennsylvania,,MOVEDNET,-3,4,2020,OOS
+41051,4203120840,East Brady Borough, Clarion County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4203120840,East Brady Borough, Clarion County, Pennsylvania,,MOVEDOUT,1,2,2020,OOS
+41051,4203120840,East Brady Borough, Clarion County, Pennsylvania,,MOVEDNET,-1,2,2020,OOS
+41051,2300560545,Portland City, Cumberland County, Maine,,MOVEDIN,79,86,2020,OOS
+41051,2300560545,Portland City, Cumberland County, Maine,,MOVEDOUT,16,25,2020,OOS
+41051,2300560545,Portland City, Cumberland County, Maine,,MOVEDNET,63,87,2020,OOS
+41051,2300571990,South Portland City, Cumberland County, Maine,,MOVEDIN,15,20,2020,OOS
+41051,2300571990,South Portland City, Cumberland County, Maine,,MOVEDOUT,22,34,2020,OOS
+41051,2300571990,South Portland City, Cumberland County, Maine,,MOVEDNET,-7,41,2020,OOS
+41051,2703701900,Apple Valley City, Dakota County, Minnesota,,MOVEDIN,87,90,2020,OOS
+41051,2703701900,Apple Valley City, Dakota County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,2703701900,Apple Valley City, Dakota County, Minnesota,,MOVEDNET,87,90,2020,OOS
+41051,5502521125,Dunn Town, Dane County, Wisconsin,,MOVEDIN,9,16,2020,OOS
+41051,5502521125,Dunn Town, Dane County, Wisconsin,,MOVEDOUT,0,13,2020,OOS
+41051,5502521125,Dunn Town, Dane County, Wisconsin,,MOVEDNET,9,16,2020,OOS
+41051,5502548000,Madison City, Dane County, Wisconsin,,MOVEDIN,29,30,2020,OOS
+41051,5502548000,Madison City, Dane County, Wisconsin,,MOVEDOUT,44,46,2020,OOS
+41051,5502548000,Madison City, Dane County, Wisconsin,,MOVEDNET,-15,55,2020,OOS
+41051,5502548750,Maple Bluff Village, Dane County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5502548750,Maple Bluff Village, Dane County, Wisconsin,,MOVEDOUT,2,3,2020,OOS
+41051,5502548750,Maple Bluff Village, Dane County, Wisconsin,,MOVEDNET,-2,3,2020,OOS
+41051,5502551600,Middleton Town, Dane County, Wisconsin,,MOVEDIN,21,26,2020,OOS
+41051,5502551600,Middleton Town, Dane County, Wisconsin,,MOVEDOUT,0,13,2020,OOS
+41051,5502551600,Middleton Town, Dane County, Wisconsin,,MOVEDNET,21,26,2020,OOS
+41051,5502554725,Mount Horeb Village, Dane County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5502554725,Mount Horeb Village, Dane County, Wisconsin,,MOVEDOUT,19,35,2020,OOS
+41051,5502554725,Mount Horeb Village, Dane County, Wisconsin,,MOVEDNET,-19,35,2020,OOS
+41051,4204533144,Haverford Township, Delaware County, Pennsylvania,,MOVEDIN,56,68,2020,OOS
+41051,4204533144,Haverford Township, Delaware County, Pennsylvania,,MOVEDOUT,0,23,2020,OOS
+41051,4204533144,Haverford Township, Delaware County, Pennsylvania,,MOVEDNET,56,68,2020,OOS
+41051,4204579000,Upper Darby Township, Delaware County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4204579000,Upper Darby Township, Delaware County, Pennsylvania,,MOVEDOUT,65,92,2020,OOS
+41051,4204579000,Upper Darby Township, Delaware County, Pennsylvania,,MOVEDNET,-65,92,2020,OOS
+41051,5502745975,Lowell Town, Dodge County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5502745975,Lowell Town, Dodge County, Wisconsin,,MOVEDOUT,4,6,2020,OOS
+41051,5502745975,Lowell Town, Dodge County, Wisconsin,,MOVEDNET,-4,6,2020,OOS
+41051,2500713800,Chilmark Town, Dukes County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2500713800,Chilmark Town, Dukes County, Massachusetts,,MOVEDOUT,8,12,2020,OOS
+41051,2500713800,Chilmark Town, Dukes County, Massachusetts,,MOVEDNET,-8,12,2020,OOS
+41051,3602759652,Poughkeepsie Town, Dutchess County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3602759652,Poughkeepsie Town, Dutchess County, New York,,MOVEDOUT,12,16,2020,OOS
+41051,3602759652,Poughkeepsie Town, Dutchess County, New York,,MOVEDNET,-12,16,2020,OOS
+41051,3602761357,Rhinebeck Town, Dutchess County, New York,,MOVEDIN,25,30,2020,OOS
+41051,3602761357,Rhinebeck Town, Dutchess County, New York,,MOVEDOUT,0,17,2020,OOS
+41051,3602761357,Rhinebeck Town, Dutchess County, New York,,MOVEDNET,25,30,2020,OOS
+41051,3602778157,Wappinger Town, Dutchess County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3602778157,Wappinger Town, Dutchess County, New York,,MOVEDOUT,22,36,2020,OOS
+41051,3602778157,Wappinger Town, Dutchess County, New York,,MOVEDNET,-22,36,2020,OOS
+41051,3602902000,Amherst Town, Erie County, New York,,MOVEDIN,6,13,2020,OOS
+41051,3602902000,Amherst Town, Erie County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,3602902000,Amherst Town, Erie County, New York,,MOVEDNET,6,13,2020,OOS
+41051,3602911000,Buffalo City, Erie County, New York,,MOVEDIN,92,99,2020,OOS
+41051,3602911000,Buffalo City, Erie County, New York,,MOVEDOUT,18,29,2020,OOS
+41051,3602911000,Buffalo City, Erie County, New York,,MOVEDNET,74,103,2020,OOS
+41051,4204924000,Erie City, Erie County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4204924000,Erie City, Erie County, Pennsylvania,,MOVEDOUT,25,41,2020,OOS
+41051,4204924000,Erie City, Erie County, Pennsylvania,,MOVEDNET,-25,41,2020,OOS
+41051,3401306260,Bloomfield Township, Essex County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3401306260,Bloomfield Township, Essex County, New Jersey,,MOVEDOUT,43,66,2020,OOS
+41051,3401306260,Bloomfield Township, Essex County, New Jersey,,MOVEDNET,-43,66,2020,OOS
+41051,3401347500,Montclair Township, Essex County, New Jersey,,MOVEDIN,13,20,2020,OOS
+41051,3401347500,Montclair Township, Essex County, New Jersey,,MOVEDOUT,0,27,2020,OOS
+41051,3401347500,Montclair Township, Essex County, New Jersey,,MOVEDNET,13,20,2020,OOS
+41051,3401351000,Newark City, Essex County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3401351000,Newark City, Essex County, New Jersey,,MOVEDOUT,7,11,2020,OOS
+41051,3401351000,Newark City, Essex County, New Jersey,,MOVEDNET,-7,11,2020,OOS
+41051,0900173070,Stamford Town, Fairfield County, Connecticut,,MOVEDIN,70,109,2020,OOS
+41051,0900173070,Stamford Town, Fairfield County, Connecticut,,MOVEDOUT,0,30,2020,OOS
+41051,0900173070,Stamford Town, Fairfield County, Connecticut,,MOVEDNET,70,109,2020,OOS
+41051,4205178528,Uniontown City, Fayette County, Pennsylvania,,MOVEDIN,9,15,2020,OOS
+41051,4205178528,Uniontown City, Fayette County, Pennsylvania,,MOVEDOUT,0,15,2020,OOS
+41051,4205178528,Uniontown City, Fayette County, Pennsylvania,,MOVEDNET,9,15,2020,OOS
+41051,3603704715,Batavia City, Genesee County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3603704715,Batavia City, Genesee County, New York,,MOVEDOUT,23,37,2020,OOS
+41051,3603704715,Batavia City, Genesee County, New York,,MOVEDNET,-23,37,2020,OOS
+41051,3603706057,Bergen Town, Genesee County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3603706057,Bergen Town, Genesee County, New York,,MOVEDOUT,5,9,2020,OOS
+41051,3603706057,Bergen Town, Genesee County, New York,,MOVEDNET,-5,9,2020,OOS
+41051,2605508880,Blair Township, Grand Traverse County, Michigan,,MOVEDIN,20,30,2020,OOS
+41051,2605508880,Blair Township, Grand Traverse County, Michigan,,MOVEDOUT,0,15,2020,OOS
+41051,2605508880,Blair Township, Grand Traverse County, Michigan,,MOVEDNET,20,30,2020,OOS
+41051,2605580340,Traverse City City, Grand Traverse County, Michigan,,MOVEDIN,34,50,2020,OOS
+41051,2605580340,Traverse City City, Grand Traverse County, Michigan,,MOVEDOUT,0,17,2020,OOS
+41051,2605580340,Traverse City City, Grand Traverse County, Michigan,,MOVEDNET,34,50,2020,OOS
+41051,2501546330,Northampton City, Hampshire County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2501546330,Northampton City, Hampshire County, Massachusetts,,MOVEDOUT,17,29,2020,OOS
+41051,2501546330,Northampton City, Hampshire County, Massachusetts,,MOVEDNET,-17,29,2020,OOS
+41051,0900325990,Enfield Town, Hartford County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0900325990,Enfield Town, Hartford County, Connecticut,,MOVEDOUT,37,63,2020,OOS
+41051,0900325990,Enfield Town, Hartford County, Connecticut,,MOVEDNET,-37,63,2020,OOS
+41051,0900337070,Hartford Town, Hartford County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0900337070,Hartford Town, Hartford County, Connecticut,,MOVEDOUT,5,8,2020,OOS
+41051,0900337070,Hartford Town, Hartford County, Connecticut,,MOVEDNET,-5,8,2020,OOS
+41051,0900371390,South Windsor Town, Hartford County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0900371390,South Windsor Town, Hartford County, Connecticut,,MOVEDOUT,6,8,2020,OOS
+41051,0900371390,South Windsor Town, Hartford County, Connecticut,,MOVEDNET,-6,8,2020,OOS
+41051,0900370550,Southington Town, Hartford County, Connecticut,,MOVEDIN,6,9,2020,OOS
+41051,0900370550,Southington Town, Hartford County, Connecticut,,MOVEDOUT,0,27,2020,OOS
+41051,0900370550,Southington Town, Hartford County, Connecticut,,MOVEDNET,6,9,2020,OOS
+41051,0900382590,West Hartford Town, Hartford County, Connecticut,,MOVEDIN,17,27,2020,OOS
+41051,0900382590,West Hartford Town, Hartford County, Connecticut,,MOVEDOUT,0,30,2020,OOS
+41051,0900382590,West Hartford Town, Hartford County, Connecticut,,MOVEDNET,17,27,2020,OOS
+41051,0900384900,Wethersfield Town, Hartford County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0900384900,Wethersfield Town, Hartford County, Connecticut,,MOVEDOUT,17,30,2020,OOS
+41051,0900384900,Wethersfield Town, Hartford County, Connecticut,,MOVEDNET,-17,30,2020,OOS
+41051,2705306616,Bloomington City, Hennepin County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2705306616,Bloomington City, Hennepin County, Minnesota,,MOVEDOUT,10,17,2020,OOS
+41051,2705306616,Bloomington City, Hennepin County, Minnesota,,MOVEDNET,-10,17,2020,OOS
+41051,2705318116,Eden Prairie City, Hennepin County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2705318116,Eden Prairie City, Hennepin County, Minnesota,,MOVEDOUT,14,22,2020,OOS
+41051,2705318116,Eden Prairie City, Hennepin County, Minnesota,,MOVEDNET,-14,22,2020,OOS
+41051,2705318188,Edina City, Hennepin County, Minnesota,,MOVEDIN,25,37,2020,OOS
+41051,2705318188,Edina City, Hennepin County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,2705318188,Edina City, Hennepin County, Minnesota,,MOVEDNET,25,37,2020,OOS
+41051,2705343000,Minneapolis City, Hennepin County, Minnesota,,MOVEDIN,73,71,2020,OOS
+41051,2705343000,Minneapolis City, Hennepin County, Minnesota,,MOVEDOUT,63,54,2020,OOS
+41051,2705343000,Minneapolis City, Hennepin County, Minnesota,,MOVEDNET,10,89,2020,OOS
+41051,2705343252,Minnetonka City, Hennepin County, Minnesota,,MOVEDIN,38,53,2020,OOS
+41051,2705343252,Minnetonka City, Hennepin County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,2705343252,Minnetonka City, Hennepin County, Minnesota,,MOVEDNET,38,53,2020,OOS
+41051,2705345628,New Hope City, Hennepin County, Minnesota,,MOVEDIN,8,16,2020,OOS
+41051,2705345628,New Hope City, Hennepin County, Minnesota,,MOVEDOUT,0,17,2020,OOS
+41051,2705345628,New Hope City, Hennepin County, Minnesota,,MOVEDNET,8,16,2020,OOS
+41051,2705351730,Plymouth City, Hennepin County, Minnesota,,MOVEDIN,2,4,2020,OOS
+41051,2705351730,Plymouth City, Hennepin County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,2705351730,Plymouth City, Hennepin County, Minnesota,,MOVEDNET,2,4,2020,OOS
+41051,2705354808,Robbinsdale City, Hennepin County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2705354808,Robbinsdale City, Hennepin County, Minnesota,,MOVEDOUT,16,25,2020,OOS
+41051,2705354808,Robbinsdale City, Hennepin County, Minnesota,,MOVEDNET,-16,25,2020,OOS
+41051,2705357220,St. Louis Park City, Hennepin County, Minnesota,,MOVEDIN,12,20,2020,OOS
+41051,2705357220,St. Louis Park City, Hennepin County, Minnesota,,MOVEDOUT,0,20,2020,OOS
+41051,2705357220,St. Louis Park City, Hennepin County, Minnesota,,MOVEDNET,12,20,2020,OOS
+41051,3401736000,Jersey City City, Hudson County, New Jersey,,MOVEDIN,42,41,2020,OOS
+41051,3401736000,Jersey City City, Hudson County, New Jersey,,MOVEDOUT,15,24,2020,OOS
+41051,3401736000,Jersey City City, Hudson County, New Jersey,,MOVEDNET,27,48,2020,OOS
+41051,3401779610,West New York Town, Hudson County, New Jersey,,MOVEDIN,117,162,2020,OOS
+41051,3401779610,West New York Town, Hudson County, New Jersey,,MOVEDOUT,0,30,2020,OOS
+41051,3401779610,West New York Town, Hudson County, New Jersey,,MOVEDNET,117,162,2020,OOS
+41051,2606524120,East Lansing City, Ingham County, Michigan,,MOVEDIN,6,10,2020,OOS
+41051,2606524120,East Lansing City, Ingham County, Michigan,,MOVEDOUT,0,23,2020,OOS
+41051,2606524120,East Lansing City, Ingham County, Michigan,,MOVEDNET,6,10,2020,OOS
+41051,2606553140,Meridian Charter Township, Ingham County, Michigan,,MOVEDIN,17,26,2020,OOS
+41051,2606553140,Meridian Charter Township, Ingham County, Michigan,,MOVEDOUT,0,23,2020,OOS
+41051,2606553140,Meridian Charter Township, Ingham County, Michigan,,MOVEDNET,17,26,2020,OOS
+41051,5505328250,Garden Valley Town, Jackson County, Wisconsin,,MOVEDIN,12,19,2020,OOS
+41051,5505328250,Garden Valley Town, Jackson County, Wisconsin,,MOVEDOUT,0,9,2020,OOS
+41051,5505328250,Garden Valley Town, Jackson County, Wisconsin,,MOVEDNET,12,19,2020,OOS
+41051,2607742160,Kalamazoo City, Kalamazoo County, Michigan,,MOVEDIN,10,16,2020,OOS
+41051,2607742160,Kalamazoo City, Kalamazoo County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,2607742160,Kalamazoo City, Kalamazoo County, Michigan,,MOVEDNET,10,16,2020,OOS
+41051,2607765560,Portage City, Kalamazoo County, Michigan,,MOVEDIN,9,13,2020,OOS
+41051,2607765560,Portage City, Kalamazoo County, Michigan,,MOVEDOUT,0,23,2020,OOS
+41051,2607765560,Portage City, Kalamazoo County, Michigan,,MOVEDNET,9,13,2020,OOS
+41051,2301186970,Winthrop Town, Kennebec County, Maine,,MOVEDIN,28,31,2020,OOS
+41051,2301186970,Winthrop Town, Kennebec County, Maine,,MOVEDOUT,0,15,2020,OOS
+41051,2301186970,Winthrop Town, Kennebec County, Maine,,MOVEDNET,28,31,2020,OOS
+41051,2608100240,Ada Township, Kent County, Michigan,,MOVEDIN,21,35,2020,OOS
+41051,2608100240,Ada Township, Kent County, Michigan,,MOVEDOUT,0,17,2020,OOS
+41051,2608100240,Ada Township, Kent County, Michigan,,MOVEDNET,21,35,2020,OOS
+41051,2608134000,Grand Rapids City, Kent County, Michigan,,MOVEDIN,42,66,2020,OOS
+41051,2608134000,Grand Rapids City, Kent County, Michigan,,MOVEDOUT,18,21,2020,OOS
+41051,2608134000,Grand Rapids City, Kent County, Michigan,,MOVEDNET,24,70,2020,OOS
+41051,4400374300,Warwick City, Kent County, Rhode Island,,MOVEDIN,23,34,2020,OOS
+41051,4400374300,Warwick City, Kent County, Rhode Island,,MOVEDOUT,0,32,2020,OOS
+41051,4400374300,Warwick City, Kent County, Rhode Island,,MOVEDNET,23,34,2020,OOS
+41051,3604710022,Brooklyn Borough, Kings County, New York,,MOVEDIN,187,93,2020,OOS
+41051,3604710022,Brooklyn Borough, Kings County, New York,,MOVEDOUT,279,155,2020,OOS
+41051,3604710022,Brooklyn Borough, Kings County, New York,,MOVEDNET,-92,174,2020,OOS
+41051,2301309725,Camden Town, Knox County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,2301309725,Camden Town, Knox County, Maine,,MOVEDOUT,13,25,2020,OOS
+41051,2301309725,Camden Town, Knox County, Maine,,MOVEDNET,-13,25,2020,OOS
+41051,5001537075,Johnson Town, Lamoille County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,5001537075,Johnson Town, Lamoille County, Vermont,,MOVEDOUT,13,21,2020,OOS
+41051,5001537075,Johnson Town, Lamoille County, Vermont,,MOVEDNET,-13,21,2020,OOS
+41051,5001570525,Stowe Town, Lamoille County, Vermont,,MOVEDIN,7,16,2020,OOS
+41051,5001570525,Stowe Town, Lamoille County, Vermont,,MOVEDOUT,0,10,2020,OOS
+41051,5001570525,Stowe Town, Lamoille County, Vermont,,MOVEDNET,7,16,2020,OOS
+41051,4207146896,Manheim Township, Lancaster County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4207146896,Manheim Township, Lancaster County, Pennsylvania,,MOVEDOUT,46,81,2020,OOS
+41051,4207146896,Manheim Township, Lancaster County, Pennsylvania,,MOVEDNET,-46,81,2020,OOS
+41051,4207772632,South Whitehall Township, Lehigh County, Pennsylvania,,MOVEDIN,26,41,2020,OOS
+41051,4207772632,South Whitehall Township, Lehigh County, Pennsylvania,,MOVEDOUT,0,17,2020,OOS
+41051,4207772632,South Whitehall Township, Lehigh County, Pennsylvania,,MOVEDNET,26,41,2020,OOS
+41051,2301506120,Boothbay Harbor Town, Lincoln County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,2301506120,Boothbay Harbor Town, Lincoln County, Maine,,MOVEDOUT,28,29,2020,OOS
+41051,2301506120,Boothbay Harbor Town, Lincoln County, Maine,,MOVEDNET,-28,29,2020,OOS
+41051,0900537280,Harwinton Town, Litchfield County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0900537280,Harwinton Town, Litchfield County, Connecticut,,MOVEDOUT,7,12,2020,OOS
+41051,0900537280,Harwinton Town, Litchfield County, Connecticut,,MOVEDNET,-7,12,2020,OOS
+41051,4207910480,Butler Township, Luzerne County, Pennsylvania,,MOVEDIN,14,15,2020,OOS
+41051,4207910480,Butler Township, Luzerne County, Pennsylvania,,MOVEDOUT,0,15,2020,OOS
+41051,4207910480,Butler Township, Luzerne County, Pennsylvania,,MOVEDNET,14,15,2020,OOS
+41051,4207952584,Nanticoke City, Luzerne County, Pennsylvania,,MOVEDIN,52,92,2020,OOS
+41051,4207952584,Nanticoke City, Luzerne County, Pennsylvania,,MOVEDOUT,0,17,2020,OOS
+41051,4207952584,Nanticoke City, Luzerne County, Pennsylvania,,MOVEDNET,52,92,2020,OOS
+41051,2609916520,Clinton Charter Township, Macomb County, Michigan,,MOVEDIN,17,28,2020,OOS
+41051,2609916520,Clinton Charter Township, Macomb County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,2609916520,Clinton Charter Township, Macomb County, Michigan,,MOVEDNET,17,28,2020,OOS
+41051,2609930420,Fraser City, Macomb County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2609930420,Fraser City, Macomb County, Michigan,,MOVEDOUT,5,10,2020,OOS
+41051,2609930420,Fraser City, Macomb County, Michigan,,MOVEDNET,-5,10,2020,OOS
+41051,2609970760,St. Clair Shores City, Macomb County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2609970760,St. Clair Shores City, Macomb County, Michigan,,MOVEDOUT,8,13,2020,OOS
+41051,2609970760,St. Clair Shores City, Macomb County, Michigan,,MOVEDNET,-8,13,2020,OOS
+41051,2609976460,Sterling Heights City, Macomb County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2609976460,Sterling Heights City, Macomb County, Michigan,,MOVEDOUT,12,19,2020,OOS
+41051,2609976460,Sterling Heights City, Macomb County, Michigan,,MOVEDNET,-12,19,2020,OOS
+41051,3605349770,Nelson Town, Madison County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3605349770,Nelson Town, Madison County, New York,,MOVEDOUT,11,16,2020,OOS
+41051,3605349770,Nelson Town, Madison County, New York,,MOVEDNET,-11,16,2020,OOS
+41051,5507549300,Marinette City, Marinette County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5507549300,Marinette City, Marinette County, Wisconsin,,MOVEDOUT,2,4,2020,OOS
+41051,5507549300,Marinette City, Marinette County, Wisconsin,,MOVEDNET,-2,4,2020,OOS
+41051,2610351900,Marquette City, Marquette County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2610351900,Marquette City, Marquette County, Michigan,,MOVEDOUT,7,9,2020,OOS
+41051,2610351900,Marquette City, Marquette County, Michigan,,MOVEDNET,-7,9,2020,OOS
+41051,3402119780,East Windsor Township, Mercer County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3402119780,East Windsor Township, Mercer County, New Jersey,,MOVEDOUT,78,124,2020,OOS
+41051,3402119780,East Windsor Township, Mercer County, New Jersey,,MOVEDNET,-78,124,2020,OOS
+41051,4208531656,Grove City Borough, Mercer County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4208531656,Grove City Borough, Mercer County, Pennsylvania,,MOVEDOUT,23,37,2020,OOS
+41051,4208531656,Grove City Borough, Mercer County, Pennsylvania,,MOVEDNET,-23,37,2020,OOS
+41051,3402157600,Pennington Borough, Mercer County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3402157600,Pennington Borough, Mercer County, New Jersey,,MOVEDOUT,9,14,2020,OOS
+41051,3402157600,Pennington Borough, Mercer County, New Jersey,,MOVEDNET,-9,14,2020,OOS
+41051,3402160900,Princeton, Mercer County, New Jersey,,MOVEDIN,10,14,2020,OOS
+41051,3402160900,Princeton, Mercer County, New Jersey,,MOVEDOUT,26,34,2020,OOS
+41051,3402160900,Princeton, Mercer County, New Jersey,,MOVEDNET,-16,37,2020,OOS
+41051,3301314200,Concord City, Merrimack County, New Hampshire,,MOVEDIN,8,12,2020,OOS
+41051,3301314200,Concord City, Merrimack County, New Hampshire,,MOVEDOUT,0,25,2020,OOS
+41051,3301314200,Concord City, Merrimack County, New Hampshire,,MOVEDNET,8,12,2020,OOS
+41051,2501711000,Cambridge City, Middlesex County, Massachusetts,,MOVEDIN,87,80,2020,OOS
+41051,2501711000,Cambridge City, Middlesex County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,2501711000,Cambridge City, Middlesex County, Massachusetts,,MOVEDNET,87,80,2020,OOS
+41051,3402320230,Edison Township, Middlesex County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3402320230,Edison Township, Middlesex County, New Jersey,,MOVEDOUT,9,14,2020,OOS
+41051,3402320230,Edison Township, Middlesex County, New Jersey,,MOVEDNET,-9,14,2020,OOS
+41051,3402331470,Highland Park Borough, Middlesex County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3402331470,Highland Park Borough, Middlesex County, New Jersey,,MOVEDOUT,147,228,2020,OOS
+41051,3402331470,Highland Park Borough, Middlesex County, New Jersey,,MOVEDNET,-147,228,2020,OOS
+41051,2501735215,Lexington Town, Middlesex County, Massachusetts,,MOVEDIN,7,11,2020,OOS
+41051,2501735215,Lexington Town, Middlesex County, Massachusetts,,MOVEDOUT,0,28,2020,OOS
+41051,2501735215,Lexington Town, Middlesex County, Massachusetts,,MOVEDNET,7,11,2020,OOS
+41051,2501737875,Malden City, Middlesex County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2501737875,Malden City, Middlesex County, Massachusetts,,MOVEDOUT,22,24,2020,OOS
+41051,2501737875,Malden City, Middlesex County, Massachusetts,,MOVEDNET,-22,24,2020,OOS
+41051,2501740115,Melrose City, Middlesex County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2501740115,Melrose City, Middlesex County, Massachusetts,,MOVEDOUT,9,14,2020,OOS
+41051,2501740115,Melrose City, Middlesex County, Massachusetts,,MOVEDNET,-9,14,2020,OOS
+41051,3402351210,New Brunswick City, Middlesex County, New Jersey,,MOVEDIN,21,35,2020,OOS
+41051,3402351210,New Brunswick City, Middlesex County, New Jersey,,MOVEDOUT,0,30,2020,OOS
+41051,3402351210,New Brunswick City, Middlesex County, New Jersey,,MOVEDNET,21,35,2020,OOS
+41051,3402354705,Old Bridge Township, Middlesex County, New Jersey,,MOVEDIN,18,29,2020,OOS
+41051,3402354705,Old Bridge Township, Middlesex County, New Jersey,,MOVEDOUT,0,30,2020,OOS
+41051,3402354705,Old Bridge Township, Middlesex County, New Jersey,,MOVEDNET,18,29,2020,OOS
+41051,0900761800,Portland Town, Middlesex County, Connecticut,,MOVEDIN,2,3,2020,OOS
+41051,0900761800,Portland Town, Middlesex County, Connecticut,,MOVEDOUT,0,18,2020,OOS
+41051,0900761800,Portland Town, Middlesex County, Connecticut,,MOVEDNET,2,3,2020,OOS
+41051,3402365790,Sayreville Borough, Middlesex County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,3402365790,Sayreville Borough, Middlesex County, New Jersey,,MOVEDOUT,9,14,2020,OOS
+41051,3402365790,Sayreville Borough, Middlesex County, New Jersey,,MOVEDNET,-9,14,2020,OOS
+41051,2501762535,Somerville City, Middlesex County, Massachusetts,,MOVEDIN,114,156,2020,OOS
+41051,2501762535,Somerville City, Middlesex County, Massachusetts,,MOVEDOUT,12,14,2020,OOS
+41051,2501762535,Somerville City, Middlesex County, Massachusetts,,MOVEDNET,102,156,2020,OOS
+41051,2501772600,Waltham City, Middlesex County, Massachusetts,,MOVEDIN,25,38,2020,OOS
+41051,2501772600,Waltham City, Middlesex County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,2501772600,Waltham City, Middlesex County, Massachusetts,,MOVEDNET,25,38,2020,OOS
+41051,2501773790,Wayland Town, Middlesex County, Massachusetts,,MOVEDIN,13,21,2020,OOS
+41051,2501773790,Wayland Town, Middlesex County, Massachusetts,,MOVEDOUT,0,21,2020,OOS
+41051,2501773790,Wayland Town, Middlesex County, Massachusetts,,MOVEDNET,13,21,2020,OOS
+41051,2501781035,Woburn City, Middlesex County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2501781035,Woburn City, Middlesex County, Massachusetts,,MOVEDOUT,80,110,2020,OOS
+41051,2501781035,Woburn City, Middlesex County, Massachusetts,,MOVEDNET,-80,110,2020,OOS
+41051,3402382000,Woodbridge Township, Middlesex County, New Jersey,,MOVEDIN,9,15,2020,OOS
+41051,3402382000,Woodbridge Township, Middlesex County, New Jersey,,MOVEDOUT,0,30,2020,OOS
+41051,3402382000,Woodbridge Township, Middlesex County, New Jersey,,MOVEDNET,9,15,2020,OOS
+41051,5507927075,Fox Point Village, Milwaukee County, Wisconsin,,MOVEDIN,16,24,2020,OOS
+41051,5507927075,Fox Point Village, Milwaukee County, Wisconsin,,MOVEDOUT,0,13,2020,OOS
+41051,5507927075,Fox Point Village, Milwaukee County, Wisconsin,,MOVEDNET,16,24,2020,OOS
+41051,5507953000,Milwaukee City, Milwaukee County, Wisconsin,,MOVEDIN,129,102,2020,OOS
+41051,5507953000,Milwaukee City, Milwaukee County, Wisconsin,,MOVEDOUT,53,59,2020,OOS
+41051,5507953000,Milwaukee City, Milwaukee County, Wisconsin,,MOVEDNET,76,94,2020,OOS
+41051,5507984675,Wauwatosa City, Milwaukee County, Wisconsin,,MOVEDIN,4,8,2020,OOS
+41051,5507984675,Wauwatosa City, Milwaukee County, Wisconsin,,MOVEDOUT,42,65,2020,OOS
+41051,5507984675,Wauwatosa City, Milwaukee County, Wisconsin,,MOVEDNET,-38,66,2020,OOS
+41051,3605563000,Rochester City, Monroe County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3605563000,Rochester City, Monroe County, New York,,MOVEDOUT,35,34,2020,OOS
+41051,3605563000,Rochester City, Monroe County, New York,,MOVEDNET,-35,34,2020,OOS
+41051,4209100156,Abington Township, Montgomery County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4209100156,Abington Township, Montgomery County, Pennsylvania,,MOVEDOUT,22,36,2020,OOS
+41051,4209100156,Abington Township, Montgomery County, Pennsylvania,,MOVEDNET,-22,36,2020,OOS
+41051,4209144976,Lower Merion Township, Montgomery County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4209144976,Lower Merion Township, Montgomery County, Pennsylvania,,MOVEDOUT,28,54,2020,OOS
+41051,4209144976,Lower Merion Township, Montgomery County, Pennsylvania,,MOVEDNET,-28,54,2020,OOS
+41051,4209154656,Norristown Borough, Montgomery County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4209154656,Norristown Borough, Montgomery County, Pennsylvania,,MOVEDOUT,41,60,2020,OOS
+41051,4209154656,Norristown Borough, Montgomery County, Pennsylvania,,MOVEDNET,-41,60,2020,OOS
+41051,4209343112,Liberty Township, Montour County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4209343112,Liberty Township, Montour County, Pennsylvania,,MOVEDOUT,5,8,2020,OOS
+41051,4209343112,Liberty Township, Montour County, Pennsylvania,,MOVEDNET,-5,8,2020,OOS
+41051,3402748300,Morristown Town, Morris County, New Jersey,,MOVEDIN,29,46,2020,OOS
+41051,3402748300,Morristown Town, Morris County, New Jersey,,MOVEDOUT,0,20,2020,OOS
+41051,3402748300,Morristown Town, Morris County, New Jersey,,MOVEDNET,29,46,2020,OOS
+41051,2612156320,Muskegon City, Muskegon County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2612156320,Muskegon City, Muskegon County, Michigan,,MOVEDOUT,1,2,2020,OOS
+41051,2612156320,Muskegon City, Muskegon County, Michigan,,MOVEDNET,-1,2,2020,OOS
+41051,2612186780,Whitehall City, Muskegon County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2612186780,Whitehall City, Muskegon County, Michigan,,MOVEDOUT,6,10,2020,OOS
+41051,2612186780,Whitehall City, Muskegon County, Michigan,,MOVEDNET,-6,10,2020,OOS
+41051,0900935650,Hamden Town, New Haven County, Connecticut,,MOVEDIN,24,27,2020,OOS
+41051,0900935650,Hamden Town, New Haven County, Connecticut,,MOVEDOUT,0,30,2020,OOS
+41051,0900935650,Hamden Town, New Haven County, Connecticut,,MOVEDNET,24,27,2020,OOS
+41051,0900978740,Wallingford Town, New Haven County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0900978740,Wallingford Town, New Haven County, Connecticut,,MOVEDOUT,14,23,2020,OOS
+41051,0900978740,Wallingford Town, New Haven County, Connecticut,,MOVEDNET,-14,23,2020,OOS
+41051,0901123400,East Lyme Town, New London County, Connecticut,,MOVEDIN,3,5,2020,OOS
+41051,0901123400,East Lyme Town, New London County, Connecticut,,MOVEDOUT,0,20,2020,OOS
+41051,0901123400,East Lyme Town, New London County, Connecticut,,MOVEDNET,3,5,2020,OOS
+41051,0901134250,Groton Town, New London County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0901134250,Groton Town, New London County, Connecticut,,MOVEDOUT,10,17,2020,OOS
+41051,0901134250,Groton Town, New London County, Connecticut,,MOVEDNET,-10,17,2020,OOS
+41051,0901152350,New London Town, New London County, Connecticut,,MOVEDIN,15,17,2020,OOS
+41051,0901152350,New London Town, New London County, Connecticut,,MOVEDOUT,6,14,2020,OOS
+41051,0901152350,New London Town, New London County, Connecticut,,MOVEDNET,9,23,2020,OOS
+41051,3606144919,Manhattan Borough, New York County, New York,,MOVEDIN,170,194,2020,OOS
+41051,3606144919,Manhattan Borough, New York County, New York,,MOVEDOUT,355,223,2020,OOS
+41051,3606144919,Manhattan Borough, New York County, New York,,MOVEDNET,-185,294,2020,OOS
+41051,2612334360,Grant City, Newaygo County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2612334360,Grant City, Newaygo County, Michigan,,MOVEDOUT,7,14,2020,OOS
+41051,2612334360,Grant City, Newaygo County, Michigan,,MOVEDNET,-7,14,2020,OOS
+41051,2502109175,Brookline Town, Norfolk County, Massachusetts,,MOVEDIN,26,42,2020,OOS
+41051,2502109175,Brookline Town, Norfolk County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,2502109175,Brookline Town, Norfolk County, Massachusetts,,MOVEDNET,26,42,2020,OOS
+41051,2502141690,Milton Town, Norfolk County, Massachusetts,,MOVEDIN,36,63,2020,OOS
+41051,2502141690,Milton Town, Norfolk County, Massachusetts,,MOVEDOUT,0,25,2020,OOS
+41051,2502141690,Milton Town, Norfolk County, Massachusetts,,MOVEDNET,36,63,2020,OOS
+41051,2502155745,Quincy City, Norfolk County, Massachusetts,,MOVEDIN,14,23,2020,OOS
+41051,2502155745,Quincy City, Norfolk County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,2502155745,Quincy City, Norfolk County, Massachusetts,,MOVEDNET,14,23,2020,OOS
+41051,2502160785,Sharon Town, Norfolk County, Massachusetts,,MOVEDIN,40,60,2020,OOS
+41051,2502160785,Sharon Town, Norfolk County, Massachusetts,,MOVEDOUT,0,21,2020,OOS
+41051,2502160785,Sharon Town, Norfolk County, Massachusetts,,MOVEDNET,40,60,2020,OOS
+41051,4209506096,Bethlehem Township, Northampton County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4209506096,Bethlehem Township, Northampton County, Pennsylvania,,MOVEDOUT,57,85,2020,OOS
+41051,4209506096,Bethlehem Township, Northampton County, Pennsylvania,,MOVEDNET,-57,85,2020,OOS
+41051,4209557672,Palmer Township, Northampton County, Pennsylvania,,MOVEDIN,11,18,2020,OOS
+41051,4209557672,Palmer Township, Northampton County, Pennsylvania,,MOVEDOUT,0,20,2020,OOS
+41051,4209557672,Palmer Township, Northampton County, Pennsylvania,,MOVEDNET,11,18,2020,OOS
+41051,4209579184,Upper Mount Bethel Township, Northampton County, Pennsylvania,,MOVEDIN,21,31,2020,OOS
+41051,4209579184,Upper Mount Bethel Township, Northampton County, Pennsylvania,,MOVEDOUT,0,15,2020,OOS
+41051,4209579184,Upper Mount Bethel Township, Northampton County, Pennsylvania,,MOVEDNET,21,31,2020,OOS
+41051,2612537420,Hazel Park City, Oakland County, Michigan,,MOVEDIN,14,22,2020,OOS
+41051,2612537420,Hazel Park City, Oakland County, Michigan,,MOVEDOUT,0,17,2020,OOS
+41051,2612537420,Hazel Park City, Oakland County, Michigan,,MOVEDNET,14,22,2020,OOS
+41051,2612559820,Oakland Charter Township, Oakland County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2612559820,Oakland Charter Township, Oakland County, Michigan,,MOVEDOUT,9,15,2020,OOS
+41051,2612559820,Oakland Charter Township, Oakland County, Michigan,,MOVEDNET,-9,15,2020,OOS
+41051,2612574900,Southfield City, Oakland County, Michigan,,MOVEDIN,16,27,2020,OOS
+41051,2612574900,Southfield City, Oakland County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,2612574900,Southfield City, Oakland County, Michigan,,MOVEDNET,16,27,2020,OOS
+41051,2612574920,Southfield Township, Oakland County, Michigan,,MOVEDIN,19,2,2020,OOS
+41051,2612574920,Southfield Township, Oakland County, Michigan,,MOVEDOUT,0,17,2020,OOS
+41051,2612574920,Southfield Township, Oakland County, Michigan,,MOVEDNET,19,2,2020,OOS
+41051,2612588140,Wixom City, Oakland County, Michigan,,MOVEDIN,9,14,2020,OOS
+41051,2612588140,Wixom City, Oakland County, Michigan,,MOVEDOUT,0,17,2020,OOS
+41051,2612588140,Wixom City, Oakland County, Michigan,,MOVEDNET,9,14,2020,OOS
+41051,2710954880,Rochester City, Olmsted County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2710954880,Rochester City, Olmsted County, Minnesota,,MOVEDOUT,80,123,2020,OOS
+41051,2710954880,Rochester City, Olmsted County, Minnesota,,MOVEDNET,-80,123,2020,OOS
+41051,3606539804,Kirkland Town, Oneida County, New York,,MOVEDIN,14,23,2020,OOS
+41051,3606539804,Kirkland Town, Oneida County, New York,,MOVEDOUT,0,19,2020,OOS
+41051,3606539804,Kirkland Town, Oneida County, New York,,MOVEDNET,14,23,2020,OOS
+41051,3606773000,Syracuse City, Onondaga County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3606773000,Syracuse City, Onondaga County, New York,,MOVEDOUT,61,95,2020,OOS
+41051,3606773000,Syracuse City, Onondaga County, New York,,MOVEDNET,-61,95,2020,OOS
+41051,3607177992,Wallkill Town, Orange County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3607177992,Wallkill Town, Orange County, New York,,MOVEDOUT,19,34,2020,OOS
+41051,3607177992,Wallkill Town, Orange County, New York,,MOVEDNET,-19,34,2020,OOS
+41051,3607178839,Wawayanda Town, Orange County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3607178839,Wawayanda Town, Orange County, New York,,MOVEDOUT,5,7,2020,OOS
+41051,3607178839,Wawayanda Town, Orange County, New York,,MOVEDNET,-5,7,2020,OOS
+41051,3607532028,Hannibal Town, Oswego County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3607532028,Hannibal Town, Oswego County, New York,,MOVEDOUT,2,4,2020,OOS
+41051,3607532028,Hannibal Town, Oswego County, New York,,MOVEDNET,-2,4,2020,OOS
+41051,3607555453,Orwell Town, Oswego County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3607555453,Orwell Town, Oswego County, New York,,MOVEDOUT,1,2,2020,OOS
+41051,3607555453,Orwell Town, Oswego County, New York,,MOVEDNET,-1,2,2020,OOS
+41051,3607555574,Oswego City, Oswego County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3607555574,Oswego City, Oswego County, New York,,MOVEDOUT,1,3,2020,OOS
+41051,3607555574,Oswego City, Oswego County, New York,,MOVEDNET,-1,3,2020,OOS
+41051,5508702375,Appleton City, Outagamie County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5508702375,Appleton City, Outagamie County, Wisconsin,,MOVEDOUT,22,27,2020,OOS
+41051,5508702375,Appleton City, Outagamie County, Wisconsin,,MOVEDNET,-22,27,2020,OOS
+41051,4210160000,Philadelphia City, Philadelphia County, Pennsylvania,,MOVEDIN,155,125,2020,OOS
+41051,4210160000,Philadelphia City, Philadelphia County, Pennsylvania,,MOVEDOUT,197,115,2020,OOS
+41051,4210160000,Philadelphia City, Philadelphia County, Pennsylvania,,MOVEDNET,-42,172,2020,OOS
+41051,2502360330,Scituate Town, Plymouth County, Massachusetts,,MOVEDIN,5,7,2020,OOS
+41051,2502360330,Scituate Town, Plymouth County, Massachusetts,,MOVEDOUT,0,21,2020,OOS
+41051,2502360330,Scituate Town, Plymouth County, Massachusetts,,MOVEDNET,5,7,2020,OOS
+41051,5509501725,Amery City, Polk County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5509501725,Amery City, Polk County, Wisconsin,,MOVEDOUT,5,12,2020,OOS
+41051,5509501725,Amery City, Polk County, Wisconsin,,MOVEDNET,-5,12,2020,OOS
+41051,5509777200,Stevens Point City, Portage County, Wisconsin,,MOVEDIN,1,3,2020,OOS
+41051,5509777200,Stevens Point City, Portage County, Wisconsin,,MOVEDOUT,0,17,2020,OOS
+41051,5509777200,Stevens Point City, Portage County, Wisconsin,,MOVEDNET,1,3,2020,OOS
+41051,4400759000,Providence City, Providence County, Rhode Island,,MOVEDIN,34,40,2020,OOS
+41051,4400759000,Providence City, Providence County, Rhode Island,,MOVEDOUT,6,11,2020,OOS
+41051,4400759000,Providence City, Providence County, Rhode Island,,MOVEDNET,28,41,2020,OOS
+41051,3608160323,Queens Borough, Queens County, New York,,MOVEDIN,285,203,2020,OOS
+41051,3608160323,Queens Borough, Queens County, New York,,MOVEDOUT,35,32,2020,OOS
+41051,3608160323,Queens Borough, Queens County, New York,,MOVEDNET,250,207,2020,OOS
+41051,5510183850,Waterford Town, Racine County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5510183850,Waterford Town, Racine County, Wisconsin,,MOVEDOUT,6,10,2020,OOS
+41051,5510183850,Waterford Town, Racine County, Wisconsin,,MOVEDNET,-6,10,2020,OOS
+41051,2712358000,St. Paul City, Ramsey County, Minnesota,,MOVEDIN,24,36,2020,OOS
+41051,2712358000,St. Paul City, Ramsey County, Minnesota,,MOVEDOUT,69,61,2020,OOS
+41051,2712358000,St. Paul City, Ramsey County, Minnesota,,MOVEDNET,-45,71,2020,OOS
+41051,2713146924,Northfield City, Rice County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2713146924,Northfield City, Rice County, Minnesota,,MOVEDOUT,10,15,2020,OOS
+41051,2713146924,Northfield City, Rice County, Minnesota,,MOVEDNET,-10,15,2020,OOS
+41051,2713344494,Mound Township, Rock County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2713344494,Mound Township, Rock County, Minnesota,,MOVEDOUT,1,3,2020,OOS
+41051,2713344494,Mound Township, Rock County, Minnesota,,MOVEDNET,-1,3,2020,OOS
+41051,3301562900,Portsmouth City, Rockingham County, New Hampshire,,MOVEDIN,0,30,2020,OOS
+41051,3301562900,Portsmouth City, Rockingham County, New Hampshire,,MOVEDOUT,19,29,2020,OOS
+41051,3301562900,Portsmouth City, Rockingham County, New Hampshire,,MOVEDNET,-19,29,2020,OOS
+41051,3301566660,Salem Town, Rockingham County, New Hampshire,,MOVEDIN,0,30,2020,OOS
+41051,3301566660,Salem Town, Rockingham County, New Hampshire,,MOVEDOUT,37,59,2020,OOS
+41051,3301566660,Salem Town, Rockingham County, New Hampshire,,MOVEDNET,-37,59,2020,OOS
+41051,3608755211,Orangetown Town, Rockland County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3608755211,Orangetown Town, Rockland County, New York,,MOVEDOUT,5,10,2020,OOS
+41051,3608755211,Orangetown Town, Rockland County, New York,,MOVEDNET,-5,10,2020,OOS
+41051,2302301570,Arrowsic Town, Sagadahoc County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,2302301570,Arrowsic Town, Sagadahoc County, Maine,,MOVEDOUT,2,3,2020,OOS
+41051,2302301570,Arrowsic Town, Sagadahoc County, Maine,,MOVEDNET,-2,3,2020,OOS
+41051,2713959350,Shakopee City, Scott County, Minnesota,,MOVEDIN,10,16,2020,OOS
+41051,2713959350,Shakopee City, Scott County, Minnesota,,MOVEDOUT,0,20,2020,OOS
+41051,2713959350,Shakopee City, Scott County, Minnesota,,MOVEDNET,10,16,2020,OOS
+41051,5511772975,Sheboygan City, Sheboygan County, Wisconsin,,MOVEDIN,23,36,2020,OOS
+41051,5511772975,Sheboygan City, Sheboygan County, Wisconsin,,MOVEDOUT,0,20,2020,OOS
+41051,5511772975,Sheboygan City, Sheboygan County, Wisconsin,,MOVEDNET,23,36,2020,OOS
+41051,4211112296,Central City Borough, Somerset County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,4211112296,Central City Borough, Somerset County, Pennsylvania,,MOVEDOUT,4,5,2020,OOS
+41051,4211112296,Central City Borough, Somerset County, Pennsylvania,,MOVEDNET,-4,5,2020,OOS
+41051,2614752080,Marysville City, St. Clair County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2614752080,Marysville City, St. Clair County, Michigan,,MOVEDOUT,8,14,2020,OOS
+41051,2614752080,Marysville City, St. Clair County, Michigan,,MOVEDNET,-8,14,2020,OOS
+41051,2614765820,Port Huron City, St. Clair County, Michigan,,MOVEDIN,12,23,2020,OOS
+41051,2614765820,Port Huron City, St. Clair County, Michigan,,MOVEDOUT,0,20,2020,OOS
+41051,2614765820,Port Huron City, St. Clair County, Michigan,,MOVEDNET,12,23,2020,OOS
+41051,2713713528,Cotton Township, St. Louis County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2713713528,Cotton Township, St. Louis County, Minnesota,,MOVEDOUT,1,2,2020,OOS
+41051,2713713528,Cotton Township, St. Louis County, Minnesota,,MOVEDNET,-1,2,2020,OOS
+41051,2713735234,Lakewood Township, St. Louis County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2713735234,Lakewood Township, St. Louis County, Minnesota,,MOVEDOUT,7,10,2020,OOS
+41051,2713735234,Lakewood Township, St. Louis County, Minnesota,,MOVEDNET,-7,10,2020,OOS
+41051,2714944242,Morris City, Stevens County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,2714944242,Morris City, Stevens County, Minnesota,,MOVEDOUT,23,25,2020,OOS
+41051,2714944242,Morris City, Stevens County, Minnesota,,MOVEDNET,-23,25,2020,OOS
+41051,2502507000,Boston City, Suffolk County, Massachusetts,,MOVEDIN,185,141,2020,OOS
+41051,2502507000,Boston City, Suffolk County, Massachusetts,,MOVEDOUT,116,63,2020,OOS
+41051,2502507000,Boston City, Suffolk County, Massachusetts,,MOVEDNET,69,164,2020,OOS
+41051,3610310000,Brookhaven Town, Suffolk County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3610310000,Brookhaven Town, Suffolk County, New York,,MOVEDOUT,6,13,2020,OOS
+41051,3610310000,Brookhaven Town, Suffolk County, New York,,MOVEDNET,-6,13,2020,OOS
+41051,3610337000,Huntington Town, Suffolk County, New York,,MOVEDIN,27,40,2020,OOS
+41051,3610337000,Huntington Town, Suffolk County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,3610337000,Huntington Town, Suffolk County, New York,,MOVEDNET,27,40,2020,OOS
+41051,3610338000,Islip Town, Suffolk County, New York,,MOVEDIN,15,23,2020,OOS
+41051,3610338000,Islip Town, Suffolk County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,3610338000,Islip Town, Suffolk County, New York,,MOVEDNET,15,23,2020,OOS
+41051,0901344910,Mansfield Town, Tolland County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0901344910,Mansfield Town, Tolland County, Connecticut,,MOVEDOUT,7,11,2020,OOS
+41051,0901344910,Mansfield Town, Tolland County, Connecticut,,MOVEDNET,-7,11,2020,OOS
+41051,3610938088,Ithaca Town, Tompkins County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3610938088,Ithaca Town, Tompkins County, New York,,MOVEDOUT,11,16,2020,OOS
+41051,3610938088,Ithaca Town, Tompkins County, New York,,MOVEDNET,-11,16,2020,OOS
+41051,3611522656,Easton Town, Washington County, New York,,MOVEDIN,15,19,2020,OOS
+41051,3611522656,Easton Town, Washington County, New York,,MOVEDOUT,0,12,2020,OOS
+41051,3611522656,Easton Town, Washington County, New York,,MOVEDNET,15,19,2020,OOS
+41051,5002346000,Montpelier City, Washington County, Vermont,,MOVEDIN,36,58,2020,OOS
+41051,5002346000,Montpelier City, Washington County, Vermont,,MOVEDOUT,0,14,2020,OOS
+41051,5002346000,Montpelier City, Washington County, Vermont,,MOVEDNET,36,58,2020,OOS
+41051,2716362824,Stillwater City, Washington County, Minnesota,,MOVEDIN,29,34,2020,OOS
+41051,2716362824,Stillwater City, Washington County, Minnesota,,MOVEDOUT,0,15,2020,OOS
+41051,2716362824,Stillwater City, Washington County, Minnesota,,MOVEDNET,29,34,2020,OOS
+41051,2716362842,Stillwater Township, Washington County, Minnesota,,MOVEDIN,16,27,2020,OOS
+41051,2716362842,Stillwater Township, Washington County, Minnesota,,MOVEDOUT,0,9,2020,OOS
+41051,2716362842,Stillwater Township, Washington County, Minnesota,,MOVEDNET,16,27,2020,OOS
+41051,2616103000,Ann Arbor City, Washtenaw County, Michigan,,MOVEDIN,73,72,2020,OOS
+41051,2616103000,Ann Arbor City, Washtenaw County, Michigan,,MOVEDOUT,197,124,2020,OOS
+41051,2616103000,Ann Arbor City, Washtenaw County, Michigan,,MOVEDNET,-124,134,2020,OOS
+41051,2616149780,Lyndon Township, Washtenaw County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2616149780,Lyndon Township, Washtenaw County, Michigan,,MOVEDOUT,9,13,2020,OOS
+41051,2616149780,Lyndon Township, Washtenaw County, Michigan,,MOVEDNET,-9,13,2020,OOS
+41051,2616189140,Ypsilanti City, Washtenaw County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2616189140,Ypsilanti City, Washtenaw County, Michigan,,MOVEDOUT,10,19,2020,OOS
+41051,2616189140,Ypsilanti City, Washtenaw County, Michigan,,MOVEDNET,-10,19,2020,OOS
+41051,5513319425,Delafield Town, Waukesha County, Wisconsin,,MOVEDIN,2,13,2020,OOS
+41051,5513319425,Delafield Town, Waukesha County, Wisconsin,,MOVEDOUT,0,13,2020,OOS
+41051,5513319425,Delafield Town, Waukesha County, Wisconsin,,MOVEDNET,2,13,2020,OOS
+41051,2616322000,Detroit City, Wayne County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,2616322000,Detroit City, Wayne County, Michigan,,MOVEDOUT,43,44,2020,OOS
+41051,2616322000,Detroit City, Wayne County, Michigan,,MOVEDNET,-43,44,2020,OOS
+41051,2616335580,Grosse Pointe Woods City, Wayne County, Michigan,,MOVEDIN,9,13,2020,OOS
+41051,2616335580,Grosse Pointe Woods City, Wayne County, Michigan,,MOVEDOUT,0,17,2020,OOS
+41051,2616335580,Grosse Pointe Woods City, Wayne County, Michigan,,MOVEDNET,9,13,2020,OOS
+41051,2616359000,Northville Township, Wayne County, Michigan,,MOVEDIN,17,28,2020,OOS
+41051,2616359000,Northville Township, Wayne County, Michigan,,MOVEDOUT,0,20,2020,OOS
+41051,2616359000,Northville Township, Wayne County, Michigan,,MOVEDNET,17,28,2020,OOS
+41051,3611778102,Walworth Town, Wayne County, New York,,MOVEDIN,12,17,2020,OOS
+41051,3611778102,Walworth Town, Wayne County, New York,,MOVEDOUT,0,17,2020,OOS
+41051,3611778102,Walworth Town, Wayne County, New York,,MOVEDNET,12,17,2020,OOS
+41051,2616386000,Westland City, Wayne County, Michigan,,MOVEDIN,16,24,2020,OOS
+41051,2616386000,Westland City, Wayne County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,2616386000,Westland City, Wayne County, Michigan,,MOVEDNET,16,24,2020,OOS
+41051,3611950617,New Rochelle City, Westchester County, New York,,MOVEDIN,0,30,2020,OOS
+41051,3611950617,New Rochelle City, Westchester County, New York,,MOVEDOUT,12,19,2020,OOS
+41051,3611950617,New Rochelle City, Westchester County, New York,,MOVEDNET,-12,19,2020,OOS
+41051,3611964320,Rye Town, Westchester County, New York,,MOVEDIN,12,21,2020,OOS
+41051,3611964320,Rye Town, Westchester County, New York,,MOVEDOUT,0,26,2020,OOS
+41051,3611964320,Rye Town, Westchester County, New York,,MOVEDNET,12,21,2020,OOS
+41051,3611984000,Yonkers City, Westchester County, New York,,MOVEDIN,124,181,2020,OOS
+41051,3611984000,Yonkers City, Westchester County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,3611984000,Yonkers City, Westchester County, New York,,MOVEDNET,124,181,2020,OOS
+41051,0901513810,Chaplin Town, Windham County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,0901513810,Chaplin Town, Windham County, Connecticut,,MOVEDOUT,21,35,2020,OOS
+41051,0901513810,Chaplin Town, Windham County, Connecticut,,MOVEDNET,-21,35,2020,OOS
+41051,5514149675,Marshfield City, Wood County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,5514149675,Marshfield City, Wood County, Wisconsin,,MOVEDOUT,2,10,2020,OOS
+41051,5514149675,Marshfield City, Wood County, Wisconsin,,MOVEDNET,-2,10,2020,OOS
+41051,2502723875,Fitchburg City, Worcester County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2502723875,Fitchburg City, Worcester County, Massachusetts,,MOVEDOUT,9,18,2020,OOS
+41051,2502723875,Fitchburg City, Worcester County, Massachusetts,,MOVEDNET,-9,18,2020,OOS
+41051,2502775015,Westborough Town, Worcester County, Massachusetts,,MOVEDIN,6,14,2020,OOS
+41051,2502775015,Westborough Town, Worcester County, Massachusetts,,MOVEDOUT,0,21,2020,OOS
+41051,2502775015,Westborough Town, Worcester County, Massachusetts,,MOVEDNET,6,14,2020,OOS
+41051,2502782000,Worcester City, Worcester County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,2502782000,Worcester City, Worcester County, Massachusetts,,MOVEDOUT,5,9,2020,OOS
+41051,2502782000,Worcester City, Worcester County, Massachusetts,,MOVEDNET,-5,9,2020,OOS
+41051,16001,,Ada County, Idaho,,MOVEDIN,324,139,2020,OOS
+41051,16001,,Ada County, Idaho,,MOVEDOUT,148,110,2020,OOS
+41051,16001,,Ada County, Idaho,,MOVEDNET,176,168,2020,OOS
+41051,42001,,Adams County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42001,,Adams County, Pennsylvania,,MOVEDOUT,6,10,2020,OOS
+41051,42001,,Adams County, Pennsylvania,,MOVEDNET,-6,10,2020,OOS
+41051,50001,,Addison County, Vermont,,MOVEDIN,0,30,2020,OOS
+41051,50001,,Addison County, Vermont,,MOVEDOUT,21,20,2020,OOS
+41051,50001,,Addison County, Vermont,,MOVEDNET,-21,20,2020,OOS
+41051,12001,,Alachua County, Florida,,MOVEDIN,304,354,2020,OOS
+41051,12001,,Alachua County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12001,,Alachua County, Florida,,MOVEDNET,304,354,2020,OOS
+41051,06001,,Alameda County, California,,MOVEDIN,1044,369,2020,OOS
+41051,06001,,Alameda County, California,,MOVEDOUT,255,108,2020,OOS
+41051,06001,,Alameda County, California,,MOVEDNET,789,378,2020,OOS
+41051,36001,,Albany County, New York,,MOVEDIN,18,30,2020,OOS
+41051,36001,,Albany County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,36001,,Albany County, New York,,MOVEDNET,18,30,2020,OOS
+41051,56001,,Albany County, Wyoming,,MOVEDIN,1,2,2020,OOS
+41051,56001,,Albany County, Wyoming,,MOVEDOUT,0,26,2020,OOS
+41051,56001,,Albany County, Wyoming,,MOVEDNET,1,2,2020,OOS
+41051,51003,,Albemarle County, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51003,,Albemarle County, Virginia,,MOVEDOUT,6,9,2020,OOS
+41051,51003,,Albemarle County, Virginia,,MOVEDNET,-6,9,2020,OOS
+41051,51510,,Alexandria City, Virginia,,MOVEDIN,41,39,2020,OOS
+41051,51510,,Alexandria City, Virginia,,MOVEDOUT,0,30,2020,OOS
+41051,51510,,Alexandria City, Virginia,,MOVEDNET,41,39,2020,OOS
+41051,42003,,Allegheny County, Pennsylvania,,MOVEDIN,64,51,2020,OOS
+41051,42003,,Allegheny County, Pennsylvania,,MOVEDOUT,107,63,2020,OOS
+41051,42003,,Allegheny County, Pennsylvania,,MOVEDNET,-43,87,2020,OOS
+41051,18003,,Allen County, Indiana,,MOVEDIN,26,42,2020,OOS
+41051,18003,,Allen County, Indiana,,MOVEDOUT,152,220,2020,OOS
+41051,18003,,Allen County, Indiana,,MOVEDNET,-126,224,2020,OOS
+41051,02020,,Anchorage Municipality, Alaska,,MOVEDIN,121,113,2020,OOS
+41051,02020,,Anchorage Municipality, Alaska,,MOVEDOUT,17,26,2020,OOS
+41051,02020,,Anchorage Municipality, Alaska,,MOVEDNET,104,113,2020,OOS
+41051,47001,,Anderson County, Tennessee,,MOVEDIN,0,30,2020,OOS
+41051,47001,,Anderson County, Tennessee,,MOVEDOUT,161,225,2020,OOS
+41051,47001,,Anderson County, Tennessee,,MOVEDNET,-161,225,2020,OOS
+41051,08005,,Arapahoe County, Colorado,,MOVEDIN,41,71,2020,OOS
+41051,08005,,Arapahoe County, Colorado,,MOVEDOUT,62,54,2020,OOS
+41051,08005,,Arapahoe County, Colorado,,MOVEDNET,-21,93,2020,OOS
+41051,51013,,Arlington County, Virginia,,MOVEDIN,12,17,2020,OOS
+41051,51013,,Arlington County, Virginia,,MOVEDOUT,32,45,2020,OOS
+41051,51013,,Arlington County, Virginia,,MOVEDNET,-20,46,2020,OOS
+41051,23003,,Aroostook County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,23003,,Aroostook County, Maine,,MOVEDOUT,3,4,2020,OOS
+41051,23003,,Aroostook County, Maine,,MOVEDNET,-3,4,2020,OOS
+41051,55003,,Ashland County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55003,,Ashland County, Wisconsin,,MOVEDOUT,2,3,2020,OOS
+41051,55003,,Ashland County, Wisconsin,,MOVEDNET,-2,3,2020,OOS
+41051,39007,,Ashtabula County, Ohio,,MOVEDIN,3,6,2020,OOS
+41051,39007,,Ashtabula County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39007,,Ashtabula County, Ohio,,MOVEDNET,3,6,2020,OOS
+41051,34001,,Atlantic County, New Jersey,,MOVEDIN,29,46,2020,OOS
+41051,34001,,Atlantic County, New Jersey,,MOVEDOUT,0,30,2020,OOS
+41051,34001,,Atlantic County, New Jersey,,MOVEDNET,29,46,2020,OOS
+41051,48015,,Austin County, Texas,,MOVEDIN,24,39,2020,OOS
+41051,48015,,Austin County, Texas,,MOVEDOUT,0,26,2020,OOS
+41051,48015,,Austin County, Texas,,MOVEDNET,24,39,2020,OOS
+41051,24510,,Baltimore City, Maryland,,MOVEDIN,27,26,2020,OOS
+41051,24510,,Baltimore City, Maryland,,MOVEDOUT,5,9,2020,OOS
+41051,24510,,Baltimore City, Maryland,,MOVEDNET,22,29,2020,OOS
+41051,24005,,Baltimore County, Maryland,,MOVEDIN,29,36,2020,OOS
+41051,24005,,Baltimore County, Maryland,,MOVEDOUT,27,29,2020,OOS
+41051,24005,,Baltimore County, Maryland,,MOVEDNET,2,46,2020,OOS
+41051,16005,,Bannock County, Idaho,,MOVEDIN,22,32,2020,OOS
+41051,16005,,Bannock County, Idaho,,MOVEDOUT,56,47,2020,OOS
+41051,16005,,Bannock County, Idaho,,MOVEDNET,-34,55,2020,OOS
+41051,12005,,Bay County, Florida,,MOVEDIN,9,17,2020,OOS
+41051,12005,,Bay County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12005,,Bay County, Florida,,MOVEDNET,9,17,2020,OOS
+41051,42007,,Beaver County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42007,,Beaver County, Pennsylvania,,MOVEDOUT,2,4,2020,OOS
+41051,42007,,Beaver County, Pennsylvania,,MOVEDNET,-2,4,2020,OOS
+41051,48027,,Bell County, Texas,,MOVEDIN,35,79,2020,OOS
+41051,48027,,Bell County, Texas,,MOVEDOUT,10,16,2020,OOS
+41051,48027,,Bell County, Texas,,MOVEDNET,25,81,2020,OOS
+41051,27007,,Beltrami County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27007,,Beltrami County, Minnesota,,MOVEDOUT,21,33,2020,OOS
+41051,27007,,Beltrami County, Minnesota,,MOVEDNET,-21,33,2020,OOS
+41051,05007,,Benton County, Arkansas,,MOVEDIN,0,30,2020,OOS
+41051,05007,,Benton County, Arkansas,,MOVEDOUT,15,24,2020,OOS
+41051,05007,,Benton County, Arkansas,,MOVEDNET,-15,24,2020,OOS
+41051,53005,,Benton County, Washington,,MOVEDIN,202,101,2020,OOS
+41051,53005,,Benton County, Washington,,MOVEDOUT,72,65,2020,OOS
+41051,53005,,Benton County, Washington,,MOVEDNET,130,121,2020,OOS
+41051,42011,,Berks County, Pennsylvania,,MOVEDIN,13,23,2020,OOS
+41051,42011,,Berks County, Pennsylvania,,MOVEDOUT,0,26,2020,OOS
+41051,42011,,Berks County, Pennsylvania,,MOVEDNET,13,23,2020,OOS
+41051,25003,,Berkshire County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,25003,,Berkshire County, Massachusetts,,MOVEDOUT,13,14,2020,OOS
+41051,25003,,Berkshire County, Massachusetts,,MOVEDNET,-13,14,2020,OOS
+41051,35001,,Bernalillo County, New Mexico,,MOVEDIN,258,127,2020,OOS
+41051,35001,,Bernalillo County, New Mexico,,MOVEDOUT,221,190,2020,OOS
+41051,35001,,Bernalillo County, New Mexico,,MOVEDNET,37,233,2020,OOS
+41051,48029,,Bexar County, Texas,,MOVEDIN,71,71,2020,OOS
+41051,48029,,Bexar County, Texas,,MOVEDOUT,95,130,2020,OOS
+41051,48029,,Bexar County, Texas,,MOVEDNET,-24,148,2020,OOS
+41051,22013,,Bienville Parish, Louisiana,,MOVEDIN,6,9,2020,OOS
+41051,22013,,Bienville Parish, Louisiana,,MOVEDOUT,0,21,2020,OOS
+41051,22013,,Bienville Parish, Louisiana,,MOVEDNET,6,9,2020,OOS
+41051,19013,,Black Hawk County, Iowa,,MOVEDIN,35,33,2020,OOS
+41051,19013,,Black Hawk County, Iowa,,MOVEDOUT,0,23,2020,OOS
+41051,19013,,Black Hawk County, Iowa,,MOVEDNET,35,33,2020,OOS
+41051,16017,,Bonner County, Idaho,,MOVEDIN,9,15,2020,OOS
+41051,16017,,Bonner County, Idaho,,MOVEDOUT,14,18,2020,OOS
+41051,16017,,Bonner County, Idaho,,MOVEDNET,-5,23,2020,OOS
+41051,16019,,Bonneville County, Idaho,,MOVEDIN,75,87,2020,OOS
+41051,16019,,Bonneville County, Idaho,,MOVEDOUT,24,39,2020,OOS
+41051,16019,,Bonneville County, Idaho,,MOVEDNET,51,94,2020,OOS
+41051,18011,,Boone County, Indiana,,MOVEDIN,7,15,2020,OOS
+41051,18011,,Boone County, Indiana,,MOVEDOUT,0,29,2020,OOS
+41051,18011,,Boone County, Indiana,,MOVEDNET,7,15,2020,OOS
+41051,08013,,Boulder County, Colorado,,MOVEDIN,166,104,2020,OOS
+41051,08013,,Boulder County, Colorado,,MOVEDOUT,171,127,2020,OOS
+41051,08013,,Boulder County, Colorado,,MOVEDNET,-5,165,2020,OOS
+41051,49003,,Box Elder County, Utah,,MOVEDIN,0,30,2020,OOS
+41051,49003,,Box Elder County, Utah,,MOVEDOUT,28,42,2020,OOS
+41051,49003,,Box Elder County, Utah,,MOVEDNET,-28,42,2020,OOS
+41051,21019,,Boyd County, Kentucky,,MOVEDIN,0,30,2020,OOS
+41051,21019,,Boyd County, Kentucky,,MOVEDOUT,15,24,2020,OOS
+41051,21019,,Boyd County, Kentucky,,MOVEDNET,-15,24,2020,OOS
+41051,12009,,Brevard County, Florida,,MOVEDIN,40,58,2020,OOS
+41051,12009,,Brevard County, Florida,,MOVEDOUT,13,21,2020,OOS
+41051,12009,,Brevard County, Florida,,MOVEDNET,27,60,2020,OOS
+41051,25005,,Bristol County, Massachusetts,,MOVEDIN,21,25,2020,OOS
+41051,25005,,Bristol County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,25005,,Bristol County, Massachusetts,,MOVEDNET,21,25,2020,OOS
+41051,44001,,Bristol County, Rhode Island,,MOVEDIN,15,25,2020,OOS
+41051,44001,,Bristol County, Rhode Island,,MOVEDOUT,0,29,2020,OOS
+41051,44001,,Bristol County, Rhode Island,,MOVEDNET,15,25,2020,OOS
+41051,36005,,Bronx County, New York,,MOVEDIN,117,116,2020,OOS
+41051,36005,,Bronx County, New York,,MOVEDOUT,71,87,2020,OOS
+41051,36005,,Bronx County, New York,,MOVEDNET,46,145,2020,OOS
+41051,36007,,Broome County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36007,,Broome County, New York,,MOVEDOUT,27,56,2020,OOS
+41051,36007,,Broome County, New York,,MOVEDNET,-27,56,2020,OOS
+41051,12011,,Broward County, Florida,,MOVEDIN,185,121,2020,OOS
+41051,12011,,Broward County, Florida,,MOVEDOUT,302,353,2020,OOS
+41051,12011,,Broward County, Florida,,MOVEDNET,-117,369,2020,OOS
+41051,55009,,Brown County, Wisconsin,,MOVEDIN,6,13,2020,OOS
+41051,55009,,Brown County, Wisconsin,,MOVEDOUT,0,22,2020,OOS
+41051,55009,,Brown County, Wisconsin,,MOVEDNET,6,13,2020,OOS
+41051,42017,,Bucks County, Pennsylvania,,MOVEDIN,32,52,2020,OOS
+41051,42017,,Bucks County, Pennsylvania,,MOVEDOUT,0,26,2020,OOS
+41051,42017,,Bucks County, Pennsylvania,,MOVEDNET,32,52,2020,OOS
+41051,37021,,Buncombe County, North Carolina,,MOVEDIN,40,47,2020,OOS
+41051,37021,,Buncombe County, North Carolina,,MOVEDOUT,37,38,2020,OOS
+41051,37021,,Buncombe County, North Carolina,,MOVEDNET,3,62,2020,OOS
+41051,17011,,Bureau County, Illinois,,MOVEDIN,0,30,2020,OOS
+41051,17011,,Bureau County, Illinois,,MOVEDOUT,2,3,2020,OOS
+41051,17011,,Bureau County, Illinois,,MOVEDNET,-2,3,2020,OOS
+41051,38015,,Burleigh County, North Dakota,,MOVEDIN,9,18,2020,OOS
+41051,38015,,Burleigh County, North Dakota,,MOVEDOUT,0,23,2020,OOS
+41051,38015,,Burleigh County, North Dakota,,MOVEDNET,9,18,2020,OOS
+41051,34005,,Burlington County, New Jersey,,MOVEDIN,0,30,2020,OOS
+41051,34005,,Burlington County, New Jersey,,MOVEDOUT,8,12,2020,OOS
+41051,34005,,Burlington County, New Jersey,,MOVEDNET,-8,12,2020,OOS
+41051,20015,,Butler County, Kansas,,MOVEDIN,12,18,2020,OOS
+41051,20015,,Butler County, Kansas,,MOVEDOUT,0,26,2020,OOS
+41051,20015,,Butler County, Kansas,,MOVEDNET,12,18,2020,OOS
+41051,39017,,Butler County, Ohio,,MOVEDIN,20,25,2020,OOS
+41051,39017,,Butler County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39017,,Butler County, Ohio,,MOVEDNET,20,25,2020,OOS
+41051,06007,,Butte County, California,,MOVEDIN,86,131,2020,OOS
+41051,06007,,Butte County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06007,,Butte County, California,,MOVEDNET,86,131,2020,OOS
+41051,37025,,Cabarrus County, North Carolina,,MOVEDIN,17,20,2020,OOS
+41051,37025,,Cabarrus County, North Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,37025,,Cabarrus County, North Carolina,,MOVEDNET,17,20,2020,OOS
+41051,49005,,Cache County, Utah,,MOVEDIN,0,30,2020,OOS
+41051,49005,,Cache County, Utah,,MOVEDOUT,15,21,2020,OOS
+41051,49005,,Cache County, Utah,,MOVEDNET,-15,21,2020,OOS
+41051,22017,,Caddo Parish, Louisiana,,MOVEDIN,51,62,2020,OOS
+41051,22017,,Caddo Parish, Louisiana,,MOVEDOUT,0,32,2020,OOS
+41051,22017,,Caddo Parish, Louisiana,,MOVEDNET,51,62,2020,OOS
+41051,48061,,Cameron County, Texas,,MOVEDIN,12,21,2020,OOS
+41051,48061,,Cameron County, Texas,,MOVEDOUT,0,33,2020,OOS
+41051,48061,,Cameron County, Texas,,MOVEDNET,12,21,2020,OOS
+41051,21037,,Campbell County, Kentucky,,MOVEDIN,10,20,2020,OOS
+41051,21037,,Campbell County, Kentucky,,MOVEDOUT,18,24,2020,OOS
+41051,21037,,Campbell County, Kentucky,,MOVEDNET,-8,31,2020,OOS
+41051,56005,,Campbell County, Wyoming,,MOVEDIN,18,27,2020,OOS
+41051,56005,,Campbell County, Wyoming,,MOVEDOUT,0,26,2020,OOS
+41051,56005,,Campbell County, Wyoming,,MOVEDNET,18,27,2020,OOS
+41051,16027,,Canyon County, Idaho,,MOVEDIN,0,30,2020,OOS
+41051,16027,,Canyon County, Idaho,,MOVEDOUT,234,159,2020,OOS
+41051,16027,,Canyon County, Idaho,,MOVEDNET,-234,159,2020,OOS
+41051,29031,,Cape Girardeau County, Missouri,,MOVEDIN,0,30,2020,OOS
+41051,29031,,Cape Girardeau County, Missouri,,MOVEDOUT,15,32,2020,OOS
+41051,29031,,Cape Girardeau County, Missouri,,MOVEDNET,-15,32,2020,OOS
+41051,30009,,Carbon County, Montana,,MOVEDIN,15,25,2020,OOS
+41051,30009,,Carbon County, Montana,,MOVEDOUT,0,17,2020,OOS
+41051,30009,,Carbon County, Montana,,MOVEDNET,15,25,2020,OOS
+41051,27017,,Carlton County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27017,,Carlton County, Minnesota,,MOVEDOUT,1,4,2020,OOS
+41051,27017,,Carlton County, Minnesota,,MOVEDNET,-1,4,2020,OOS
+41051,05015,,Carroll County, Arkansas,,MOVEDIN,38,47,2020,OOS
+41051,05015,,Carroll County, Arkansas,,MOVEDOUT,0,23,2020,OOS
+41051,05015,,Carroll County, Arkansas,,MOVEDNET,38,47,2020,OOS
+41051,33003,,Carroll County, New Hampshire,,MOVEDIN,28,31,2020,OOS
+41051,33003,,Carroll County, New Hampshire,,MOVEDOUT,0,25,2020,OOS
+41051,33003,,Carroll County, New Hampshire,,MOVEDNET,28,31,2020,OOS
+41051,51035,,Carroll County, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51035,,Carroll County, Virginia,,MOVEDOUT,39,62,2020,OOS
+41051,51035,,Carroll County, Virginia,,MOVEDNET,-39,62,2020,OOS
+41051,27019,,Carver County, Minnesota,,MOVEDIN,8,13,2020,OOS
+41051,27019,,Carver County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,27019,,Carver County, Minnesota,,MOVEDNET,8,13,2020,OOS
+41051,38017,,Cass County, North Dakota,,MOVEDIN,36,59,2020,OOS
+41051,38017,,Cass County, North Dakota,,MOVEDOUT,232,229,2020,OOS
+41051,38017,,Cass County, North Dakota,,MOVEDNET,-196,236,2020,OOS
+41051,37035,,Catawba County, North Carolina,,MOVEDIN,101,93,2020,OOS
+41051,37035,,Catawba County, North Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,37035,,Catawba County, North Carolina,,MOVEDNET,101,93,2020,OOS
+41051,36009,,Cattaraugus County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36009,,Cattaraugus County, New York,,MOVEDOUT,5,7,2020,OOS
+41051,36009,,Cattaraugus County, New York,,MOVEDNET,-5,7,2020,OOS
+41051,42027,,Centre County, Pennsylvania,,MOVEDIN,119,158,2020,OOS
+41051,42027,,Centre County, Pennsylvania,,MOVEDOUT,106,164,2020,OOS
+41051,42027,,Centre County, Pennsylvania,,MOVEDNET,13,216,2020,OOS
+41051,17019,,Champaign County, Illinois,,MOVEDIN,0,30,2020,OOS
+41051,17019,,Champaign County, Illinois,,MOVEDOUT,18,31,2020,OOS
+41051,17019,,Champaign County, Illinois,,MOVEDNET,-18,31,2020,OOS
+41051,45019,,Charleston County, South Carolina,,MOVEDIN,12,17,2020,OOS
+41051,45019,,Charleston County, South Carolina,,MOVEDOUT,41,62,2020,OOS
+41051,45019,,Charleston County, South Carolina,,MOVEDNET,-29,65,2020,OOS
+41051,12015,,Charlotte County, Florida,,MOVEDIN,0,30,2020,OOS
+41051,12015,,Charlotte County, Florida,,MOVEDOUT,12,21,2020,OOS
+41051,12015,,Charlotte County, Florida,,MOVEDNET,-12,21,2020,OOS
+41051,51540,,Charlottesville City, Virginia,,MOVEDIN,16,26,2020,OOS
+41051,51540,,Charlottesville City, Virginia,,MOVEDOUT,1,2,2020,OOS
+41051,51540,,Charlottesville City, Virginia,,MOVEDNET,15,26,2020,OOS
+41051,13051,,Chatham County, Georgia,,MOVEDIN,0,30,2020,OOS
+41051,13051,,Chatham County, Georgia,,MOVEDOUT,49,74,2020,OOS
+41051,13051,,Chatham County, Georgia,,MOVEDNET,-49,74,2020,OOS
+41051,37037,,Chatham County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37037,,Chatham County, North Carolina,,MOVEDOUT,30,51,2020,OOS
+41051,37037,,Chatham County, North Carolina,,MOVEDNET,-30,51,2020,OOS
+41051,53007,,Chelan County, Washington,,MOVEDIN,53,49,2020,OOS
+41051,53007,,Chelan County, Washington,,MOVEDOUT,0,30,2020,OOS
+41051,53007,,Chelan County, Washington,,MOVEDNET,53,49,2020,OOS
+41051,42029,,Chester County, Pennsylvania,,MOVEDIN,62,75,2020,OOS
+41051,42029,,Chester County, Pennsylvania,,MOVEDOUT,11,17,2020,OOS
+41051,42029,,Chester County, Pennsylvania,,MOVEDNET,51,77,2020,OOS
+41051,51041,,Chesterfield County, Virginia,,MOVEDIN,31,52,2020,OOS
+41051,51041,,Chesterfield County, Virginia,,MOVEDOUT,4,6,2020,OOS
+41051,51041,,Chesterfield County, Virginia,,MOVEDNET,27,52,2020,OOS
+41051,50007,,Chittenden County, Vermont,,MOVEDIN,53,58,2020,OOS
+41051,50007,,Chittenden County, Vermont,,MOVEDOUT,129,110,2020,OOS
+41051,50007,,Chittenden County, Vermont,,MOVEDNET,-76,125,2020,OOS
+41051,02063,,Chugach Census Area, Alaska,,MOVEDIN,0,30,2020,OOS
+41051,02063,,Chugach Census Area, Alaska,,MOVEDOUT,36,44,2020,OOS
+41051,02063,,Chugach Census Area, Alaska,,MOVEDNET,-36,44,2020,OOS
+41051,32001,,Churchill County, Nevada,,MOVEDIN,0,30,2020,OOS
+41051,32001,,Churchill County, Nevada,,MOVEDOUT,2,5,2020,OOS
+41051,32001,,Churchill County, Nevada,,MOVEDNET,-2,5,2020,OOS
+41051,53009,,Clallam County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53009,,Clallam County, Washington,,MOVEDOUT,53,44,2020,OOS
+41051,53009,,Clallam County, Washington,,MOVEDNET,-53,44,2020,OOS
+41051,42031,,Clarion County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42031,,Clarion County, Pennsylvania,,MOVEDOUT,4,5,2020,OOS
+41051,42031,,Clarion County, Pennsylvania,,MOVEDNET,-4,5,2020,OOS
+41051,32003,,Clark County, Nevada,,MOVEDIN,189,116,2020,OOS
+41051,32003,,Clark County, Nevada,,MOVEDOUT,279,110,2020,OOS
+41051,32003,,Clark County, Nevada,,MOVEDNET,-90,150,2020,OOS
+41051,53011,,Clark County, Washington,,MOVEDIN,2375,452,2020,OOS
+41051,53011,,Clark County, Washington,,MOVEDOUT,5403,773,2020,OOS
+41051,53011,,Clark County, Washington,,MOVEDNET,-3028,921,2020,OOS
+41051,13059,,Clarke County, Georgia,,MOVEDIN,0,30,2020,OOS
+41051,13059,,Clarke County, Georgia,,MOVEDOUT,57,90,2020,OOS
+41051,13059,,Clarke County, Georgia,,MOVEDNET,-57,90,2020,OOS
+41051,08019,,Clear Creek County, Colorado,,MOVEDIN,16,18,2020,OOS
+41051,08019,,Clear Creek County, Colorado,,MOVEDOUT,0,17,2020,OOS
+41051,08019,,Clear Creek County, Colorado,,MOVEDNET,16,18,2020,OOS
+41051,40027,,Cleveland County, Oklahoma,,MOVEDIN,16,23,2020,OOS
+41051,40027,,Cleveland County, Oklahoma,,MOVEDOUT,17,29,2020,OOS
+41051,40027,,Cleveland County, Oklahoma,,MOVEDNET,-1,37,2020,OOS
+41051,28027,,Coahoma County, Mississippi,,MOVEDIN,125,168,2020,OOS
+41051,28027,,Coahoma County, Mississippi,,MOVEDOUT,0,25,2020,OOS
+41051,28027,,Coahoma County, Mississippi,,MOVEDNET,125,168,2020,OOS
+41051,13067,,Cobb County, Georgia,,MOVEDIN,16,24,2020,OOS
+41051,13067,,Cobb County, Georgia,,MOVEDOUT,48,75,2020,OOS
+41051,13067,,Cobb County, Georgia,,MOVEDNET,-32,78,2020,OOS
+41051,04005,,Coconino County, Arizona,,MOVEDIN,26,40,2020,OOS
+41051,04005,,Coconino County, Arizona,,MOVEDOUT,14,22,2020,OOS
+41051,04005,,Coconino County, Arizona,,MOVEDNET,12,47,2020,OOS
+41051,12021,,Collier County, Florida,,MOVEDIN,0,30,2020,OOS
+41051,12021,,Collier County, Florida,,MOVEDOUT,10,14,2020,OOS
+41051,12021,,Collier County, Florida,,MOVEDNET,-10,14,2020,OOS
+41051,48085,,Collin County, Texas,,MOVEDIN,33,53,2020,OOS
+41051,48085,,Collin County, Texas,,MOVEDOUT,154,224,2020,OOS
+41051,48085,,Collin County, Texas,,MOVEDNET,-121,231,2020,OOS
+41051,53013,,Columbia County, Washington,,MOVEDIN,12,20,2020,OOS
+41051,53013,,Columbia County, Washington,,MOVEDOUT,0,13,2020,OOS
+41051,53013,,Columbia County, Washington,,MOVEDNET,12,20,2020,OOS
+41051,06013,,Contra Costa County, California,,MOVEDIN,136,91,2020,OOS
+41051,06013,,Contra Costa County, California,,MOVEDOUT,211,164,2020,OOS
+41051,06013,,Contra Costa County, California,,MOVEDNET,-75,185,2020,OOS
+41051,17031,,Cook County, Illinois,,MOVEDIN,355,135,2020,OOS
+41051,17031,,Cook County, Illinois,,MOVEDOUT,293,124,2020,OOS
+41051,17031,,Cook County, Illinois,,MOVEDNET,62,185,2020,OOS
+41051,53015,,Cowlitz County, Washington,,MOVEDIN,52,46,2020,OOS
+41051,53015,,Cowlitz County, Washington,,MOVEDOUT,497,192,2020,OOS
+41051,53015,,Cowlitz County, Washington,,MOVEDNET,-445,202,2020,OOS
+41051,05033,,Crawford County, Arkansas,,MOVEDIN,12,18,2020,OOS
+41051,05033,,Crawford County, Arkansas,,MOVEDOUT,0,29,2020,OOS
+41051,05033,,Crawford County, Arkansas,,MOVEDNET,12,18,2020,OOS
+41051,23005,,Cumberland County, Maine,,MOVEDIN,94,88,2020,OOS
+41051,23005,,Cumberland County, Maine,,MOVEDOUT,38,43,2020,OOS
+41051,23005,,Cumberland County, Maine,,MOVEDNET,56,98,2020,OOS
+41051,37051,,Cumberland County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37051,,Cumberland County, North Carolina,,MOVEDOUT,1,2,2020,OOS
+41051,37051,,Cumberland County, North Carolina,,MOVEDNET,-1,2,2020,OOS
+41051,37053,,Currituck County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37053,,Currituck County, North Carolina,,MOVEDOUT,14,23,2020,OOS
+41051,37053,,Currituck County, North Carolina,,MOVEDNET,-14,23,2020,OOS
+41051,39035,,Cuyahoga County, Ohio,,MOVEDIN,34,49,2020,OOS
+41051,39035,,Cuyahoga County, Ohio,,MOVEDOUT,220,92,2020,OOS
+41051,39035,,Cuyahoga County, Ohio,,MOVEDNET,-186,101,2020,OOS
+41051,27037,,Dakota County, Minnesota,,MOVEDIN,87,90,2020,OOS
+41051,27037,,Dakota County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,27037,,Dakota County, Minnesota,,MOVEDNET,87,90,2020,OOS
+41051,19049,,Dallas County, Iowa,,MOVEDIN,11,18,2020,OOS
+41051,19049,,Dallas County, Iowa,,MOVEDOUT,0,23,2020,OOS
+41051,19049,,Dallas County, Iowa,,MOVEDNET,11,18,2020,OOS
+41051,48113,,Dallas County, Texas,,MOVEDIN,197,119,2020,OOS
+41051,48113,,Dallas County, Texas,,MOVEDOUT,273,241,2020,OOS
+41051,48113,,Dallas County, Texas,,MOVEDNET,-76,282,2020,OOS
+41051,55025,,Dane County, Wisconsin,,MOVEDIN,59,41,2020,OOS
+41051,55025,,Dane County, Wisconsin,,MOVEDOUT,65,58,2020,OOS
+41051,55025,,Dane County, Wisconsin,,MOVEDNET,-6,73,2020,OOS
+41051,51590,,Danville City, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51590,,Danville City, Virginia,,MOVEDOUT,7,11,2020,OOS
+41051,51590,,Danville City, Virginia,,MOVEDNET,-7,11,2020,OOS
+41051,37055,,Dare County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37055,,Dare County, North Carolina,,MOVEDOUT,1,2,2020,OOS
+41051,37055,,Dare County, North Carolina,,MOVEDNET,-1,2,2020,OOS
+41051,47037,,Davidson County, Tennessee,,MOVEDIN,18,31,2020,OOS
+41051,47037,,Davidson County, Tennessee,,MOVEDOUT,133,77,2020,OOS
+41051,47037,,Davidson County, Tennessee,,MOVEDNET,-115,86,2020,OOS
+41051,49011,,Davis County, Utah,,MOVEDIN,0,30,2020,OOS
+41051,49011,,Davis County, Utah,,MOVEDOUT,15,19,2020,OOS
+41051,49011,,Davis County, Utah,,MOVEDNET,-15,19,2020,OOS
+41051,13089,,DeKalb County, Georgia,,MOVEDIN,9,13,2020,OOS
+41051,13089,,DeKalb County, Georgia,,MOVEDOUT,227,253,2020,OOS
+41051,13089,,DeKalb County, Georgia,,MOVEDNET,-218,254,2020,OOS
+41051,06015,,Del Norte County, California,,MOVEDIN,0,30,2020,OOS
+41051,06015,,Del Norte County, California,,MOVEDOUT,6,9,2020,OOS
+41051,06015,,Del Norte County, California,,MOVEDNET,-6,9,2020,OOS
+41051,42045,,Delaware County, Pennsylvania,,MOVEDIN,56,68,2020,OOS
+41051,42045,,Delaware County, Pennsylvania,,MOVEDOUT,65,92,2020,OOS
+41051,42045,,Delaware County, Pennsylvania,,MOVEDNET,-9,112,2020,OOS
+41051,48121,,Denton County, Texas,,MOVEDIN,45,46,2020,OOS
+41051,48121,,Denton County, Texas,,MOVEDOUT,181,282,2020,OOS
+41051,48121,,Denton County, Texas,,MOVEDNET,-136,279,2020,OOS
+41051,08031,,Denver County, Colorado,,MOVEDIN,148,94,2020,OOS
+41051,08031,,Denver County, Colorado,,MOVEDOUT,165,108,2020,OOS
+41051,08031,,Denver County, Colorado,,MOVEDNET,-17,151,2020,OOS
+41051,48123,,DeWitt County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48123,,DeWitt County, Texas,,MOVEDOUT,7,11,2020,OOS
+41051,48123,,DeWitt County, Texas,,MOVEDNET,-7,11,2020,OOS
+41051,48125,,Dickens County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48125,,Dickens County, Texas,,MOVEDOUT,33,47,2020,OOS
+41051,48125,,Dickens County, Texas,,MOVEDNET,-33,47,2020,OOS
+41051,45033,,Dillon County, South Carolina,,MOVEDIN,26,42,2020,OOS
+41051,45033,,Dillon County, South Carolina,,MOVEDOUT,0,28,2020,OOS
+41051,45033,,Dillon County, South Carolina,,MOVEDNET,26,42,2020,OOS
+41051,11001,,District of Columbia, District of Columbia,,MOVEDIN,149,79,2020,OOS
+41051,11001,,District of Columbia, District of Columbia,,MOVEDOUT,26,26,2020,OOS
+41051,11001,,District of Columbia, District of Columbia,,MOVEDNET,123,81,2020,OOS
+41051,35013,,Doña Ana County, New Mexico,,MOVEDIN,0,30,2020,OOS
+41051,35013,,Doña Ana County, New Mexico,,MOVEDOUT,9,14,2020,OOS
+41051,35013,,Doña Ana County, New Mexico,,MOVEDNET,-9,14,2020,OOS
+41051,55027,,Dodge County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55027,,Dodge County, Wisconsin,,MOVEDOUT,4,6,2020,OOS
+41051,55027,,Dodge County, Wisconsin,,MOVEDNET,-4,6,2020,OOS
+41051,08035,,Douglas County, Colorado,,MOVEDIN,0,30,2020,OOS
+41051,08035,,Douglas County, Colorado,,MOVEDOUT,48,62,2020,OOS
+41051,08035,,Douglas County, Colorado,,MOVEDNET,-48,62,2020,OOS
+41051,20045,,Douglas County, Kansas,,MOVEDIN,40,36,2020,OOS
+41051,20045,,Douglas County, Kansas,,MOVEDOUT,11,21,2020,OOS
+41051,20045,,Douglas County, Kansas,,MOVEDNET,29,41,2020,OOS
+41051,31055,,Douglas County, Nebraska,,MOVEDIN,0,30,2020,OOS
+41051,31055,,Douglas County, Nebraska,,MOVEDOUT,65,80,2020,OOS
+41051,31055,,Douglas County, Nebraska,,MOVEDNET,-65,80,2020,OOS
+41051,32005,,Douglas County, Nevada,,MOVEDIN,6,12,2020,OOS
+41051,32005,,Douglas County, Nevada,,MOVEDOUT,0,28,2020,OOS
+41051,32005,,Douglas County, Nevada,,MOVEDNET,6,12,2020,OOS
+41051,53017,,Douglas County, Washington,,MOVEDIN,15,24,2020,OOS
+41051,53017,,Douglas County, Washington,,MOVEDOUT,0,27,2020,OOS
+41051,53017,,Douglas County, Washington,,MOVEDNET,15,24,2020,OOS
+41051,49013,,Duchesne County, Utah,,MOVEDIN,0,30,2020,OOS
+41051,49013,,Duchesne County, Utah,,MOVEDOUT,8,9,2020,OOS
+41051,49013,,Duchesne County, Utah,,MOVEDNET,-8,9,2020,OOS
+41051,25007,,Dukes County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,25007,,Dukes County, Massachusetts,,MOVEDOUT,8,12,2020,OOS
+41051,25007,,Dukes County, Massachusetts,,MOVEDNET,-8,12,2020,OOS
+41051,17043,,DuPage County, Illinois,,MOVEDIN,37,37,2020,OOS
+41051,17043,,DuPage County, Illinois,,MOVEDOUT,50,54,2020,OOS
+41051,17043,,DuPage County, Illinois,,MOVEDNET,-13,68,2020,OOS
+41051,37063,,Durham County, North Carolina,,MOVEDIN,23,34,2020,OOS
+41051,37063,,Durham County, North Carolina,,MOVEDOUT,79,80,2020,OOS
+41051,37063,,Durham County, North Carolina,,MOVEDNET,-56,85,2020,OOS
+41051,36027,,Dutchess County, New York,,MOVEDIN,25,30,2020,OOS
+41051,36027,,Dutchess County, New York,,MOVEDOUT,34,38,2020,OOS
+41051,36027,,Dutchess County, New York,,MOVEDNET,-9,50,2020,OOS
+41051,12031,,Duval County, Florida,,MOVEDIN,20,31,2020,OOS
+41051,12031,,Duval County, Florida,,MOVEDOUT,13,21,2020,OOS
+41051,12031,,Duval County, Florida,,MOVEDNET,7,38,2020,OOS
+41051,08037,,Eagle County, Colorado,,MOVEDIN,31,30,2020,OOS
+41051,08037,,Eagle County, Colorado,,MOVEDOUT,0,29,2020,OOS
+41051,08037,,Eagle County, Colorado,,MOVEDNET,31,30,2020,OOS
+41051,22033,,East Baton Rouge Parish, Louisiana,,MOVEDIN,23,34,2020,OOS
+41051,22033,,East Baton Rouge Parish, Louisiana,,MOVEDOUT,0,32,2020,OOS
+41051,22033,,East Baton Rouge Parish, Louisiana,,MOVEDNET,23,34,2020,OOS
+41051,06017,,El Dorado County, California,,MOVEDIN,58,78,2020,OOS
+41051,06017,,El Dorado County, California,,MOVEDOUT,21,24,2020,OOS
+41051,06017,,El Dorado County, California,,MOVEDNET,37,83,2020,OOS
+41051,08041,,El Paso County, Colorado,,MOVEDIN,28,27,2020,OOS
+41051,08041,,El Paso County, Colorado,,MOVEDOUT,215,154,2020,OOS
+41051,08041,,El Paso County, Colorado,,MOVEDNET,-187,158,2020,OOS
+41051,18039,,Elkhart County, Indiana,,MOVEDIN,0,30,2020,OOS
+41051,18039,,Elkhart County, Indiana,,MOVEDOUT,1,4,2020,OOS
+41051,18039,,Elkhart County, Indiana,,MOVEDNET,-1,4,2020,OOS
+41051,16039,,Elmore County, Idaho,,MOVEDIN,0,30,2020,OOS
+41051,16039,,Elmore County, Idaho,,MOVEDOUT,8,13,2020,OOS
+41051,16039,,Elmore County, Idaho,,MOVEDNET,-8,13,2020,OOS
+41051,36029,,Erie County, New York,,MOVEDIN,98,100,2020,OOS
+41051,36029,,Erie County, New York,,MOVEDOUT,18,29,2020,OOS
+41051,36029,,Erie County, New York,,MOVEDNET,80,104,2020,OOS
+41051,39043,,Erie County, Ohio,,MOVEDIN,0,30,2020,OOS
+41051,39043,,Erie County, Ohio,,MOVEDOUT,5,10,2020,OOS
+41051,39043,,Erie County, Ohio,,MOVEDNET,-5,10,2020,OOS
+41051,42049,,Erie County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42049,,Erie County, Pennsylvania,,MOVEDOUT,25,41,2020,OOS
+41051,42049,,Erie County, Pennsylvania,,MOVEDNET,-25,41,2020,OOS
+41051,12033,,Escambia County, Florida,,MOVEDIN,5,10,2020,OOS
+41051,12033,,Escambia County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12033,,Escambia County, Florida,,MOVEDNET,5,10,2020,OOS
+41051,32009,,Esmeralda County, Nevada,,MOVEDIN,0,30,2020,OOS
+41051,32009,,Esmeralda County, Nevada,,MOVEDOUT,5,6,2020,OOS
+41051,32009,,Esmeralda County, Nevada,,MOVEDNET,-5,6,2020,OOS
+41051,34013,,Essex County, New Jersey,,MOVEDIN,13,20,2020,OOS
+41051,34013,,Essex County, New Jersey,,MOVEDOUT,50,67,2020,OOS
+41051,34013,,Essex County, New Jersey,,MOVEDNET,-37,69,2020,OOS
+41051,02090,,Fairbanks North Star Borough, Alaska,,MOVEDIN,32,35,2020,OOS
+41051,02090,,Fairbanks North Star Borough, Alaska,,MOVEDOUT,33,37,2020,OOS
+41051,02090,,Fairbanks North Star Borough, Alaska,,MOVEDNET,-1,51,2020,OOS
+41051,51059,,Fairfax County, Virginia,,MOVEDIN,100,66,2020,OOS
+41051,51059,,Fairfax County, Virginia,,MOVEDOUT,25,30,2020,OOS
+41051,51059,,Fairfax County, Virginia,,MOVEDNET,75,67,2020,OOS
+41051,09001,,Fairfield County, Connecticut,,MOVEDIN,70,109,2020,OOS
+41051,09001,,Fairfield County, Connecticut,,MOVEDOUT,0,30,2020,OOS
+41051,09001,,Fairfield County, Connecticut,,MOVEDNET,70,109,2020,OOS
+41051,51610,,Falls Church City, Virginia,,MOVEDIN,11,17,2020,OOS
+41051,51610,,Falls Church City, Virginia,,MOVEDOUT,0,20,2020,OOS
+41051,51610,,Falls Church City, Virginia,,MOVEDNET,11,17,2020,OOS
+41051,21067,,Fayette County, Kentucky,,MOVEDIN,4,7,2020,OOS
+41051,21067,,Fayette County, Kentucky,,MOVEDOUT,13,18,2020,OOS
+41051,21067,,Fayette County, Kentucky,,MOVEDNET,-9,19,2020,OOS
+41051,42051,,Fayette County, Pennsylvania,,MOVEDIN,9,15,2020,OOS
+41051,42051,,Fayette County, Pennsylvania,,MOVEDOUT,0,26,2020,OOS
+41051,42051,,Fayette County, Pennsylvania,,MOVEDNET,9,15,2020,OOS
+41051,53019,,Ferry County, Washington,,MOVEDIN,39,60,2020,OOS
+41051,53019,,Ferry County, Washington,,MOVEDOUT,0,18,2020,OOS
+41051,53019,,Ferry County, Washington,,MOVEDNET,39,60,2020,OOS
+41051,30029,,Flathead County, Montana,,MOVEDIN,22,33,2020,OOS
+41051,30029,,Flathead County, Montana,,MOVEDOUT,0,26,2020,OOS
+41051,30029,,Flathead County, Montana,,MOVEDNET,22,33,2020,OOS
+41051,28035,,Forrest County, Mississippi,,MOVEDIN,0,30,2020,OOS
+41051,28035,,Forrest County, Mississippi,,MOVEDOUT,81,93,2020,OOS
+41051,28035,,Forrest County, Mississippi,,MOVEDNET,-81,93,2020,OOS
+41051,37067,,Forsyth County, North Carolina,,MOVEDIN,62,74,2020,OOS
+41051,37067,,Forsyth County, North Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,37067,,Forsyth County, North Carolina,,MOVEDNET,62,74,2020,OOS
+41051,48157,,Fort Bend County, Texas,,MOVEDIN,380,562,2020,OOS
+41051,48157,,Fort Bend County, Texas,,MOVEDOUT,0,33,2020,OOS
+41051,48157,,Fort Bend County, Texas,,MOVEDNET,380,562,2020,OOS
+41051,39049,,Franklin County, Ohio,,MOVEDIN,51,58,2020,OOS
+41051,39049,,Franklin County, Ohio,,MOVEDOUT,52,77,2020,OOS
+41051,39049,,Franklin County, Ohio,,MOVEDNET,-1,94,2020,OOS
+41051,51067,,Franklin County, Virginia,,MOVEDIN,21,31,2020,OOS
+41051,51067,,Franklin County, Virginia,,MOVEDOUT,0,30,2020,OOS
+41051,51067,,Franklin County, Virginia,,MOVEDNET,21,31,2020,OOS
+41051,53021,,Franklin County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53021,,Franklin County, Washington,,MOVEDOUT,241,196,2020,OOS
+41051,53021,,Franklin County, Washington,,MOVEDNET,-241,196,2020,OOS
+41051,24021,,Frederick County, Maryland,,MOVEDIN,0,30,2020,OOS
+41051,24021,,Frederick County, Maryland,,MOVEDOUT,19,34,2020,OOS
+41051,24021,,Frederick County, Maryland,,MOVEDNET,-19,34,2020,OOS
+41051,56013,,Fremont County, Wyoming,,MOVEDIN,0,30,2020,OOS
+41051,56013,,Fremont County, Wyoming,,MOVEDOUT,1,3,2020,OOS
+41051,56013,,Fremont County, Wyoming,,MOVEDNET,-1,3,2020,OOS
+41051,06019,,Fresno County, California,,MOVEDIN,209,208,2020,OOS
+41051,06019,,Fresno County, California,,MOVEDOUT,54,62,2020,OOS
+41051,06019,,Fresno County, California,,MOVEDNET,155,213,2020,OOS
+41051,13121,,Fulton County, Georgia,,MOVEDIN,52,41,2020,OOS
+41051,13121,,Fulton County, Georgia,,MOVEDOUT,119,114,2020,OOS
+41051,13121,,Fulton County, Georgia,,MOVEDNET,-67,117,2020,OOS
+41051,30031,,Gallatin County, Montana,,MOVEDIN,74,49,2020,OOS
+41051,30031,,Gallatin County, Montana,,MOVEDOUT,10,13,2020,OOS
+41051,30031,,Gallatin County, Montana,,MOVEDNET,64,50,2020,OOS
+41051,48169,,Garza County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48169,,Garza County, Texas,,MOVEDOUT,6,10,2020,OOS
+41051,48169,,Garza County, Texas,,MOVEDNET,-6,10,2020,OOS
+41051,37071,,Gaston County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37071,,Gaston County, North Carolina,,MOVEDOUT,84,130,2020,OOS
+41051,37071,,Gaston County, North Carolina,,MOVEDNET,-84,130,2020,OOS
+41051,39055,,Geauga County, Ohio,,MOVEDIN,26,38,2020,OOS
+41051,39055,,Geauga County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39055,,Geauga County, Ohio,,MOVEDNET,26,38,2020,OOS
+41051,36037,,Genesee County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36037,,Genesee County, New York,,MOVEDOUT,28,38,2020,OOS
+41051,36037,,Genesee County, New York,,MOVEDNET,-28,38,2020,OOS
+41051,38035,,Grand Forks County, North Dakota,,MOVEDIN,0,30,2020,OOS
+41051,38035,,Grand Forks County, North Dakota,,MOVEDOUT,4,10,2020,OOS
+41051,38035,,Grand Forks County, North Dakota,,MOVEDNET,-4,10,2020,OOS
+41051,26055,,Grand Traverse County, Michigan,,MOVEDIN,54,60,2020,OOS
+41051,26055,,Grand Traverse County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,26055,,Grand Traverse County, Michigan,,MOVEDNET,54,60,2020,OOS
+41051,35017,,Grant County, New Mexico,,MOVEDIN,0,30,2020,OOS
+41051,35017,,Grant County, New Mexico,,MOVEDOUT,13,20,2020,OOS
+41051,35017,,Grant County, New Mexico,,MOVEDNET,-13,20,2020,OOS
+41051,53025,,Grant County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53025,,Grant County, Washington,,MOVEDOUT,9,10,2020,OOS
+41051,53025,,Grant County, Washington,,MOVEDNET,-9,10,2020,OOS
+41051,21083,,Graves County, Kentucky,,MOVEDIN,0,30,2020,OOS
+41051,21083,,Graves County, Kentucky,,MOVEDOUT,6,10,2020,OOS
+41051,21083,,Graves County, Kentucky,,MOVEDNET,-6,10,2020,OOS
+41051,53027,,Grays Harbor County, Washington,,MOVEDIN,35,50,2020,OOS
+41051,53027,,Grays Harbor County, Washington,,MOVEDOUT,33,41,2020,OOS
+41051,53027,,Grays Harbor County, Washington,,MOVEDNET,2,65,2020,OOS
+41051,45045,,Greenville County, South Carolina,,MOVEDIN,15,23,2020,OOS
+41051,45045,,Greenville County, South Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,45045,,Greenville County, South Carolina,,MOVEDNET,15,23,2020,OOS
+41051,37081,,Guilford County, North Carolina,,MOVEDIN,24,38,2020,OOS
+41051,37081,,Guilford County, North Carolina,,MOVEDOUT,100,92,2020,OOS
+41051,37081,,Guilford County, North Carolina,,MOVEDNET,-76,98,2020,OOS
+41051,13135,,Gwinnett County, Georgia,,MOVEDIN,46,45,2020,OOS
+41051,13135,,Gwinnett County, Georgia,,MOVEDOUT,5,9,2020,OOS
+41051,13135,,Gwinnett County, Georgia,,MOVEDNET,41,46,2020,OOS
+41051,39061,,Hamilton County, Ohio,,MOVEDIN,27,43,2020,OOS
+41051,39061,,Hamilton County, Ohio,,MOVEDOUT,5,9,2020,OOS
+41051,39061,,Hamilton County, Ohio,,MOVEDNET,22,44,2020,OOS
+41051,47065,,Hamilton County, Tennessee,,MOVEDIN,0,30,2020,OOS
+41051,47065,,Hamilton County, Tennessee,,MOVEDOUT,21,37,2020,OOS
+41051,47065,,Hamilton County, Tennessee,,MOVEDNET,-21,37,2020,OOS
+41051,25015,,Hampshire County, Massachusetts,,MOVEDIN,0,30,2020,OOS
+41051,25015,,Hampshire County, Massachusetts,,MOVEDOUT,17,29,2020,OOS
+41051,25015,,Hampshire County, Massachusetts,,MOVEDNET,-17,29,2020,OOS
+41051,39063,,Hancock County, Ohio,,MOVEDIN,0,30,2020,OOS
+41051,39063,,Hancock County, Ohio,,MOVEDOUT,2,3,2020,OOS
+41051,39063,,Hancock County, Ohio,,MOVEDNET,-2,3,2020,OOS
+41051,21093,,Hardin County, Kentucky,,MOVEDIN,0,30,2020,OOS
+41051,21093,,Hardin County, Kentucky,,MOVEDOUT,29,41,2020,OOS
+41051,21093,,Hardin County, Kentucky,,MOVEDNET,-29,41,2020,OOS
+41051,24025,,Harford County, Maryland,,MOVEDIN,10,17,2020,OOS
+41051,24025,,Harford County, Maryland,,MOVEDOUT,0,30,2020,OOS
+41051,24025,,Harford County, Maryland,,MOVEDNET,10,17,2020,OOS
+41051,48201,,Harris County, Texas,,MOVEDIN,47,59,2020,OOS
+41051,48201,,Harris County, Texas,,MOVEDOUT,13,21,2020,OOS
+41051,48201,,Harris County, Texas,,MOVEDNET,34,62,2020,OOS
+41051,51660,,Harrisonburg City, Virginia,,MOVEDIN,121,183,2020,OOS
+41051,51660,,Harrisonburg City, Virginia,,MOVEDOUT,0,30,2020,OOS
+41051,51660,,Harrisonburg City, Virginia,,MOVEDNET,121,183,2020,OOS
+41051,09003,,Hartford County, Connecticut,,MOVEDIN,23,29,2020,OOS
+41051,09003,,Hartford County, Connecticut,,MOVEDOUT,65,72,2020,OOS
+41051,09003,,Hartford County, Connecticut,,MOVEDNET,-42,77,2020,OOS
+41051,15001,,Hawaii County, Hawaii,,MOVEDIN,52,36,2020,OOS
+41051,15001,,Hawaii County, Hawaii,,MOVEDOUT,12,19,2020,OOS
+41051,15001,,Hawaii County, Hawaii,,MOVEDNET,40,41,2020,OOS
+41051,37089,,Henderson County, North Carolina,,MOVEDIN,11,21,2020,OOS
+41051,37089,,Henderson County, North Carolina,,MOVEDOUT,17,27,2020,OOS
+41051,37089,,Henderson County, North Carolina,,MOVEDNET,-6,34,2020,OOS
+41051,27053,,Hennepin County, Minnesota,,MOVEDIN,158,91,2020,OOS
+41051,27053,,Hennepin County, Minnesota,,MOVEDOUT,103,64,2020,OOS
+41051,27053,,Hennepin County, Minnesota,,MOVEDNET,55,114,2020,OOS
+41051,51087,,Henrico County, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51087,,Henrico County, Virginia,,MOVEDOUT,8,14,2020,OOS
+41051,51087,,Henrico County, Virginia,,MOVEDNET,-8,14,2020,OOS
+41051,17073,,Henry County, Illinois,,MOVEDIN,28,39,2020,OOS
+41051,17073,,Henry County, Illinois,,MOVEDOUT,4,6,2020,OOS
+41051,17073,,Henry County, Illinois,,MOVEDNET,24,39,2020,OOS
+41051,48215,,Hidalgo County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48215,,Hidalgo County, Texas,,MOVEDOUT,18,26,2020,OOS
+41051,48215,,Hidalgo County, Texas,,MOVEDNET,-18,26,2020,OOS
+41051,39071,,Highland County, Ohio,,MOVEDIN,39,46,2020,OOS
+41051,39071,,Highland County, Ohio,,MOVEDOUT,0,26,2020,OOS
+41051,39071,,Highland County, Ohio,,MOVEDNET,39,46,2020,OOS
+41051,12057,,Hillsborough County, Florida,,MOVEDIN,23,34,2020,OOS
+41051,12057,,Hillsborough County, Florida,,MOVEDOUT,39,58,2020,OOS
+41051,12057,,Hillsborough County, Florida,,MOVEDNET,-16,70,2020,OOS
+41051,28049,,Hinds County, Mississippi,,MOVEDIN,0,30,2020,OOS
+41051,28049,,Hinds County, Mississippi,,MOVEDOUT,71,93,2020,OOS
+41051,28049,,Hinds County, Mississippi,,MOVEDNET,-71,93,2020,OOS
+41051,20083,,Hodgeman County, Kansas,,MOVEDIN,44,67,2020,OOS
+41051,20083,,Hodgeman County, Kansas,,MOVEDOUT,0,11,2020,OOS
+41051,20083,,Hodgeman County, Kansas,,MOVEDNET,44,67,2020,OOS
+41051,15003,,Honolulu County, Hawaii,,MOVEDIN,321,134,2020,OOS
+41051,15003,,Honolulu County, Hawaii,,MOVEDOUT,64,49,2020,OOS
+41051,15003,,Honolulu County, Hawaii,,MOVEDNET,257,142,2020,OOS
+41051,02105,,Hoonah-Angoon Census Area, Alaska,,MOVEDIN,0,30,2020,OOS
+41051,02105,,Hoonah-Angoon Census Area, Alaska,,MOVEDOUT,2,3,2020,OOS
+41051,02105,,Hoonah-Angoon Census Area, Alaska,,MOVEDNET,-2,3,2020,OOS
+41051,01069,,Houston County, Alabama,,MOVEDIN,0,30,2020,OOS
+41051,01069,,Houston County, Alabama,,MOVEDOUT,15,21,2020,OOS
+41051,01069,,Houston County, Alabama,,MOVEDNET,-15,21,2020,OOS
+41051,24027,,Howard County, Maryland,,MOVEDIN,7,11,2020,OOS
+41051,24027,,Howard County, Maryland,,MOVEDOUT,0,30,2020,OOS
+41051,24027,,Howard County, Maryland,,MOVEDNET,7,11,2020,OOS
+41051,34017,,Hudson County, New Jersey,,MOVEDIN,159,169,2020,OOS
+41051,34017,,Hudson County, New Jersey,,MOVEDOUT,15,24,2020,OOS
+41051,34017,,Hudson County, New Jersey,,MOVEDNET,144,172,2020,OOS
+41051,06023,,Humboldt County, California,,MOVEDIN,57,46,2020,OOS
+41051,06023,,Humboldt County, California,,MOVEDOUT,79,51,2020,OOS
+41051,06023,,Humboldt County, California,,MOVEDNET,-22,63,2020,OOS
+41051,18069,,Huntington County, Indiana,,MOVEDIN,0,30,2020,OOS
+41051,18069,,Huntington County, Indiana,,MOVEDOUT,5,10,2020,OOS
+41051,18069,,Huntington County, Indiana,,MOVEDNET,-5,10,2020,OOS
+41051,16049,,Idaho County, Idaho,,MOVEDIN,0,30,2020,OOS
+41051,16049,,Idaho County, Idaho,,MOVEDOUT,2,4,2020,OOS
+41051,16049,,Idaho County, Idaho,,MOVEDNET,-2,4,2020,OOS
+41051,26065,,Ingham County, Michigan,,MOVEDIN,23,28,2020,OOS
+41051,26065,,Ingham County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,26065,,Ingham County, Michigan,,MOVEDNET,23,28,2020,OOS
+41051,06027,,Inyo County, California,,MOVEDIN,50,62,2020,OOS
+41051,06027,,Inyo County, California,,MOVEDOUT,0,21,2020,OOS
+41051,06027,,Inyo County, California,,MOVEDNET,50,62,2020,OOS
+41051,53029,,Island County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53029,,Island County, Washington,,MOVEDOUT,8,12,2020,OOS
+41051,53029,,Island County, Washington,,MOVEDNET,-8,12,2020,OOS
+41051,29095,,Jackson County, Missouri,,MOVEDIN,0,30,2020,OOS
+41051,29095,,Jackson County, Missouri,,MOVEDOUT,48,62,2020,OOS
+41051,29095,,Jackson County, Missouri,,MOVEDNET,-48,62,2020,OOS
+41051,37099,,Jackson County, North Carolina,,MOVEDIN,27,41,2020,OOS
+41051,37099,,Jackson County, North Carolina,,MOVEDOUT,32,54,2020,OOS
+41051,37099,,Jackson County, North Carolina,,MOVEDNET,-5,65,2020,OOS
+41051,40065,,Jackson County, Oklahoma,,MOVEDIN,25,39,2020,OOS
+41051,40065,,Jackson County, Oklahoma,,MOVEDOUT,0,18,2020,OOS
+41051,40065,,Jackson County, Oklahoma,,MOVEDNET,25,39,2020,OOS
+41051,48239,,Jackson County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48239,,Jackson County, Texas,,MOVEDOUT,25,43,2020,OOS
+41051,48239,,Jackson County, Texas,,MOVEDNET,-25,43,2020,OOS
+41051,55053,,Jackson County, Wisconsin,,MOVEDIN,12,19,2020,OOS
+41051,55053,,Jackson County, Wisconsin,,MOVEDOUT,0,17,2020,OOS
+41051,55053,,Jackson County, Wisconsin,,MOVEDNET,12,19,2020,OOS
+41051,22049,,Jackson Parish, Louisiana,,MOVEDIN,0,30,2020,OOS
+41051,22049,,Jackson Parish, Louisiana,,MOVEDOUT,14,25,2020,OOS
+41051,22049,,Jackson Parish, Louisiana,,MOVEDNET,-14,25,2020,OOS
+41051,08059,,Jefferson County, Colorado,,MOVEDIN,84,79,2020,OOS
+41051,08059,,Jefferson County, Colorado,,MOVEDOUT,48,38,2020,OOS
+41051,08059,,Jefferson County, Colorado,,MOVEDNET,36,88,2020,OOS
+41051,21111,,Jefferson County, Kentucky,,MOVEDIN,0,30,2020,OOS
+41051,21111,,Jefferson County, Kentucky,,MOVEDOUT,97,88,2020,OOS
+41051,21111,,Jefferson County, Kentucky,,MOVEDNET,-97,88,2020,OOS
+41051,48245,,Jefferson County, Texas,,MOVEDIN,25,34,2020,OOS
+41051,48245,,Jefferson County, Texas,,MOVEDOUT,0,33,2020,OOS
+41051,48245,,Jefferson County, Texas,,MOVEDNET,25,34,2020,OOS
+41051,53031,,Jefferson County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53031,,Jefferson County, Washington,,MOVEDOUT,18,19,2020,OOS
+41051,53031,,Jefferson County, Washington,,MOVEDNET,-18,19,2020,OOS
+41051,22051,,Jefferson Parish, Louisiana,,MOVEDIN,10,21,2020,OOS
+41051,22051,,Jefferson Parish, Louisiana,,MOVEDOUT,45,50,2020,OOS
+41051,22051,,Jefferson Parish, Louisiana,,MOVEDNET,-35,56,2020,OOS
+41051,18081,,Johnson County, Indiana,,MOVEDIN,20,32,2020,OOS
+41051,18081,,Johnson County, Indiana,,MOVEDOUT,0,29,2020,OOS
+41051,18081,,Johnson County, Indiana,,MOVEDNET,20,32,2020,OOS
+41051,19103,,Johnson County, Iowa,,MOVEDIN,155,239,2020,OOS
+41051,19103,,Johnson County, Iowa,,MOVEDOUT,0,23,2020,OOS
+41051,19103,,Johnson County, Iowa,,MOVEDNET,155,239,2020,OOS
+41051,20091,,Johnson County, Kansas,,MOVEDIN,28,28,2020,OOS
+41051,20091,,Johnson County, Kansas,,MOVEDOUT,30,39,2020,OOS
+41051,20091,,Johnson County, Kansas,,MOVEDNET,-2,48,2020,OOS
+41051,48251,,Johnson County, Texas,,MOVEDIN,27,32,2020,OOS
+41051,48251,,Johnson County, Texas,,MOVEDOUT,0,33,2020,OOS
+41051,48251,,Johnson County, Texas,,MOVEDNET,27,32,2020,OOS
+41051,02110,,Juneau City and Borough, Alaska,,MOVEDIN,13,23,2020,OOS
+41051,02110,,Juneau City and Borough, Alaska,,MOVEDOUT,3,4,2020,OOS
+41051,02110,,Juneau City and Borough, Alaska,,MOVEDNET,10,24,2020,OOS
+41051,26077,,Kalamazoo County, Michigan,,MOVEDIN,19,21,2020,OOS
+41051,26077,,Kalamazoo County, Michigan,,MOVEDOUT,0,26,2020,OOS
+41051,26077,,Kalamazoo County, Michigan,,MOVEDNET,19,21,2020,OOS
+41051,17089,,Kane County, Illinois,,MOVEDIN,45,46,2020,OOS
+41051,17089,,Kane County, Illinois,,MOVEDOUT,0,28,2020,OOS
+41051,17089,,Kane County, Illinois,,MOVEDNET,45,46,2020,OOS
+41051,15007,,Kauai County, Hawaii,,MOVEDIN,49,62,2020,OOS
+41051,15007,,Kauai County, Hawaii,,MOVEDOUT,15,24,2020,OOS
+41051,15007,,Kauai County, Hawaii,,MOVEDNET,34,65,2020,OOS
+41051,02122,,Kenai Peninsula Borough, Alaska,,MOVEDIN,41,43,2020,OOS
+41051,02122,,Kenai Peninsula Borough, Alaska,,MOVEDOUT,20,30,2020,OOS
+41051,02122,,Kenai Peninsula Borough, Alaska,,MOVEDNET,21,54,2020,OOS
+41051,23011,,Kennebec County, Maine,,MOVEDIN,28,31,2020,OOS
+41051,23011,,Kennebec County, Maine,,MOVEDOUT,0,26,2020,OOS
+41051,23011,,Kennebec County, Maine,,MOVEDNET,28,31,2020,OOS
+41051,26081,,Kent County, Michigan,,MOVEDIN,63,76,2020,OOS
+41051,26081,,Kent County, Michigan,,MOVEDOUT,18,21,2020,OOS
+41051,26081,,Kent County, Michigan,,MOVEDNET,45,80,2020,OOS
+41051,44003,,Kent County, Rhode Island,,MOVEDIN,23,34,2020,OOS
+41051,44003,,Kent County, Rhode Island,,MOVEDOUT,0,32,2020,OOS
+41051,44003,,Kent County, Rhode Island,,MOVEDNET,23,34,2020,OOS
+41051,06029,,Kern County, California,,MOVEDIN,11,22,2020,OOS
+41051,06029,,Kern County, California,,MOVEDOUT,100,103,2020,OOS
+41051,06029,,Kern County, California,,MOVEDNET,-89,103,2020,OOS
+41051,02130,,Ketchikan Gateway Borough, Alaska,,MOVEDIN,43,68,2020,OOS
+41051,02130,,Ketchikan Gateway Borough, Alaska,,MOVEDOUT,0,16,2020,OOS
+41051,02130,,Ketchikan Gateway Borough, Alaska,,MOVEDNET,43,68,2020,OOS
+41051,53033,,King County, Washington,,MOVEDIN,1703,303,2020,OOS
+41051,53033,,King County, Washington,,MOVEDOUT,1552,436,2020,OOS
+41051,53033,,King County, Washington,,MOVEDNET,151,547,2020,OOS
+41051,06031,,Kings County, California,,MOVEDIN,16,20,2020,OOS
+41051,06031,,Kings County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06031,,Kings County, California,,MOVEDNET,16,20,2020,OOS
+41051,36047,,Kings County, New York,,MOVEDIN,187,93,2020,OOS
+41051,36047,,Kings County, New York,,MOVEDOUT,279,155,2020,OOS
+41051,36047,,Kings County, New York,,MOVEDNET,-92,174,2020,OOS
+41051,53035,,Kitsap County, Washington,,MOVEDIN,36,31,2020,OOS
+41051,53035,,Kitsap County, Washington,,MOVEDOUT,101,59,2020,OOS
+41051,53035,,Kitsap County, Washington,,MOVEDNET,-65,66,2020,OOS
+41051,53037,,Kittitas County, Washington,,MOVEDIN,41,38,2020,OOS
+41051,53037,,Kittitas County, Washington,,MOVEDOUT,120,105,2020,OOS
+41051,53037,,Kittitas County, Washington,,MOVEDNET,-79,111,2020,OOS
+41051,48273,,Kleberg County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48273,,Kleberg County, Texas,,MOVEDOUT,50,88,2020,OOS
+41051,48273,,Kleberg County, Texas,,MOVEDNET,-50,88,2020,OOS
+41051,53039,,Klickitat County, Washington,,MOVEDIN,18,15,2020,OOS
+41051,53039,,Klickitat County, Washington,,MOVEDOUT,161,175,2020,OOS
+41051,53039,,Klickitat County, Washington,,MOVEDNET,-143,175,2020,OOS
+41051,23013,,Knox County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,23013,,Knox County, Maine,,MOVEDOUT,13,25,2020,OOS
+41051,23013,,Knox County, Maine,,MOVEDNET,-13,25,2020,OOS
+41051,39083,,Knox County, Ohio,,MOVEDIN,0,30,2020,OOS
+41051,39083,,Knox County, Ohio,,MOVEDOUT,34,33,2020,OOS
+41051,39083,,Knox County, Ohio,,MOVEDNET,-34,33,2020,OOS
+41051,47093,,Knox County, Tennessee,,MOVEDIN,67,84,2020,OOS
+41051,47093,,Knox County, Tennessee,,MOVEDOUT,0,31,2020,OOS
+41051,47093,,Knox County, Tennessee,,MOVEDNET,67,84,2020,OOS
+41051,02150,,Kodiak Island Borough, Alaska,,MOVEDIN,63,100,2020,OOS
+41051,02150,,Kodiak Island Borough, Alaska,,MOVEDOUT,1,2,2020,OOS
+41051,02150,,Kodiak Island Borough, Alaska,,MOVEDNET,62,101,2020,OOS
+41051,16055,,Kootenai County, Idaho,,MOVEDIN,0,30,2020,OOS
+41051,16055,,Kootenai County, Idaho,,MOVEDOUT,12,17,2020,OOS
+41051,16055,,Kootenai County, Idaho,,MOVEDNET,-12,17,2020,OOS
+41051,08067,,La Plata County, Colorado,,MOVEDIN,14,21,2020,OOS
+41051,08067,,La Plata County, Colorado,,MOVEDOUT,18,31,2020,OOS
+41051,08067,,La Plata County, Colorado,,MOVEDNET,-4,37,2020,OOS
+41051,22057,,Lafourche Parish, Louisiana,,MOVEDIN,15,24,2020,OOS
+41051,22057,,Lafourche Parish, Louisiana,,MOVEDOUT,0,32,2020,OOS
+41051,22057,,Lafourche Parish, Louisiana,,MOVEDNET,15,24,2020,OOS
+41051,06033,,Lake County, California,,MOVEDIN,7,10,2020,OOS
+41051,06033,,Lake County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06033,,Lake County, California,,MOVEDNET,7,10,2020,OOS
+41051,08065,,Lake County, Colorado,,MOVEDIN,0,30,2020,OOS
+41051,08065,,Lake County, Colorado,,MOVEDOUT,65,85,2020,OOS
+41051,08065,,Lake County, Colorado,,MOVEDNET,-65,85,2020,OOS
+41051,12069,,Lake County, Florida,,MOVEDIN,17,25,2020,OOS
+41051,12069,,Lake County, Florida,,MOVEDOUT,18,27,2020,OOS
+41051,12069,,Lake County, Florida,,MOVEDNET,-1,37,2020,OOS
+41051,17097,,Lake County, Illinois,,MOVEDIN,35,39,2020,OOS
+41051,17097,,Lake County, Illinois,,MOVEDOUT,0,28,2020,OOS
+41051,17097,,Lake County, Illinois,,MOVEDNET,35,39,2020,OOS
+41051,18089,,Lake County, Indiana,,MOVEDIN,0,30,2020,OOS
+41051,18089,,Lake County, Indiana,,MOVEDOUT,10,18,2020,OOS
+41051,18089,,Lake County, Indiana,,MOVEDNET,-10,18,2020,OOS
+41051,30047,,Lake County, Montana,,MOVEDIN,12,12,2020,OOS
+41051,30047,,Lake County, Montana,,MOVEDOUT,0,23,2020,OOS
+41051,30047,,Lake County, Montana,,MOVEDNET,12,12,2020,OOS
+41051,39085,,Lake County, Ohio,,MOVEDIN,10,19,2020,OOS
+41051,39085,,Lake County, Ohio,,MOVEDOUT,9,14,2020,OOS
+41051,39085,,Lake County, Ohio,,MOVEDNET,1,23,2020,OOS
+41051,50015,,Lamoille County, Vermont,,MOVEDIN,7,16,2020,OOS
+41051,50015,,Lamoille County, Vermont,,MOVEDOUT,13,21,2020,OOS
+41051,50015,,Lamoille County, Vermont,,MOVEDNET,-6,26,2020,OOS
+41051,31109,,Lancaster County, Nebraska,,MOVEDIN,6,12,2020,OOS
+41051,31109,,Lancaster County, Nebraska,,MOVEDOUT,0,23,2020,OOS
+41051,31109,,Lancaster County, Nebraska,,MOVEDNET,6,12,2020,OOS
+41051,42071,,Lancaster County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42071,,Lancaster County, Pennsylvania,,MOVEDOUT,46,81,2020,OOS
+41051,42071,,Lancaster County, Pennsylvania,,MOVEDNET,-46,81,2020,OOS
+41051,56021,,Laramie County, Wyoming,,MOVEDIN,103,139,2020,OOS
+41051,56021,,Laramie County, Wyoming,,MOVEDOUT,4,8,2020,OOS
+41051,56021,,Laramie County, Wyoming,,MOVEDNET,99,139,2020,OOS
+41051,08069,,Larimer County, Colorado,,MOVEDIN,98,80,2020,OOS
+41051,08069,,Larimer County, Colorado,,MOVEDOUT,13,21,2020,OOS
+41051,08069,,Larimer County, Colorado,,MOVEDNET,85,80,2020,OOS
+41051,06035,,Lassen County, California,,MOVEDIN,9,20,2020,OOS
+41051,06035,,Lassen County, California,,MOVEDOUT,0,28,2020,OOS
+41051,06035,,Lassen County, California,,MOVEDNET,9,20,2020,OOS
+41051,16057,,Latah County, Idaho,,MOVEDIN,8,13,2020,OOS
+41051,16057,,Latah County, Idaho,,MOVEDOUT,0,26,2020,OOS
+41051,16057,,Latah County, Idaho,,MOVEDNET,8,13,2020,OOS
+41051,48285,,Lavaca County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48285,,Lavaca County, Texas,,MOVEDOUT,18,32,2020,OOS
+41051,48285,,Lavaca County, Texas,,MOVEDNET,-18,32,2020,OOS
+41051,12071,,Lee County, Florida,,MOVEDIN,0,30,2020,OOS
+41051,12071,,Lee County, Florida,,MOVEDOUT,46,77,2020,OOS
+41051,12071,,Lee County, Florida,,MOVEDNET,-46,77,2020,OOS
+41051,42077,,Lehigh County, Pennsylvania,,MOVEDIN,26,41,2020,OOS
+41051,42077,,Lehigh County, Pennsylvania,,MOVEDOUT,0,26,2020,OOS
+41051,42077,,Lehigh County, Pennsylvania,,MOVEDNET,26,41,2020,OOS
+41051,30049,,Lewis and Clark County, Montana,,MOVEDIN,0,30,2020,OOS
+41051,30049,,Lewis and Clark County, Montana,,MOVEDOUT,8,12,2020,OOS
+41051,30049,,Lewis and Clark County, Montana,,MOVEDNET,-8,12,2020,OOS
+41051,16061,,Lewis County, Idaho,,MOVEDIN,16,27,2020,OOS
+41051,16061,,Lewis County, Idaho,,MOVEDOUT,0,12,2020,OOS
+41051,16061,,Lewis County, Idaho,,MOVEDNET,16,27,2020,OOS
+41051,53041,,Lewis County, Washington,,MOVEDIN,22,26,2020,OOS
+41051,53041,,Lewis County, Washington,,MOVEDOUT,424,471,2020,OOS
+41051,53041,,Lewis County, Washington,,MOVEDNET,-402,471,2020,OOS
+41051,23015,,Lincoln County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,23015,,Lincoln County, Maine,,MOVEDOUT,28,29,2020,OOS
+41051,23015,,Lincoln County, Maine,,MOVEDNET,-28,29,2020,OOS
+41051,35027,,Lincoln County, New Mexico,,MOVEDIN,0,30,2020,OOS
+41051,35027,,Lincoln County, New Mexico,,MOVEDOUT,40,87,2020,OOS
+41051,35027,,Lincoln County, New Mexico,,MOVEDNET,-40,87,2020,OOS
+41051,46083,,Lincoln County, South Dakota,,MOVEDIN,9,13,2020,OOS
+41051,46083,,Lincoln County, South Dakota,,MOVEDOUT,0,23,2020,OOS
+41051,46083,,Lincoln County, South Dakota,,MOVEDNET,9,13,2020,OOS
+41051,09005,,Litchfield County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,09005,,Litchfield County, Connecticut,,MOVEDOUT,7,12,2020,OOS
+41051,09005,,Litchfield County, Connecticut,,MOVEDNET,-7,12,2020,OOS
+41051,08075,,Logan County, Colorado,,MOVEDIN,11,19,2020,OOS
+41051,08075,,Logan County, Colorado,,MOVEDOUT,0,23,2020,OOS
+41051,08075,,Logan County, Colorado,,MOVEDNET,11,19,2020,OOS
+41051,39093,,Lorain County, Ohio,,MOVEDIN,5,7,2020,OOS
+41051,39093,,Lorain County, Ohio,,MOVEDOUT,13,16,2020,OOS
+41051,39093,,Lorain County, Ohio,,MOVEDNET,-8,18,2020,OOS
+41051,06037,,Los Angeles County, California,,MOVEDIN,1309,358,2020,OOS
+41051,06037,,Los Angeles County, California,,MOVEDOUT,769,205,2020,OOS
+41051,06037,,Los Angeles County, California,,MOVEDNET,540,438,2020,OOS
+41051,51107,,Loudoun County, Virginia,,MOVEDIN,61,78,2020,OOS
+41051,51107,,Loudoun County, Virginia,,MOVEDOUT,0,30,2020,OOS
+41051,51107,,Loudoun County, Virginia,,MOVEDNET,61,78,2020,OOS
+41051,48303,,Lubbock County, Texas,,MOVEDIN,94,77,2020,OOS
+41051,48303,,Lubbock County, Texas,,MOVEDOUT,42,66,2020,OOS
+41051,48303,,Lubbock County, Texas,,MOVEDNET,52,97,2020,OOS
+41051,42079,,Luzerne County, Pennsylvania,,MOVEDIN,66,92,2020,OOS
+41051,42079,,Luzerne County, Pennsylvania,,MOVEDOUT,0,26,2020,OOS
+41051,42079,,Luzerne County, Pennsylvania,,MOVEDNET,66,92,2020,OOS
+41051,51680,,Lynchburg City, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51680,,Lynchburg City, Virginia,,MOVEDOUT,31,48,2020,OOS
+41051,51680,,Lynchburg City, Virginia,,MOVEDNET,-31,48,2020,OOS
+41051,32019,,Lyon County, Nevada,,MOVEDIN,0,30,2020,OOS
+41051,32019,,Lyon County, Nevada,,MOVEDOUT,25,35,2020,OOS
+41051,32019,,Lyon County, Nevada,,MOVEDNET,-25,35,2020,OOS
+41051,26099,,Macomb County, Michigan,,MOVEDIN,17,28,2020,OOS
+41051,26099,,Macomb County, Michigan,,MOVEDOUT,25,26,2020,OOS
+41051,26099,,Macomb County, Michigan,,MOVEDNET,-8,38,2020,OOS
+41051,17115,,Macon County, Illinois,,MOVEDIN,8,17,2020,OOS
+41051,17115,,Macon County, Illinois,,MOVEDOUT,0,28,2020,OOS
+41051,17115,,Macon County, Illinois,,MOVEDNET,8,17,2020,OOS
+41051,06039,,Madera County, California,,MOVEDIN,1,3,2020,OOS
+41051,06039,,Madera County, California,,MOVEDOUT,71,117,2020,OOS
+41051,06039,,Madera County, California,,MOVEDNET,-70,117,2020,OOS
+41051,01089,,Madison County, Alabama,,MOVEDIN,0,30,2020,OOS
+41051,01089,,Madison County, Alabama,,MOVEDOUT,14,16,2020,OOS
+41051,01089,,Madison County, Alabama,,MOVEDNET,-14,16,2020,OOS
+41051,17119,,Madison County, Illinois,,MOVEDIN,0,30,2020,OOS
+41051,17119,,Madison County, Illinois,,MOVEDOUT,17,23,2020,OOS
+41051,17119,,Madison County, Illinois,,MOVEDNET,-17,23,2020,OOS
+41051,36053,,Madison County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36053,,Madison County, New York,,MOVEDOUT,11,16,2020,OOS
+41051,36053,,Madison County, New York,,MOVEDNET,-11,16,2020,OOS
+41051,12081,,Manatee County, Florida,,MOVEDIN,7,11,2020,OOS
+41051,12081,,Manatee County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12081,,Manatee County, Florida,,MOVEDNET,7,11,2020,OOS
+41051,04013,,Maricopa County, Arizona,,MOVEDIN,554,178,2020,OOS
+41051,04013,,Maricopa County, Arizona,,MOVEDOUT,743,253,2020,OOS
+41051,04013,,Maricopa County, Arizona,,MOVEDNET,-189,289,2020,OOS
+41051,06041,,Marin County, California,,MOVEDIN,89,58,2020,OOS
+41051,06041,,Marin County, California,,MOVEDOUT,79,74,2020,OOS
+41051,06041,,Marin County, California,,MOVEDNET,10,93,2020,OOS
+41051,55075,,Marinette County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55075,,Marinette County, Wisconsin,,MOVEDOUT,2,4,2020,OOS
+41051,55075,,Marinette County, Wisconsin,,MOVEDNET,-2,4,2020,OOS
+41051,12083,,Marion County, Florida,,MOVEDIN,33,53,2020,OOS
+41051,12083,,Marion County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12083,,Marion County, Florida,,MOVEDNET,33,53,2020,OOS
+41051,13197,,Marion County, Georgia,,MOVEDIN,0,30,2020,OOS
+41051,13197,,Marion County, Georgia,,MOVEDOUT,14,17,2020,OOS
+41051,13197,,Marion County, Georgia,,MOVEDNET,-14,17,2020,OOS
+41051,18097,,Marion County, Indiana,,MOVEDIN,25,38,2020,OOS
+41051,18097,,Marion County, Indiana,,MOVEDOUT,33,55,2020,OOS
+41051,18097,,Marion County, Indiana,,MOVEDNET,-8,66,2020,OOS
+41051,06043,,Mariposa County, California,,MOVEDIN,48,48,2020,OOS
+41051,06043,,Mariposa County, California,,MOVEDOUT,16,32,2020,OOS
+41051,06043,,Mariposa County, California,,MOVEDNET,32,60,2020,OOS
+41051,26103,,Marquette County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,26103,,Marquette County, Michigan,,MOVEDOUT,7,9,2020,OOS
+41051,26103,,Marquette County, Michigan,,MOVEDNET,-7,9,2020,OOS
+41051,53045,,Mason County, Washington,,MOVEDIN,28,33,2020,OOS
+41051,53045,,Mason County, Washington,,MOVEDOUT,22,32,2020,OOS
+41051,53045,,Mason County, Washington,,MOVEDNET,6,45,2020,OOS
+41051,48321,,Matagorda County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48321,,Matagorda County, Texas,,MOVEDOUT,6,9,2020,OOS
+41051,48321,,Matagorda County, Texas,,MOVEDNET,-6,9,2020,OOS
+41051,02170,,Matanuska-Susitna Borough, Alaska,,MOVEDIN,0,30,2020,OOS
+41051,02170,,Matanuska-Susitna Borough, Alaska,,MOVEDOUT,16,24,2020,OOS
+41051,02170,,Matanuska-Susitna Borough, Alaska,,MOVEDNET,-16,24,2020,OOS
+41051,15009,,Maui County, Hawaii,,MOVEDIN,129,88,2020,OOS
+41051,15009,,Maui County, Hawaii,,MOVEDOUT,219,213,2020,OOS
+41051,15009,,Maui County, Hawaii,,MOVEDNET,-90,232,2020,OOS
+41051,40089,,McCurtain County, Oklahoma,,MOVEDIN,0,30,2020,OOS
+41051,40089,,McCurtain County, Oklahoma,,MOVEDOUT,10,15,2020,OOS
+41051,40089,,McCurtain County, Oklahoma,,MOVEDNET,-10,15,2020,OOS
+41051,17111,,McHenry County, Illinois,,MOVEDIN,10,15,2020,OOS
+41051,17111,,McHenry County, Illinois,,MOVEDOUT,0,28,2020,OOS
+41051,17111,,McHenry County, Illinois,,MOVEDNET,10,15,2020,OOS
+41051,17113,,McLean County, Illinois,,MOVEDIN,27,31,2020,OOS
+41051,17113,,McLean County, Illinois,,MOVEDOUT,0,28,2020,OOS
+41051,17113,,McLean County, Illinois,,MOVEDNET,27,31,2020,OOS
+41051,37119,,Mecklenburg County, North Carolina,,MOVEDIN,171,71,2020,OOS
+41051,37119,,Mecklenburg County, North Carolina,,MOVEDOUT,75,60,2020,OOS
+41051,37119,,Mecklenburg County, North Carolina,,MOVEDNET,96,96,2020,OOS
+41051,06045,,Mendocino County, California,,MOVEDIN,0,30,2020,OOS
+41051,06045,,Mendocino County, California,,MOVEDOUT,6,11,2020,OOS
+41051,06045,,Mendocino County, California,,MOVEDNET,-6,11,2020,OOS
+41051,06047,,Merced County, California,,MOVEDIN,123,125,2020,OOS
+41051,06047,,Merced County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06047,,Merced County, California,,MOVEDNET,123,125,2020,OOS
+41051,34021,,Mercer County, New Jersey,,MOVEDIN,10,14,2020,OOS
+41051,34021,,Mercer County, New Jersey,,MOVEDOUT,113,124,2020,OOS
+41051,34021,,Mercer County, New Jersey,,MOVEDNET,-103,125,2020,OOS
+41051,42085,,Mercer County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42085,,Mercer County, Pennsylvania,,MOVEDOUT,23,37,2020,OOS
+41051,42085,,Mercer County, Pennsylvania,,MOVEDNET,-23,37,2020,OOS
+41051,33013,,Merrimack County, New Hampshire,,MOVEDIN,8,12,2020,OOS
+41051,33013,,Merrimack County, New Hampshire,,MOVEDOUT,0,28,2020,OOS
+41051,33013,,Merrimack County, New Hampshire,,MOVEDNET,8,12,2020,OOS
+41051,39109,,Miami County, Ohio,,MOVEDIN,0,30,2020,OOS
+41051,39109,,Miami County, Ohio,,MOVEDOUT,43,71,2020,OOS
+41051,39109,,Miami County, Ohio,,MOVEDNET,-43,71,2020,OOS
+41051,12086,,Miami-Dade County, Florida,,MOVEDIN,131,105,2020,OOS
+41051,12086,,Miami-Dade County, Florida,,MOVEDOUT,48,40,2020,OOS
+41051,12086,,Miami-Dade County, Florida,,MOVEDNET,83,115,2020,OOS
+41051,09007,,Middlesex County, Connecticut,,MOVEDIN,2,3,2020,OOS
+41051,09007,,Middlesex County, Connecticut,,MOVEDOUT,0,30,2020,OOS
+41051,09007,,Middlesex County, Connecticut,,MOVEDNET,2,3,2020,OOS
+41051,25017,,Middlesex County, Massachusetts,,MOVEDIN,246,175,2020,OOS
+41051,25017,,Middlesex County, Massachusetts,,MOVEDOUT,123,113,2020,OOS
+41051,25017,,Middlesex County, Massachusetts,,MOVEDNET,123,205,2020,OOS
+41051,34023,,Middlesex County, New Jersey,,MOVEDIN,48,53,2020,OOS
+41051,34023,,Middlesex County, New Jersey,,MOVEDOUT,165,228,2020,OOS
+41051,34023,,Middlesex County, New Jersey,,MOVEDNET,-117,235,2020,OOS
+41051,19129,,Mills County, Iowa,,MOVEDIN,0,30,2020,OOS
+41051,19129,,Mills County, Iowa,,MOVEDOUT,3,17,2020,OOS
+41051,19129,,Mills County, Iowa,,MOVEDNET,-3,17,2020,OOS
+41051,55079,,Milwaukee County, Wisconsin,,MOVEDIN,149,105,2020,OOS
+41051,55079,,Milwaukee County, Wisconsin,,MOVEDOUT,95,88,2020,OOS
+41051,55079,,Milwaukee County, Wisconsin,,MOVEDNET,54,126,2020,OOS
+41051,46099,,Minnehaha County, South Dakota,,MOVEDIN,31,37,2020,OOS
+41051,46099,,Minnehaha County, South Dakota,,MOVEDOUT,31,50,2020,OOS
+41051,46099,,Minnehaha County, South Dakota,,MOVEDNET,0,62,2020,OOS
+41051,30063,,Missoula County, Montana,,MOVEDIN,56,63,2020,OOS
+41051,30063,,Missoula County, Montana,,MOVEDOUT,68,67,2020,OOS
+41051,30063,,Missoula County, Montana,,MOVEDNET,-12,101,2020,OOS
+41051,01097,,Mobile County, Alabama,,MOVEDIN,0,30,2020,OOS
+41051,01097,,Mobile County, Alabama,,MOVEDOUT,12,18,2020,OOS
+41051,01097,,Mobile County, Alabama,,MOVEDNET,-12,18,2020,OOS
+41051,04015,,Mohave County, Arizona,,MOVEDIN,0,30,2020,OOS
+41051,04015,,Mohave County, Arizona,,MOVEDOUT,14,22,2020,OOS
+41051,04015,,Mohave County, Arizona,,MOVEDNET,-14,22,2020,OOS
+41051,54061,,Monongalia County, West Virginia,,MOVEDIN,44,73,2020,OOS
+41051,54061,,Monongalia County, West Virginia,,MOVEDOUT,0,29,2020,OOS
+41051,54061,,Monongalia County, West Virginia,,MOVEDNET,44,73,2020,OOS
+41051,18105,,Monroe County, Indiana,,MOVEDIN,7,11,2020,OOS
+41051,18105,,Monroe County, Indiana,,MOVEDOUT,0,29,2020,OOS
+41051,18105,,Monroe County, Indiana,,MOVEDNET,7,11,2020,OOS
+41051,36055,,Monroe County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36055,,Monroe County, New York,,MOVEDOUT,35,34,2020,OOS
+41051,36055,,Monroe County, New York,,MOVEDNET,-35,34,2020,OOS
+41051,06053,,Monterey County, California,,MOVEDIN,185,106,2020,OOS
+41051,06053,,Monterey County, California,,MOVEDOUT,31,38,2020,OOS
+41051,06053,,Monterey County, California,,MOVEDNET,154,117,2020,OOS
+41051,08083,,Montezuma County, Colorado,,MOVEDIN,0,30,2020,OOS
+41051,08083,,Montezuma County, Colorado,,MOVEDOUT,15,22,2020,OOS
+41051,08083,,Montezuma County, Colorado,,MOVEDNET,-15,22,2020,OOS
+41051,01101,,Montgomery County, Alabama,,MOVEDIN,0,30,2020,OOS
+41051,01101,,Montgomery County, Alabama,,MOVEDOUT,178,252,2020,OOS
+41051,01101,,Montgomery County, Alabama,,MOVEDNET,-178,252,2020,OOS
+41051,24031,,Montgomery County, Maryland,,MOVEDIN,15,25,2020,OOS
+41051,24031,,Montgomery County, Maryland,,MOVEDOUT,25,31,2020,OOS
+41051,24031,,Montgomery County, Maryland,,MOVEDNET,-10,40,2020,OOS
+41051,39113,,Montgomery County, Ohio,,MOVEDIN,45,65,2020,OOS
+41051,39113,,Montgomery County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39113,,Montgomery County, Ohio,,MOVEDNET,45,65,2020,OOS
+41051,42091,,Montgomery County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42091,,Montgomery County, Pennsylvania,,MOVEDOUT,91,88,2020,OOS
+41051,42091,,Montgomery County, Pennsylvania,,MOVEDNET,-91,88,2020,OOS
+41051,47125,,Montgomery County, Tennessee,,MOVEDIN,28,32,2020,OOS
+41051,47125,,Montgomery County, Tennessee,,MOVEDOUT,0,31,2020,OOS
+41051,47125,,Montgomery County, Tennessee,,MOVEDNET,28,32,2020,OOS
+41051,48339,,Montgomery County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48339,,Montgomery County, Texas,,MOVEDOUT,25,40,2020,OOS
+41051,48339,,Montgomery County, Texas,,MOVEDNET,-25,40,2020,OOS
+41051,42093,,Montour County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42093,,Montour County, Pennsylvania,,MOVEDOUT,5,8,2020,OOS
+41051,42093,,Montour County, Pennsylvania,,MOVEDNET,-5,8,2020,OOS
+41051,08085,,Montrose County, Colorado,,MOVEDIN,5,12,2020,OOS
+41051,08085,,Montrose County, Colorado,,MOVEDOUT,0,26,2020,OOS
+41051,08085,,Montrose County, Colorado,,MOVEDNET,5,12,2020,OOS
+41051,08087,,Morgan County, Colorado,,MOVEDIN,0,30,2020,OOS
+41051,08087,,Morgan County, Colorado,,MOVEDOUT,7,15,2020,OOS
+41051,08087,,Morgan County, Colorado,,MOVEDNET,-7,15,2020,OOS
+41051,34027,,Morris County, New Jersey,,MOVEDIN,29,46,2020,OOS
+41051,34027,,Morris County, New Jersey,,MOVEDOUT,0,30,2020,OOS
+41051,34027,,Morris County, New Jersey,,MOVEDNET,29,46,2020,OOS
+41051,38061,,Mountrail County, North Dakota,,MOVEDIN,0,30,2020,OOS
+41051,38061,,Mountrail County, North Dakota,,MOVEDOUT,21,27,2020,OOS
+41051,38061,,Mountrail County, North Dakota,,MOVEDNET,-21,27,2020,OOS
+41051,26121,,Muskegon County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,26121,,Muskegon County, Michigan,,MOVEDOUT,7,11,2020,OOS
+41051,26121,,Muskegon County, Michigan,,MOVEDNET,-7,11,2020,OOS
+41051,40101,,Muskogee County, Oklahoma,,MOVEDIN,40,108,2020,OOS
+41051,40101,,Muskogee County, Oklahoma,,MOVEDOUT,0,23,2020,OOS
+41051,40101,,Muskogee County, Oklahoma,,MOVEDNET,40,108,2020,OOS
+41051,06055,,Napa County, California,,MOVEDIN,18,23,2020,OOS
+41051,06055,,Napa County, California,,MOVEDOUT,33,35,2020,OOS
+41051,06055,,Napa County, California,,MOVEDNET,-15,41,2020,OOS
+41051,06057,,Nevada County, California,,MOVEDIN,33,40,2020,OOS
+41051,06057,,Nevada County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06057,,Nevada County, California,,MOVEDNET,33,40,2020,OOS
+41051,37129,,New Hanover County, North Carolina,,MOVEDIN,36,54,2020,OOS
+41051,37129,,New Hanover County, North Carolina,,MOVEDOUT,11,19,2020,OOS
+41051,37129,,New Hanover County, North Carolina,,MOVEDNET,25,56,2020,OOS
+41051,09009,,New Haven County, Connecticut,,MOVEDIN,24,27,2020,OOS
+41051,09009,,New Haven County, Connecticut,,MOVEDOUT,14,23,2020,OOS
+41051,09009,,New Haven County, Connecticut,,MOVEDNET,10,35,2020,OOS
+41051,09011,,New London County, Connecticut,,MOVEDIN,18,18,2020,OOS
+41051,09011,,New London County, Connecticut,,MOVEDOUT,16,22,2020,OOS
+41051,09011,,New London County, Connecticut,,MOVEDNET,2,29,2020,OOS
+41051,36061,,New York County, New York,,MOVEDIN,170,194,2020,OOS
+41051,36061,,New York County, New York,,MOVEDOUT,355,223,2020,OOS
+41051,36061,,New York County, New York,,MOVEDNET,-185,294,2020,OOS
+41051,26123,,Newaygo County, Michigan,,MOVEDIN,0,30,2020,OOS
+41051,26123,,Newaygo County, Michigan,,MOVEDOUT,7,14,2020,OOS
+41051,26123,,Newaygo County, Michigan,,MOVEDNET,-7,14,2020,OOS
+41051,51700,,Newport News City, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51700,,Newport News City, Virginia,,MOVEDOUT,7,12,2020,OOS
+41051,51700,,Newport News City, Virginia,,MOVEDNET,-7,12,2020,OOS
+41051,16069,,Nez Perce County, Idaho,,MOVEDIN,8,13,2020,OOS
+41051,16069,,Nez Perce County, Idaho,,MOVEDOUT,17,24,2020,OOS
+41051,16069,,Nez Perce County, Idaho,,MOVEDNET,-9,28,2020,OOS
+41051,02180,,Nome Census Area, Alaska,,MOVEDIN,0,30,2020,OOS
+41051,02180,,Nome Census Area, Alaska,,MOVEDOUT,1,3,2020,OOS
+41051,02180,,Nome Census Area, Alaska,,MOVEDNET,-1,3,2020,OOS
+41051,51710,,Norfolk City, Virginia,,MOVEDIN,3,6,2020,OOS
+41051,51710,,Norfolk City, Virginia,,MOVEDOUT,1,2,2020,OOS
+41051,51710,,Norfolk City, Virginia,,MOVEDNET,2,7,2020,OOS
+41051,25021,,Norfolk County, Massachusetts,,MOVEDIN,116,114,2020,OOS
+41051,25021,,Norfolk County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,25021,,Norfolk County, Massachusetts,,MOVEDNET,116,114,2020,OOS
+41051,42095,,Northampton County, Pennsylvania,,MOVEDIN,32,36,2020,OOS
+41051,42095,,Northampton County, Pennsylvania,,MOVEDOUT,57,85,2020,OOS
+41051,42095,,Northampton County, Pennsylvania,,MOVEDNET,-25,93,2020,OOS
+41051,48355,,Nueces County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48355,,Nueces County, Texas,,MOVEDOUT,42,53,2020,OOS
+41051,48355,,Nueces County, Texas,,MOVEDNET,-42,53,2020,OOS
+41051,26125,,Oakland County, Michigan,,MOVEDIN,58,39,2020,OOS
+41051,26125,,Oakland County, Michigan,,MOVEDOUT,9,15,2020,OOS
+41051,26125,,Oakland County, Michigan,,MOVEDNET,49,41,2020,OOS
+41051,12091,,Okaloosa County, Florida,,MOVEDIN,104,176,2020,OOS
+41051,12091,,Okaloosa County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12091,,Okaloosa County, Florida,,MOVEDNET,104,176,2020,OOS
+41051,53047,,Okanogan County, Washington,,MOVEDIN,24,26,2020,OOS
+41051,53047,,Okanogan County, Washington,,MOVEDOUT,22,23,2020,OOS
+41051,53047,,Okanogan County, Washington,,MOVEDNET,2,29,2020,OOS
+41051,40107,,Okfuskee County, Oklahoma,,MOVEDIN,27,35,2020,OOS
+41051,40107,,Okfuskee County, Oklahoma,,MOVEDOUT,0,16,2020,OOS
+41051,40107,,Okfuskee County, Oklahoma,,MOVEDNET,27,35,2020,OOS
+41051,40109,,Oklahoma County, Oklahoma,,MOVEDIN,73,100,2020,OOS
+41051,40109,,Oklahoma County, Oklahoma,,MOVEDOUT,35,51,2020,OOS
+41051,40109,,Oklahoma County, Oklahoma,,MOVEDNET,38,113,2020,OOS
+41051,27109,,Olmsted County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27109,,Olmsted County, Minnesota,,MOVEDOUT,80,123,2020,OOS
+41051,27109,,Olmsted County, Minnesota,,MOVEDNET,-80,123,2020,OOS
+41051,36065,,Oneida County, New York,,MOVEDIN,14,23,2020,OOS
+41051,36065,,Oneida County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,36065,,Oneida County, New York,,MOVEDNET,14,23,2020,OOS
+41051,36067,,Onondaga County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36067,,Onondaga County, New York,,MOVEDOUT,61,95,2020,OOS
+41051,36067,,Onondaga County, New York,,MOVEDNET,-61,95,2020,OOS
+41051,06059,,Orange County, California,,MOVEDIN,296,101,2020,OOS
+41051,06059,,Orange County, California,,MOVEDOUT,235,157,2020,OOS
+41051,06059,,Orange County, California,,MOVEDNET,61,191,2020,OOS
+41051,12095,,Orange County, Florida,,MOVEDIN,13,20,2020,OOS
+41051,12095,,Orange County, Florida,,MOVEDOUT,24,21,2020,OOS
+41051,12095,,Orange County, Florida,,MOVEDNET,-11,29,2020,OOS
+41051,36071,,Orange County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36071,,Orange County, New York,,MOVEDOUT,24,37,2020,OOS
+41051,36071,,Orange County, New York,,MOVEDNET,-24,37,2020,OOS
+41051,37135,,Orange County, North Carolina,,MOVEDIN,39,43,2020,OOS
+41051,37135,,Orange County, North Carolina,,MOVEDOUT,1,3,2020,OOS
+41051,37135,,Orange County, North Carolina,,MOVEDNET,38,43,2020,OOS
+41051,22071,,Orleans Parish, Louisiana,,MOVEDIN,72,59,2020,OOS
+41051,22071,,Orleans Parish, Louisiana,,MOVEDOUT,76,46,2020,OOS
+41051,22071,,Orleans Parish, Louisiana,,MOVEDNET,-4,75,2020,OOS
+41051,36075,,Oswego County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36075,,Oswego County, New York,,MOVEDOUT,4,5,2020,OOS
+41051,36075,,Oswego County, New York,,MOVEDNET,-4,5,2020,OOS
+41051,35035,,Otero County, New Mexico,,MOVEDIN,17,27,2020,OOS
+41051,35035,,Otero County, New Mexico,,MOVEDOUT,0,30,2020,OOS
+41051,35035,,Otero County, New Mexico,,MOVEDNET,17,27,2020,OOS
+41051,55087,,Outagamie County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55087,,Outagamie County, Wisconsin,,MOVEDOUT,22,27,2020,OOS
+41051,55087,,Outagamie County, Wisconsin,,MOVEDNET,-22,27,2020,OOS
+41051,53049,,Pacific County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53049,,Pacific County, Washington,,MOVEDOUT,33,33,2020,OOS
+41051,53049,,Pacific County, Washington,,MOVEDNET,-33,33,2020,OOS
+41051,12099,,Palm Beach County, Florida,,MOVEDIN,95,121,2020,OOS
+41051,12099,,Palm Beach County, Florida,,MOVEDOUT,0,34,2020,OOS
+41051,12099,,Palm Beach County, Florida,,MOVEDNET,95,121,2020,OOS
+41051,30067,,Park County, Montana,,MOVEDIN,0,30,2020,OOS
+41051,30067,,Park County, Montana,,MOVEDOUT,38,59,2020,OOS
+41051,30067,,Park County, Montana,,MOVEDNET,-38,59,2020,OOS
+41051,12101,,Pasco County, Florida,,MOVEDIN,0,30,2020,OOS
+41051,12101,,Pasco County, Florida,,MOVEDOUT,18,28,2020,OOS
+41051,12101,,Pasco County, Florida,,MOVEDNET,-18,28,2020,OOS
+41051,40119,,Payne County, Oklahoma,,MOVEDIN,0,30,2020,OOS
+41051,40119,,Payne County, Oklahoma,,MOVEDOUT,72,106,2020,OOS
+41051,40119,,Payne County, Oklahoma,,MOVEDNET,-72,106,2020,OOS
+41051,53051,,Pend Oreille County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53051,,Pend Oreille County, Washington,,MOVEDOUT,11,14,2020,OOS
+41051,53051,,Pend Oreille County, Washington,,MOVEDNET,-11,14,2020,OOS
+41051,46103,,Pennington County, South Dakota,,MOVEDIN,5,8,2020,OOS
+41051,46103,,Pennington County, South Dakota,,MOVEDOUT,8,15,2020,OOS
+41051,46103,,Pennington County, South Dakota,,MOVEDNET,-3,20,2020,OOS
+41051,17143,,Peoria County, Illinois,,MOVEDIN,0,30,2020,OOS
+41051,17143,,Peoria County, Illinois,,MOVEDOUT,35,55,2020,OOS
+41051,17143,,Peoria County, Illinois,,MOVEDNET,-35,55,2020,OOS
+41051,32027,,Pershing County, Nevada,,MOVEDIN,0,30,2020,OOS
+41051,32027,,Pershing County, Nevada,,MOVEDOUT,1,4,2020,OOS
+41051,32027,,Pershing County, Nevada,,MOVEDNET,-1,4,2020,OOS
+41051,29161,,Phelps County, Missouri,,MOVEDIN,35,56,2020,OOS
+41051,29161,,Phelps County, Missouri,,MOVEDOUT,0,25,2020,OOS
+41051,29161,,Phelps County, Missouri,,MOVEDNET,35,56,2020,OOS
+41051,42101,,Philadelphia County, Pennsylvania,,MOVEDIN,155,125,2020,OOS
+41051,42101,,Philadelphia County, Pennsylvania,,MOVEDOUT,197,115,2020,OOS
+41051,42101,,Philadelphia County, Pennsylvania,,MOVEDNET,-42,172,2020,OOS
+41051,08095,,Phillips County, Colorado,,MOVEDIN,0,30,2020,OOS
+41051,08095,,Phillips County, Colorado,,MOVEDOUT,18,29,2020,OOS
+41051,08095,,Phillips County, Colorado,,MOVEDNET,-18,29,2020,OOS
+41051,53053,,Pierce County, Washington,,MOVEDIN,404,197,2020,OOS
+41051,53053,,Pierce County, Washington,,MOVEDOUT,404,158,2020,OOS
+41051,53053,,Pierce County, Washington,,MOVEDNET,0,261,2020,OOS
+41051,04019,,Pima County, Arizona,,MOVEDIN,121,72,2020,OOS
+41051,04019,,Pima County, Arizona,,MOVEDOUT,225,133,2020,OOS
+41051,04019,,Pima County, Arizona,,MOVEDNET,-104,162,2020,OOS
+41051,04021,,Pinal County, Arizona,,MOVEDIN,24,28,2020,OOS
+41051,04021,,Pinal County, Arizona,,MOVEDOUT,573,674,2020,OOS
+41051,04021,,Pinal County, Arizona,,MOVEDNET,-549,670,2020,OOS
+41051,12103,,Pinellas County, Florida,,MOVEDIN,0,30,2020,OOS
+41051,12103,,Pinellas County, Florida,,MOVEDOUT,15,26,2020,OOS
+41051,12103,,Pinellas County, Florida,,MOVEDNET,-15,26,2020,OOS
+41051,08097,,Pitkin County, Colorado,,MOVEDIN,0,30,2020,OOS
+41051,08097,,Pitkin County, Colorado,,MOVEDOUT,1,2,2020,OOS
+41051,08097,,Pitkin County, Colorado,,MOVEDNET,-1,2,2020,OOS
+41051,06061,,Placer County, California,,MOVEDIN,86,51,2020,OOS
+41051,06061,,Placer County, California,,MOVEDOUT,27,34,2020,OOS
+41051,06061,,Placer County, California,,MOVEDNET,59,58,2020,OOS
+41051,29165,,Platte County, Missouri,,MOVEDIN,32,36,2020,OOS
+41051,29165,,Platte County, Missouri,,MOVEDOUT,0,28,2020,OOS
+41051,29165,,Platte County, Missouri,,MOVEDNET,32,36,2020,OOS
+41051,06063,,Plumas County, California,,MOVEDIN,0,30,2020,OOS
+41051,06063,,Plumas County, California,,MOVEDOUT,20,26,2020,OOS
+41051,06063,,Plumas County, California,,MOVEDNET,-20,26,2020,OOS
+41051,25023,,Plymouth County, Massachusetts,,MOVEDIN,5,7,2020,OOS
+41051,25023,,Plymouth County, Massachusetts,,MOVEDOUT,0,31,2020,OOS
+41051,25023,,Plymouth County, Massachusetts,,MOVEDNET,5,7,2020,OOS
+41051,12105,,Polk County, Florida,,MOVEDIN,19,31,2020,OOS
+41051,12105,,Polk County, Florida,,MOVEDOUT,41,39,2020,OOS
+41051,12105,,Polk County, Florida,,MOVEDNET,-22,51,2020,OOS
+41051,19153,,Polk County, Iowa,,MOVEDIN,0,30,2020,OOS
+41051,19153,,Polk County, Iowa,,MOVEDOUT,36,66,2020,OOS
+41051,19153,,Polk County, Iowa,,MOVEDNET,-36,66,2020,OOS
+41051,55095,,Polk County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55095,,Polk County, Wisconsin,,MOVEDOUT,5,12,2020,OOS
+41051,55095,,Polk County, Wisconsin,,MOVEDNET,-5,12,2020,OOS
+41051,55097,,Portage County, Wisconsin,,MOVEDIN,1,3,2020,OOS
+41051,55097,,Portage County, Wisconsin,,MOVEDOUT,0,22,2020,OOS
+41051,55097,,Portage County, Wisconsin,,MOVEDNET,1,3,2020,OOS
+41051,19157,,Poweshiek County, Iowa,,MOVEDIN,0,30,2020,OOS
+41051,19157,,Poweshiek County, Iowa,,MOVEDOUT,19,21,2020,OOS
+41051,19157,,Poweshiek County, Iowa,,MOVEDNET,-19,21,2020,OOS
+41051,02198,,Prince of Wales-Hyder Census Area, Alaska,,MOVEDIN,0,30,2020,OOS
+41051,02198,,Prince of Wales-Hyder Census Area, Alaska,,MOVEDOUT,8,12,2020,OOS
+41051,02198,,Prince of Wales-Hyder Census Area, Alaska,,MOVEDNET,-8,12,2020,OOS
+41051,44007,,Providence County, Rhode Island,,MOVEDIN,34,40,2020,OOS
+41051,44007,,Providence County, Rhode Island,,MOVEDOUT,6,11,2020,OOS
+41051,44007,,Providence County, Rhode Island,,MOVEDNET,28,41,2020,OOS
+41051,05119,,Pulaski County, Arkansas,,MOVEDIN,132,97,2020,OOS
+41051,05119,,Pulaski County, Arkansas,,MOVEDOUT,0,29,2020,OOS
+41051,05119,,Pulaski County, Arkansas,,MOVEDNET,132,97,2020,OOS
+41051,36081,,Queens County, New York,,MOVEDIN,285,203,2020,OOS
+41051,36081,,Queens County, New York,,MOVEDOUT,35,32,2020,OOS
+41051,36081,,Queens County, New York,,MOVEDNET,250,207,2020,OOS
+41051,55101,,Racine County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55101,,Racine County, Wisconsin,,MOVEDOUT,6,10,2020,OOS
+41051,55101,,Racine County, Wisconsin,,MOVEDNET,-6,10,2020,OOS
+41051,27123,,Ramsey County, Minnesota,,MOVEDIN,24,36,2020,OOS
+41051,27123,,Ramsey County, Minnesota,,MOVEDOUT,69,61,2020,OOS
+41051,27123,,Ramsey County, Minnesota,,MOVEDNET,-45,71,2020,OOS
+41051,38071,,Ramsey County, North Dakota,,MOVEDIN,8,16,2020,OOS
+41051,38071,,Ramsey County, North Dakota,,MOVEDOUT,0,16,2020,OOS
+41051,38071,,Ramsey County, North Dakota,,MOVEDNET,8,16,2020,OOS
+41051,22079,,Rapides Parish, Louisiana,,MOVEDIN,45,71,2020,OOS
+41051,22079,,Rapides Parish, Louisiana,,MOVEDOUT,0,32,2020,OOS
+41051,22079,,Rapides Parish, Louisiana,,MOVEDNET,45,71,2020,OOS
+41051,30081,,Ravalli County, Montana,,MOVEDIN,15,26,2020,OOS
+41051,30081,,Ravalli County, Montana,,MOVEDOUT,0,23,2020,OOS
+41051,30081,,Ravalli County, Montana,,MOVEDNET,15,26,2020,OOS
+41051,27131,,Rice County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27131,,Rice County, Minnesota,,MOVEDOUT,10,15,2020,OOS
+41051,27131,,Rice County, Minnesota,,MOVEDNET,-10,15,2020,OOS
+41051,39139,,Richland County, Ohio,,MOVEDIN,0,30,2020,OOS
+41051,39139,,Richland County, Ohio,,MOVEDOUT,5,10,2020,OOS
+41051,39139,,Richland County, Ohio,,MOVEDNET,-5,10,2020,OOS
+41051,45079,,Richland County, South Carolina,,MOVEDIN,8,13,2020,OOS
+41051,45079,,Richland County, South Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,45079,,Richland County, South Carolina,,MOVEDNET,8,13,2020,OOS
+41051,51760,,Richmond City, Virginia,,MOVEDIN,63,84,2020,OOS
+41051,51760,,Richmond City, Virginia,,MOVEDOUT,13,15,2020,OOS
+41051,51760,,Richmond City, Virginia,,MOVEDNET,50,86,2020,OOS
+41051,20161,,Riley County, Kansas,,MOVEDIN,0,30,2020,OOS
+41051,20161,,Riley County, Kansas,,MOVEDOUT,68,75,2020,OOS
+41051,20161,,Riley County, Kansas,,MOVEDNET,-68,75,2020,OOS
+41051,35039,,Rio Arriba County, New Mexico,,MOVEDIN,56,52,2020,OOS
+41051,35039,,Rio Arriba County, New Mexico,,MOVEDOUT,13,23,2020,OOS
+41051,35039,,Rio Arriba County, New Mexico,,MOVEDNET,43,57,2020,OOS
+41051,06065,,Riverside County, California,,MOVEDIN,212,100,2020,OOS
+41051,06065,,Riverside County, California,,MOVEDOUT,214,135,2020,OOS
+41051,06065,,Riverside County, California,,MOVEDNET,-2,172,2020,OOS
+41051,27133,,Rock County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27133,,Rock County, Minnesota,,MOVEDOUT,1,3,2020,OOS
+41051,27133,,Rock County, Minnesota,,MOVEDNET,-1,3,2020,OOS
+41051,17161,,Rock Island County, Illinois,,MOVEDIN,0,30,2020,OOS
+41051,17161,,Rock Island County, Illinois,,MOVEDOUT,12,21,2020,OOS
+41051,17161,,Rock Island County, Illinois,,MOVEDNET,-12,21,2020,OOS
+41051,33015,,Rockingham County, New Hampshire,,MOVEDIN,0,30,2020,OOS
+41051,33015,,Rockingham County, New Hampshire,,MOVEDOUT,56,66,2020,OOS
+41051,33015,,Rockingham County, New Hampshire,,MOVEDNET,-56,66,2020,OOS
+41051,36087,,Rockland County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36087,,Rockland County, New York,,MOVEDOUT,5,10,2020,OOS
+41051,36087,,Rockland County, New York,,MOVEDNET,-5,10,2020,OOS
+41051,37161,,Rutherford County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37161,,Rutherford County, North Carolina,,MOVEDOUT,8,14,2020,OOS
+41051,37161,,Rutherford County, North Carolina,,MOVEDNET,-8,14,2020,OOS
+41051,06067,,Sacramento County, California,,MOVEDIN,247,101,2020,OOS
+41051,06067,,Sacramento County, California,,MOVEDOUT,206,113,2020,OOS
+41051,06067,,Sacramento County, California,,MOVEDNET,41,152,2020,OOS
+41051,23023,,Sagadahoc County, Maine,,MOVEDIN,0,30,2020,OOS
+41051,23023,,Sagadahoc County, Maine,,MOVEDOUT,2,3,2020,OOS
+41051,23023,,Sagadahoc County, Maine,,MOVEDNET,-2,3,2020,OOS
+41051,05125,,Saline County, Arkansas,,MOVEDIN,0,30,2020,OOS
+41051,05125,,Saline County, Arkansas,,MOVEDOUT,25,41,2020,OOS
+41051,05125,,Saline County, Arkansas,,MOVEDNET,-25,41,2020,OOS
+41051,49035,,Salt Lake County, Utah,,MOVEDIN,480,251,2020,OOS
+41051,49035,,Salt Lake County, Utah,,MOVEDOUT,361,190,2020,OOS
+41051,49035,,Salt Lake County, Utah,,MOVEDNET,119,329,2020,OOS
+41051,06069,,San Benito County, California,,MOVEDIN,0,30,2020,OOS
+41051,06069,,San Benito County, California,,MOVEDOUT,10,13,2020,OOS
+41051,06069,,San Benito County, California,,MOVEDNET,-10,13,2020,OOS
+41051,06071,,San Bernardino County, California,,MOVEDIN,99,75,2020,OOS
+41051,06071,,San Bernardino County, California,,MOVEDOUT,25,27,2020,OOS
+41051,06071,,San Bernardino County, California,,MOVEDNET,74,79,2020,OOS
+41051,06073,,San Diego County, California,,MOVEDIN,1126,364,2020,OOS
+41051,06073,,San Diego County, California,,MOVEDOUT,574,201,2020,OOS
+41051,06073,,San Diego County, California,,MOVEDNET,552,437,2020,OOS
+41051,06075,,San Francisco County, California,,MOVEDIN,1045,285,2020,OOS
+41051,06075,,San Francisco County, California,,MOVEDOUT,420,177,2020,OOS
+41051,06075,,San Francisco County, California,,MOVEDNET,625,355,2020,OOS
+41051,06077,,San Joaquin County, California,,MOVEDIN,34,33,2020,OOS
+41051,06077,,San Joaquin County, California,,MOVEDOUT,14,15,2020,OOS
+41051,06077,,San Joaquin County, California,,MOVEDNET,20,36,2020,OOS
+41051,35045,,San Juan County, New Mexico,,MOVEDIN,23,46,2020,OOS
+41051,35045,,San Juan County, New Mexico,,MOVEDOUT,0,30,2020,OOS
+41051,35045,,San Juan County, New Mexico,,MOVEDNET,23,46,2020,OOS
+41051,53055,,San Juan County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53055,,San Juan County, Washington,,MOVEDOUT,34,23,2020,OOS
+41051,53055,,San Juan County, Washington,,MOVEDNET,-34,23,2020,OOS
+41051,06079,,San Luis Obispo County, California,,MOVEDIN,37,43,2020,OOS
+41051,06079,,San Luis Obispo County, California,,MOVEDOUT,91,107,2020,OOS
+41051,06079,,San Luis Obispo County, California,,MOVEDNET,-54,116,2020,OOS
+41051,06081,,San Mateo County, California,,MOVEDIN,186,103,2020,OOS
+41051,06081,,San Mateo County, California,,MOVEDOUT,44,45,2020,OOS
+41051,06081,,San Mateo County, California,,MOVEDNET,142,118,2020,OOS
+41051,30089,,Sanders County, Montana,,MOVEDIN,0,30,2020,OOS
+41051,30089,,Sanders County, Montana,,MOVEDOUT,8,9,2020,OOS
+41051,30089,,Sanders County, Montana,,MOVEDNET,-8,9,2020,OOS
+41051,35043,,Sandoval County, New Mexico,,MOVEDIN,0,30,2020,OOS
+41051,35043,,Sandoval County, New Mexico,,MOVEDOUT,2,3,2020,OOS
+41051,35043,,Sandoval County, New Mexico,,MOVEDNET,-2,3,2020,OOS
+41051,06083,,Santa Barbara County, California,,MOVEDIN,99,110,2020,OOS
+41051,06083,,Santa Barbara County, California,,MOVEDOUT,69,48,2020,OOS
+41051,06083,,Santa Barbara County, California,,MOVEDNET,30,118,2020,OOS
+41051,06085,,Santa Clara County, California,,MOVEDIN,536,215,2020,OOS
+41051,06085,,Santa Clara County, California,,MOVEDOUT,276,157,2020,OOS
+41051,06085,,Santa Clara County, California,,MOVEDNET,260,279,2020,OOS
+41051,06087,,Santa Cruz County, California,,MOVEDIN,53,39,2020,OOS
+41051,06087,,Santa Cruz County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06087,,Santa Cruz County, California,,MOVEDNET,53,39,2020,OOS
+41051,35049,,Santa Fe County, New Mexico,,MOVEDIN,43,58,2020,OOS
+41051,35049,,Santa Fe County, New Mexico,,MOVEDOUT,10,17,2020,OOS
+41051,35049,,Santa Fe County, New Mexico,,MOVEDNET,33,60,2020,OOS
+41051,12115,,Sarasota County, Florida,,MOVEDIN,9,14,2020,OOS
+41051,12115,,Sarasota County, Florida,,MOVEDOUT,10,15,2020,OOS
+41051,12115,,Sarasota County, Florida,,MOVEDNET,-1,21,2020,OOS
+41051,19163,,Scott County, Iowa,,MOVEDIN,0,30,2020,OOS
+41051,19163,,Scott County, Iowa,,MOVEDOUT,37,39,2020,OOS
+41051,19163,,Scott County, Iowa,,MOVEDNET,-37,39,2020,OOS
+41051,27139,,Scott County, Minnesota,,MOVEDIN,10,16,2020,OOS
+41051,27139,,Scott County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,27139,,Scott County, Minnesota,,MOVEDNET,10,16,2020,OOS
+41051,20173,,Sedgwick County, Kansas,,MOVEDIN,16,26,2020,OOS
+41051,20173,,Sedgwick County, Kansas,,MOVEDOUT,65,58,2020,OOS
+41051,20173,,Sedgwick County, Kansas,,MOVEDNET,-49,64,2020,OOS
+41051,12117,,Seminole County, Florida,,MOVEDIN,0,30,2020,OOS
+41051,12117,,Seminole County, Florida,,MOVEDOUT,36,46,2020,OOS
+41051,12117,,Seminole County, Florida,,MOVEDNET,-36,46,2020,OOS
+41051,13253,,Seminole County, Georgia,,MOVEDIN,86,107,2020,OOS
+41051,13253,,Seminole County, Georgia,,MOVEDOUT,0,20,2020,OOS
+41051,13253,,Seminole County, Georgia,,MOVEDNET,86,107,2020,OOS
+41051,39147,,Seneca County, Ohio,,MOVEDIN,63,100,2020,OOS
+41051,39147,,Seneca County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39147,,Seneca County, Ohio,,MOVEDNET,63,100,2020,OOS
+41051,06089,,Shasta County, California,,MOVEDIN,62,78,2020,OOS
+41051,06089,,Shasta County, California,,MOVEDOUT,21,34,2020,OOS
+41051,06089,,Shasta County, California,,MOVEDNET,41,87,2020,OOS
+41051,55117,,Sheboygan County, Wisconsin,,MOVEDIN,23,36,2020,OOS
+41051,55117,,Sheboygan County, Wisconsin,,MOVEDOUT,0,22,2020,OOS
+41051,55117,,Sheboygan County, Wisconsin,,MOVEDNET,23,36,2020,OOS
+41051,47157,,Shelby County, Tennessee,,MOVEDIN,34,51,2020,OOS
+41051,47157,,Shelby County, Tennessee,,MOVEDOUT,24,28,2020,OOS
+41051,47157,,Shelby County, Tennessee,,MOVEDNET,10,55,2020,OOS
+41051,06093,,Siskiyou County, California,,MOVEDIN,0,30,2020,OOS
+41051,06093,,Siskiyou County, California,,MOVEDOUT,19,20,2020,OOS
+41051,06093,,Siskiyou County, California,,MOVEDNET,-19,20,2020,OOS
+41051,53057,,Skagit County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53057,,Skagit County, Washington,,MOVEDOUT,35,24,2020,OOS
+41051,53057,,Skagit County, Washington,,MOVEDNET,-35,24,2020,OOS
+41051,53059,,Skamania County, Washington,,MOVEDIN,17,27,2020,OOS
+41051,53059,,Skamania County, Washington,,MOVEDOUT,72,56,2020,OOS
+41051,53059,,Skamania County, Washington,,MOVEDNET,-55,62,2020,OOS
+41051,48423,,Smith County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48423,,Smith County, Texas,,MOVEDOUT,15,23,2020,OOS
+41051,48423,,Smith County, Texas,,MOVEDNET,-15,23,2020,OOS
+41051,53061,,Snohomish County, Washington,,MOVEDIN,242,105,2020,OOS
+41051,53061,,Snohomish County, Washington,,MOVEDOUT,158,123,2020,OOS
+41051,53061,,Snohomish County, Washington,,MOVEDNET,84,160,2020,OOS
+41051,06095,,Solano County, California,,MOVEDIN,75,88,2020,OOS
+41051,06095,,Solano County, California,,MOVEDOUT,9,16,2020,OOS
+41051,06095,,Solano County, California,,MOVEDNET,66,91,2020,OOS
+41051,42111,,Somerset County, Pennsylvania,,MOVEDIN,0,30,2020,OOS
+41051,42111,,Somerset County, Pennsylvania,,MOVEDOUT,4,5,2020,OOS
+41051,42111,,Somerset County, Pennsylvania,,MOVEDNET,-4,5,2020,OOS
+41051,06097,,Sonoma County, California,,MOVEDIN,502,468,2020,OOS
+41051,06097,,Sonoma County, California,,MOVEDOUT,208,164,2020,OOS
+41051,06097,,Sonoma County, California,,MOVEDNET,294,509,2020,OOS
+41051,53063,,Spokane County, Washington,,MOVEDIN,299,160,2020,OOS
+41051,53063,,Spokane County, Washington,,MOVEDOUT,320,127,2020,OOS
+41051,53063,,Spokane County, Washington,,MOVEDNET,-21,178,2020,OOS
+41051,29183,,St. Charles County, Missouri,,MOVEDIN,10,15,2020,OOS
+41051,29183,,St. Charles County, Missouri,,MOVEDOUT,0,28,2020,OOS
+41051,29183,,St. Charles County, Missouri,,MOVEDNET,10,15,2020,OOS
+41051,01115,,St. Clair County, Alabama,,MOVEDIN,14,17,2020,OOS
+41051,01115,,St. Clair County, Alabama,,MOVEDOUT,0,29,2020,OOS
+41051,01115,,St. Clair County, Alabama,,MOVEDNET,14,17,2020,OOS
+41051,26147,,St. Clair County, Michigan,,MOVEDIN,12,23,2020,OOS
+41051,26147,,St. Clair County, Michigan,,MOVEDOUT,8,14,2020,OOS
+41051,26147,,St. Clair County, Michigan,,MOVEDNET,4,26,2020,OOS
+41051,18141,,St. Joseph County, Indiana,,MOVEDIN,0,30,2020,OOS
+41051,18141,,St. Joseph County, Indiana,,MOVEDOUT,124,109,2020,OOS
+41051,18141,,St. Joseph County, Indiana,,MOVEDNET,-124,109,2020,OOS
+41051,29510,,St. Louis City, Missouri,,MOVEDIN,34,55,2020,OOS
+41051,29510,,St. Louis City, Missouri,,MOVEDOUT,0,28,2020,OOS
+41051,29510,,St. Louis City, Missouri,,MOVEDNET,34,55,2020,OOS
+41051,27137,,St. Louis County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27137,,St. Louis County, Minnesota,,MOVEDOUT,8,11,2020,OOS
+41051,27137,,St. Louis County, Minnesota,,MOVEDNET,-8,11,2020,OOS
+41051,29189,,St. Louis County, Missouri,,MOVEDIN,68,54,2020,OOS
+41051,29189,,St. Louis County, Missouri,,MOVEDOUT,88,126,2020,OOS
+41051,29189,,St. Louis County, Missouri,,MOVEDNET,-20,137,2020,OOS
+41051,22103,,St. Tammany Parish, Louisiana,,MOVEDIN,60,80,2020,OOS
+41051,22103,,St. Tammany Parish, Louisiana,,MOVEDOUT,0,32,2020,OOS
+41051,22103,,St. Tammany Parish, Louisiana,,MOVEDNET,60,80,2020,OOS
+41051,06099,,Stanislaus County, California,,MOVEDIN,36,34,2020,OOS
+41051,06099,,Stanislaus County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06099,,Stanislaus County, California,,MOVEDNET,36,34,2020,OOS
+41051,39151,,Stark County, Ohio,,MOVEDIN,10,21,2020,OOS
+41051,39151,,Stark County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39151,,Stark County, Ohio,,MOVEDNET,10,21,2020,OOS
+41051,27149,,Stevens County, Minnesota,,MOVEDIN,0,30,2020,OOS
+41051,27149,,Stevens County, Minnesota,,MOVEDOUT,23,25,2020,OOS
+41051,27149,,Stevens County, Minnesota,,MOVEDNET,-23,25,2020,OOS
+41051,53065,,Stevens County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53065,,Stevens County, Washington,,MOVEDOUT,20,29,2020,OOS
+41051,53065,,Stevens County, Washington,,MOVEDNET,-20,29,2020,OOS
+41051,19169,,Story County, Iowa,,MOVEDIN,0,30,2020,OOS
+41051,19169,,Story County, Iowa,,MOVEDOUT,7,10,2020,OOS
+41051,19169,,Story County, Iowa,,MOVEDNET,-7,10,2020,OOS
+41051,25025,,Suffolk County, Massachusetts,,MOVEDIN,185,141,2020,OOS
+41051,25025,,Suffolk County, Massachusetts,,MOVEDOUT,116,63,2020,OOS
+41051,25025,,Suffolk County, Massachusetts,,MOVEDNET,69,164,2020,OOS
+41051,36103,,Suffolk County, New York,,MOVEDIN,42,45,2020,OOS
+41051,36103,,Suffolk County, New York,,MOVEDOUT,6,13,2020,OOS
+41051,36103,,Suffolk County, New York,,MOVEDNET,36,47,2020,OOS
+41051,47163,,Sullivan County, Tennessee,,MOVEDIN,0,30,2020,OOS
+41051,47163,,Sullivan County, Tennessee,,MOVEDOUT,34,55,2020,OOS
+41051,47163,,Sullivan County, Tennessee,,MOVEDNET,-34,55,2020,OOS
+41051,39153,,Summit County, Ohio,,MOVEDIN,8,10,2020,OOS
+41051,39153,,Summit County, Ohio,,MOVEDOUT,0,29,2020,OOS
+41051,39153,,Summit County, Ohio,,MOVEDNET,8,10,2020,OOS
+41051,49043,,Summit County, Utah,,MOVEDIN,0,30,2020,OOS
+41051,49043,,Summit County, Utah,,MOVEDOUT,77,81,2020,OOS
+41051,49043,,Summit County, Utah,,MOVEDNET,-77,81,2020,OOS
+41051,45085,,Sumter County, South Carolina,,MOVEDIN,36,47,2020,OOS
+41051,45085,,Sumter County, South Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,45085,,Sumter County, South Carolina,,MOVEDNET,36,47,2020,OOS
+41051,06101,,Sutter County, California,,MOVEDIN,9,19,2020,OOS
+41051,06101,,Sutter County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06101,,Sutter County, California,,MOVEDNET,9,19,2020,OOS
+41051,48439,,Tarrant County, Texas,,MOVEDIN,157,115,2020,OOS
+41051,48439,,Tarrant County, Texas,,MOVEDOUT,59,81,2020,OOS
+41051,48439,,Tarrant County, Texas,,MOVEDNET,98,142,2020,OOS
+41051,48441,,Taylor County, Texas,,MOVEDIN,9,14,2020,OOS
+41051,48441,,Taylor County, Texas,,MOVEDOUT,0,33,2020,OOS
+41051,48441,,Taylor County, Texas,,MOVEDNET,9,14,2020,OOS
+41051,06103,,Tehama County, California,,MOVEDIN,11,17,2020,OOS
+41051,06103,,Tehama County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06103,,Tehama County, California,,MOVEDNET,11,17,2020,OOS
+41051,30099,,Teton County, Montana,,MOVEDIN,0,30,2020,OOS
+41051,30099,,Teton County, Montana,,MOVEDOUT,26,26,2020,OOS
+41051,30099,,Teton County, Montana,,MOVEDNET,-26,26,2020,OOS
+41051,56039,,Teton County, Wyoming,,MOVEDIN,0,30,2020,OOS
+41051,56039,,Teton County, Wyoming,,MOVEDOUT,20,37,2020,OOS
+41051,56039,,Teton County, Wyoming,,MOVEDNET,-20,37,2020,OOS
+41051,40139,,Texas County, Oklahoma,,MOVEDIN,0,30,2020,OOS
+41051,40139,,Texas County, Oklahoma,,MOVEDOUT,3,4,2020,OOS
+41051,40139,,Texas County, Oklahoma,,MOVEDNET,-3,4,2020,OOS
+41051,53067,,Thurston County, Washington,,MOVEDIN,382,209,2020,OOS
+41051,53067,,Thurston County, Washington,,MOVEDOUT,233,144,2020,OOS
+41051,53067,,Thurston County, Washington,,MOVEDNET,149,248,2020,OOS
+41051,18157,,Tippecanoe County, Indiana,,MOVEDIN,0,30,2020,OOS
+41051,18157,,Tippecanoe County, Indiana,,MOVEDOUT,20,32,2020,OOS
+41051,18157,,Tippecanoe County, Indiana,,MOVEDNET,-20,32,2020,OOS
+41051,09013,,Tolland County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,09013,,Tolland County, Connecticut,,MOVEDOUT,7,11,2020,OOS
+41051,09013,,Tolland County, Connecticut,,MOVEDNET,-7,11,2020,OOS
+41051,36109,,Tompkins County, New York,,MOVEDIN,0,30,2020,OOS
+41051,36109,,Tompkins County, New York,,MOVEDOUT,11,16,2020,OOS
+41051,36109,,Tompkins County, New York,,MOVEDNET,-11,16,2020,OOS
+41051,49045,,Tooele County, Utah,,MOVEDIN,43,72,2020,OOS
+41051,49045,,Tooele County, Utah,,MOVEDOUT,0,28,2020,OOS
+41051,49045,,Tooele County, Utah,,MOVEDNET,43,72,2020,OOS
+41051,48453,,Travis County, Texas,,MOVEDIN,266,177,2020,OOS
+41051,48453,,Travis County, Texas,,MOVEDOUT,336,182,2020,OOS
+41051,48453,,Travis County, Texas,,MOVEDNET,-70,211,2020,OOS
+41051,06107,,Tulare County, California,,MOVEDIN,51,44,2020,OOS
+41051,06107,,Tulare County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06107,,Tulare County, California,,MOVEDNET,51,44,2020,OOS
+41051,40143,,Tulsa County, Oklahoma,,MOVEDIN,0,30,2020,OOS
+41051,40143,,Tulsa County, Oklahoma,,MOVEDOUT,37,30,2020,OOS
+41051,40143,,Tulsa County, Oklahoma,,MOVEDNET,-37,30,2020,OOS
+41051,06109,,Tuolumne County, California,,MOVEDIN,12,20,2020,OOS
+41051,06109,,Tuolumne County, California,,MOVEDOUT,93,116,2020,OOS
+41051,06109,,Tuolumne County, California,,MOVEDNET,-81,119,2020,OOS
+41051,16083,,Twin Falls County, Idaho,,MOVEDIN,13,19,2020,OOS
+41051,16083,,Twin Falls County, Idaho,,MOVEDOUT,13,19,2020,OOS
+41051,16083,,Twin Falls County, Idaho,,MOVEDNET,0,27,2020,OOS
+41051,48457,,Tyler County, Texas,,MOVEDIN,0,30,2020,OOS
+41051,48457,,Tyler County, Texas,,MOVEDOUT,12,19,2020,OOS
+41051,48457,,Tyler County, Texas,,MOVEDNET,-12,19,2020,OOS
+41051,37179,,Union County, North Carolina,,MOVEDIN,0,30,2020,OOS
+41051,37179,,Union County, North Carolina,,MOVEDOUT,2,15,2020,OOS
+41051,37179,,Union County, North Carolina,,MOVEDNET,-2,15,2020,OOS
+41051,49049,,Utah County, Utah,,MOVEDIN,63,62,2020,OOS
+41051,49049,,Utah County, Utah,,MOVEDOUT,22,28,2020,OOS
+41051,49049,,Utah County, Utah,,MOVEDNET,41,68,2020,OOS
+41051,16085,,Valley County, Idaho,,MOVEDIN,0,30,2020,OOS
+41051,16085,,Valley County, Idaho,,MOVEDOUT,271,276,2020,OOS
+41051,16085,,Valley County, Idaho,,MOVEDNET,-271,276,2020,OOS
+41051,30105,,Valley County, Montana,,MOVEDIN,0,30,2020,OOS
+41051,30105,,Valley County, Montana,,MOVEDOUT,26,43,2020,OOS
+41051,30105,,Valley County, Montana,,MOVEDNET,-26,43,2020,OOS
+41051,06111,,Ventura County, California,,MOVEDIN,126,81,2020,OOS
+41051,06111,,Ventura County, California,,MOVEDOUT,94,91,2020,OOS
+41051,06111,,Ventura County, California,,MOVEDNET,32,129,2020,OOS
+41051,22115,,Vernon Parish, Louisiana,,MOVEDIN,11,18,2020,OOS
+41051,22115,,Vernon Parish, Louisiana,,MOVEDOUT,0,29,2020,OOS
+41051,22115,,Vernon Parish, Louisiana,,MOVEDNET,11,18,2020,OOS
+41051,18167,,Vigo County, Indiana,,MOVEDIN,0,30,2020,OOS
+41051,18167,,Vigo County, Indiana,,MOVEDOUT,10,15,2020,OOS
+41051,18167,,Vigo County, Indiana,,MOVEDNET,-10,15,2020,OOS
+41051,51810,,Virginia Beach City, Virginia,,MOVEDIN,45,37,2020,OOS
+41051,51810,,Virginia Beach City, Virginia,,MOVEDOUT,86,118,2020,OOS
+41051,51810,,Virginia Beach City, Virginia,,MOVEDNET,-41,125,2020,OOS
+41051,40145,,Wagoner County, Oklahoma,,MOVEDIN,56,88,2020,OOS
+41051,40145,,Wagoner County, Oklahoma,,MOVEDOUT,6,11,2020,OOS
+41051,40145,,Wagoner County, Oklahoma,,MOVEDNET,50,90,2020,OOS
+41051,53069,,Wahkiakum County, Washington,,MOVEDIN,0,30,2020,OOS
+41051,53069,,Wahkiakum County, Washington,,MOVEDOUT,2,4,2020,OOS
+41051,53069,,Wahkiakum County, Washington,,MOVEDNET,-2,4,2020,OOS
+41051,37183,,Wake County, North Carolina,,MOVEDIN,150,88,2020,OOS
+41051,37183,,Wake County, North Carolina,,MOVEDOUT,20,22,2020,OOS
+41051,37183,,Wake County, North Carolina,,MOVEDNET,130,89,2020,OOS
+41051,01127,,Walker County, Alabama,,MOVEDIN,0,30,2020,OOS
+41051,01127,,Walker County, Alabama,,MOVEDOUT,5,8,2020,OOS
+41051,01127,,Walker County, Alabama,,MOVEDNET,-5,8,2020,OOS
+41051,48471,,Walker County, Texas,,MOVEDIN,32,52,2020,OOS
+41051,48471,,Walker County, Texas,,MOVEDOUT,0,33,2020,OOS
+41051,48471,,Walker County, Texas,,MOVEDNET,32,52,2020,OOS
+41051,53071,,Walla Walla County, Washington,,MOVEDIN,131,133,2020,OOS
+41051,53071,,Walla Walla County, Washington,,MOVEDOUT,32,35,2020,OOS
+41051,53071,,Walla Walla County, Washington,,MOVEDNET,99,137,2020,OOS
+41051,21227,,Warren County, Kentucky,,MOVEDIN,0,30,2020,OOS
+41051,21227,,Warren County, Kentucky,,MOVEDOUT,34,53,2020,OOS
+41051,21227,,Warren County, Kentucky,,MOVEDNET,-34,53,2020,OOS
+41051,05143,,Washington County, Arkansas,,MOVEDIN,28,44,2020,OOS
+41051,05143,,Washington County, Arkansas,,MOVEDOUT,0,29,2020,OOS
+41051,05143,,Washington County, Arkansas,,MOVEDNET,28,44,2020,OOS
+41051,20201,,Washington County, Kansas,,MOVEDIN,0,30,2020,OOS
+41051,20201,,Washington County, Kansas,,MOVEDOUT,1,2,2020,OOS
+41051,20201,,Washington County, Kansas,,MOVEDNET,-1,2,2020,OOS
+41051,24043,,Washington County, Maryland,,MOVEDIN,18,31,2020,OOS
+41051,24043,,Washington County, Maryland,,MOVEDOUT,0,30,2020,OOS
+41051,24043,,Washington County, Maryland,,MOVEDNET,18,31,2020,OOS
+41051,27163,,Washington County, Minnesota,,MOVEDIN,45,44,2020,OOS
+41051,27163,,Washington County, Minnesota,,MOVEDOUT,0,22,2020,OOS
+41051,27163,,Washington County, Minnesota,,MOVEDNET,45,44,2020,OOS
+41051,36115,,Washington County, New York,,MOVEDIN,15,19,2020,OOS
+41051,36115,,Washington County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,36115,,Washington County, New York,,MOVEDNET,15,19,2020,OOS
+41051,39167,,Washington County, Ohio,,MOVEDIN,0,30,2020,OOS
+41051,39167,,Washington County, Ohio,,MOVEDOUT,6,10,2020,OOS
+41051,39167,,Washington County, Ohio,,MOVEDNET,-6,10,2020,OOS
+41051,49053,,Washington County, Utah,,MOVEDIN,43,47,2020,OOS
+41051,49053,,Washington County, Utah,,MOVEDOUT,0,28,2020,OOS
+41051,49053,,Washington County, Utah,,MOVEDNET,43,47,2020,OOS
+41051,50023,,Washington County, Vermont,,MOVEDIN,36,58,2020,OOS
+41051,50023,,Washington County, Vermont,,MOVEDOUT,0,23,2020,OOS
+41051,50023,,Washington County, Vermont,,MOVEDNET,36,58,2020,OOS
+41051,32031,,Washoe County, Nevada,,MOVEDIN,167,89,2020,OOS
+41051,32031,,Washoe County, Nevada,,MOVEDOUT,84,79,2020,OOS
+41051,32031,,Washoe County, Nevada,,MOVEDNET,83,103,2020,OOS
+41051,26161,,Washtenaw County, Michigan,,MOVEDIN,73,72,2020,OOS
+41051,26161,,Washtenaw County, Michigan,,MOVEDOUT,216,127,2020,OOS
+41051,26161,,Washtenaw County, Michigan,,MOVEDNET,-143,138,2020,OOS
+41051,55133,,Waukesha County, Wisconsin,,MOVEDIN,2,13,2020,OOS
+41051,55133,,Waukesha County, Wisconsin,,MOVEDOUT,0,22,2020,OOS
+41051,55133,,Waukesha County, Wisconsin,,MOVEDNET,2,13,2020,OOS
+41051,26163,,Wayne County, Michigan,,MOVEDIN,42,39,2020,OOS
+41051,26163,,Wayne County, Michigan,,MOVEDOUT,43,44,2020,OOS
+41051,26163,,Wayne County, Michigan,,MOVEDNET,-1,50,2020,OOS
+41051,36117,,Wayne County, New York,,MOVEDIN,12,17,2020,OOS
+41051,36117,,Wayne County, New York,,MOVEDOUT,0,29,2020,OOS
+41051,36117,,Wayne County, New York,,MOVEDNET,12,17,2020,OOS
+41051,49057,,Weber County, Utah,,MOVEDIN,74,72,2020,OOS
+41051,49057,,Weber County, Utah,,MOVEDOUT,14,21,2020,OOS
+41051,49057,,Weber County, Utah,,MOVEDNET,60,76,2020,OOS
+41051,19187,,Webster County, Iowa,,MOVEDIN,76,81,2020,OOS
+41051,19187,,Webster County, Iowa,,MOVEDOUT,0,21,2020,OOS
+41051,19187,,Webster County, Iowa,,MOVEDNET,76,81,2020,OOS
+41051,08123,,Weld County, Colorado,,MOVEDIN,34,39,2020,OOS
+41051,08123,,Weld County, Colorado,,MOVEDOUT,0,29,2020,OOS
+41051,08123,,Weld County, Colorado,,MOVEDNET,34,39,2020,OOS
+41051,36119,,Westchester County, New York,,MOVEDIN,136,183,2020,OOS
+41051,36119,,Westchester County, New York,,MOVEDOUT,12,19,2020,OOS
+41051,36119,,Westchester County, New York,,MOVEDNET,124,182,2020,OOS
+41051,53073,,Whatcom County, Washington,,MOVEDIN,261,218,2020,OOS
+41051,53073,,Whatcom County, Washington,,MOVEDOUT,133,110,2020,OOS
+41051,53073,,Whatcom County, Washington,,MOVEDNET,128,229,2020,OOS
+41051,13309,,Wheeler County, Georgia,,MOVEDIN,0,30,2020,OOS
+41051,13309,,Wheeler County, Georgia,,MOVEDOUT,21,33,2020,OOS
+41051,13309,,Wheeler County, Georgia,,MOVEDNET,-21,33,2020,OOS
+41051,53075,,Whitman County, Washington,,MOVEDIN,39,38,2020,OOS
+41051,53075,,Whitman County, Washington,,MOVEDOUT,18,26,2020,OOS
+41051,53075,,Whitman County, Washington,,MOVEDNET,21,46,2020,OOS
+41051,24045,,Wicomico County, Maryland,,MOVEDIN,10,17,2020,OOS
+41051,24045,,Wicomico County, Maryland,,MOVEDOUT,0,30,2020,OOS
+41051,24045,,Wicomico County, Maryland,,MOVEDNET,10,17,2020,OOS
+41051,51830,,Williamsburg City, Virginia,,MOVEDIN,0,30,2020,OOS
+41051,51830,,Williamsburg City, Virginia,,MOVEDOUT,4,8,2020,OOS
+41051,51830,,Williamsburg City, Virginia,,MOVEDNET,-4,8,2020,OOS
+41051,47187,,Williamson County, Tennessee,,MOVEDIN,17,27,2020,OOS
+41051,47187,,Williamson County, Tennessee,,MOVEDOUT,36,59,2020,OOS
+41051,47187,,Williamson County, Tennessee,,MOVEDNET,-19,64,2020,OOS
+41051,37195,,Wilson County, North Carolina,,MOVEDIN,4,7,2020,OOS
+41051,37195,,Wilson County, North Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,37195,,Wilson County, North Carolina,,MOVEDNET,4,7,2020,OOS
+41051,09015,,Windham County, Connecticut,,MOVEDIN,0,30,2020,OOS
+41051,09015,,Windham County, Connecticut,,MOVEDOUT,21,35,2020,OOS
+41051,09015,,Windham County, Connecticut,,MOVEDNET,-21,35,2020,OOS
+41051,17201,,Winnebago County, Illinois,,MOVEDIN,46,72,2020,OOS
+41051,17201,,Winnebago County, Illinois,,MOVEDOUT,0,28,2020,OOS
+41051,17201,,Winnebago County, Illinois,,MOVEDNET,46,72,2020,OOS
+41051,55141,,Wood County, Wisconsin,,MOVEDIN,0,30,2020,OOS
+41051,55141,,Wood County, Wisconsin,,MOVEDOUT,2,10,2020,OOS
+41051,55141,,Wood County, Wisconsin,,MOVEDNET,-2,10,2020,OOS
+41051,25027,,Worcester County, Massachusetts,,MOVEDIN,6,14,2020,OOS
+41051,25027,,Worcester County, Massachusetts,,MOVEDOUT,14,20,2020,OOS
+41051,25027,,Worcester County, Massachusetts,,MOVEDNET,-8,25,2020,OOS
+41051,53077,,Yakima County, Washington,,MOVEDIN,166,116,2020,OOS
+41051,53077,,Yakima County, Washington,,MOVEDOUT,45,32,2020,OOS
+41051,53077,,Yakima County, Washington,,MOVEDNET,121,118,2020,OOS
+41051,04025,,Yavapai County, Arizona,,MOVEDIN,71,70,2020,OOS
+41051,04025,,Yavapai County, Arizona,,MOVEDOUT,0,31,2020,OOS
+41051,04025,,Yavapai County, Arizona,,MOVEDNET,71,70,2020,OOS
+41051,30111,,Yellowstone County, Montana,,MOVEDIN,160,130,2020,OOS
+41051,30111,,Yellowstone County, Montana,,MOVEDOUT,0,26,2020,OOS
+41051,30111,,Yellowstone County, Montana,,MOVEDNET,160,130,2020,OOS
+41051,06113,,Yolo County, California,,MOVEDIN,64,51,2020,OOS
+41051,06113,,Yolo County, California,,MOVEDOUT,0,31,2020,OOS
+41051,06113,,Yolo County, California,,MOVEDNET,64,51,2020,OOS
+41051,45091,,York County, South Carolina,,MOVEDIN,14,22,2020,OOS
+41051,45091,,York County, South Carolina,,MOVEDOUT,0,31,2020,OOS
+41051,45091,,York County, South Carolina,,MOVEDNET,14,22,2020,OOS
+41051,04027,,Yuma County, Arizona,,MOVEDIN,31,45,2020,OOS
+41051,04027,,Yuma County, Arizona,,MOVEDOUT,10,17,2020,OOS
+41051,04027,,Yuma County, Arizona,,MOVEDNET,21,47,2020,OOS
+41051,72031,,Carolina Municipio, Puerto Rico,,MOVEDIN,0,30,2020,UST
+41051,72031,,Carolina Municipio, Puerto Rico,,MOVEDOUT,29,46,2020,UST
+41051,72031,,Carolina Municipio, Puerto Rico,,MOVEDNET,-29,46,2020,UST
+41051,72127,,San Juan Municipio, Puerto Rico,,MOVEDIN,0,30,2020,UST
+41051,72127,,San Juan Municipio, Puerto Rico,,MOVEDOUT,11,18,2020,UST
+41051,72127,,San Juan Municipio, Puerto Rico,,MOVEDNET,-11,18,2020,UST
+41051,,,,U.S. Island Areas,,MOVEDIN,107,124,2020,UST
+41051,,,,U.S. Island Areas,,MOVEDOUT,,,2020,UST
+41051,,,,U.S. Island Areas,,MOVEDNET,,,2020,UST
