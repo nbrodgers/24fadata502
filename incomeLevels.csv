@@ -1,4 +1,4 @@
-variable,estimate,year,level,four_levels,four_level
+variable,estimate,year,level,four_levels,four_var
 L002,25696,2013,"Less than $10,000","Less than $20,000",L1
 L002,26007,2014,"Less than $10,000","Less than $20,000",L1
 L002,25632,2015,"Less than $10,000","Less than $20,000",L1
