@@ -1,0 +1,379 @@
+YEAR,COUNTY,VARIABLE,COUNT,DESC
+2010,Washington,f,135,Total Unhoused Families
+2010,Clackamas,f,137,Total Unhoused Families
+2010,Multnomah,f,443,Total Unhoused Families
+2010,Washington,indv,514,Total Unhoused Individuals
+2010,Clackamas,indv,986,Total Unhoused Individuals
+2010,Multnomah,indv,2943,Total Unhoused Individuals
+2010,Clackamas,findv,436,Individuals in Families
+2010,Washington,findv,436,Individuals in Families
+2010,Multnomah,findv,1292,Individuals in Families
+2010,Clackamas,sf,44,Families in Shelters
+2010,Washington,sf,60,Families in Shelters
+2010,Multnomah,sf,408,Families in Shelters
+2010,Clackamas,sindv,16,Individuals in Shelters
+2010,Washington,sindv,65,Individuals in Shelters
+2010,Multnomah,sindv,1430,Individuals in Shelters
+2010,Clackamas,sfindv,120,Individuals in Families in Shelters
+2010,Washington,sfindv,183,Individuals in Families in Shelters
+2010,Multnomah,sfindv,1214,Individuals in Families in Shelters
+2010,Multnomah,uf,35,Families without Shelter
+2010,Washington,uf,75,Families without Shelter
+2010,Clackamas,uf,93,Families without Shelter
+2010,Washington,uinv,449,Individuals without Shelter
+2010,Clackamas,uinv,970,Individuals without Shelter
+2010,Multnomah,uinv,1513,Individuals without Shelter
+2010,Multnomah,ufindv,78,Individuals in Families without Shelter
+2010,Washington,ufindv,253,Individuals in Families without Shelter
+2010,Clackamas,ufindv,316,Individuals in Families without Shelter
+2011,Washington,f,102,Total Unhoused Families
+2011,Clackamas,f,152,Total Unhoused Families
+2011,Multnomah,f,537,Total Unhoused Families
+2011,Washington,indv,435,Total Unhoused Individuals
+2011,Clackamas,indv,567,Total Unhoused Individuals
+2011,Multnomah,indv,2815,Total Unhoused Individuals
+2011,Washington,findv,317,Individuals in Families
+2011,Clackamas,findv,441,Individuals in Families
+2011,Multnomah,findv,1682,Individuals in Families
+2011,Clackamas,sf,42,Families in Shelters
+2011,Washington,sf,55,Families in Shelters
+2011,Multnomah,sf,482,Families in Shelters
+2011,Clackamas,sindv,16,Individuals in Shelters
+2011,Washington,sindv,53,Individuals in Shelters
+2011,Multnomah,sindv,1213,Individuals in Shelters
+2011,Clackamas,sfindv,123,Individuals in Families in Shelters
+2011,Washington,sfindv,168,Individuals in Families in Shelters
+2011,Multnomah,sfindv,1570,Individuals in Families in Shelters
+2011,Washington,uf,47,Families without Shelter
+2011,Multnomah,uf,55,Families without Shelter
+2011,Clackamas,uf,110,Families without Shelter
+2011,Washington,uinv,382,Individuals without Shelter
+2011,Clackamas,uinv,551,Individuals without Shelter
+2011,Multnomah,uinv,1602,Individuals without Shelter
+2011,Multnomah,ufindv,112,Individuals in Families without Shelter
+2011,Washington,ufindv,149,Individuals in Families without Shelter
+2011,Clackamas,ufindv,318,Individuals in Families without Shelter
+2012,Washington,f,112,Total Unhoused Families
+2012,Clackamas,f,147,Total Unhoused Families
+2012,Multnomah,f,620,Total Unhoused Families
+2012,Washington,indv,399,Total Unhoused Individuals
+2012,Clackamas,indv,570,Total Unhoused Individuals
+2012,Multnomah,indv,2918,Total Unhoused Individuals
+2012,Washington,findv,352,Individuals in Families
+2012,Clackamas,findv,423,Individuals in Families
+2012,Multnomah,findv,1505,Individuals in Families
+2012,Clackamas,sf,37,Families in Shelters
+2012,Washington,sf,73,Families in Shelters
+2012,Multnomah,sf,565,Families in Shelters
+2012,Clackamas,sindv,19,Individuals in Shelters
+2012,Washington,sindv,89,Individuals in Shelters
+2012,Multnomah,sindv,1316,Individuals in Shelters
+2012,Clackamas,sfindv,105,Individuals in Families in Shelters
+2012,Washington,sfindv,220,Individuals in Families in Shelters
+2012,Multnomah,sfindv,1393,Individuals in Families in Shelters
+2012,Washington,uf,39,Families without Shelter
+2012,Multnomah,uf,55,Families without Shelter
+2012,Clackamas,uf,110,Families without Shelter
+2012,Washington,uinv,310,Individuals without Shelter
+2012,Clackamas,uinv,551,Individuals without Shelter
+2012,Multnomah,uinv,1602,Individuals without Shelter
+2012,Multnomah,ufindv,112,Individuals in Families without Shelter
+2012,Washington,ufindv,132,Individuals in Families without Shelter
+2012,Clackamas,ufindv,318,Individuals in Families without Shelter
+2013,Washington,f,47,Total Unhoused Families
+2013,Clackamas,f,53,Total Unhoused Families
+2013,Multnomah,f,398,Total Unhoused Families
+2013,Washington,indv,303,Total Unhoused Individuals
+2013,Clackamas,indv,338,Total Unhoused Individuals
+2013,Multnomah,indv,3183,Total Unhoused Individuals
+2013,Washington,findv,129,Individuals in Families
+2013,Clackamas,findv,281,Individuals in Families
+2013,Multnomah,findv,1258,Individuals in Families
+2013,Washington,sf,30,Families in Shelters
+2013,Clackamas,sf,40,Families in Shelters
+2013,Multnomah,sf,361,Families in Shelters
+2013,Clackamas,sindv,22,Individuals in Shelters
+2013,Washington,sindv,115,Individuals in Shelters
+2013,Multnomah,sindv,1411,Individuals in Shelters
+2013,Washington,sfindv,85,Individuals in Families in Shelters
+2013,Clackamas,sfindv,119,Individuals in Families in Shelters
+2013,Multnomah,sfindv,1135,Individuals in Families in Shelters
+2013,Clackamas,uf,13,Families without Shelter
+2013,Washington,uf,17,Families without Shelter
+2013,Multnomah,uf,37,Families without Shelter
+2013,Washington,uinv,188,Individuals without Shelter
+2013,Clackamas,uinv,316,Individuals without Shelter
+2013,Multnomah,uinv,1772,Individuals without Shelter
+2013,Washington,ufindv,44,Individuals in Families without Shelter
+2013,Multnomah,ufindv,123,Individuals in Families without Shelter
+2013,Clackamas,ufindv,162,Individuals in Families without Shelter
+2014,Clackamas,f,53,Total Unhoused Families
+2014,Washington,f,75,Total Unhoused Families
+2014,Multnomah,f,266,Total Unhoused Families
+2014,Washington,indv,281,Total Unhoused Individuals
+2014,Clackamas,indv,333,Total Unhoused Individuals
+2014,Multnomah,indv,3115,Total Unhoused Individuals
+2014,Washington,findv,256,Individuals in Families
+2014,Clackamas,findv,285,Individuals in Families
+2014,Multnomah,findv,812,Individuals in Families
+2014,Washington,sf,29,Families in Shelters
+2014,Clackamas,sf,40,Families in Shelters
+2014,Multnomah,sf,229,Families in Shelters
+2014,Clackamas,sindv,17,Individuals in Shelters
+2014,Washington,sindv,102,Individuals in Shelters
+2014,Multnomah,sindv,1343,Individuals in Shelters
+2014,Washington,sfindv,96,Individuals in Families in Shelters
+2014,Clackamas,sfindv,123,Individuals in Families in Shelters
+2014,Multnomah,sfindv,689,Individuals in Families in Shelters
+2014,Clackamas,uf,13,Families without Shelter
+2014,Multnomah,uf,37,Families without Shelter
+2014,Washington,uf,46,Families without Shelter
+2014,Washington,uinv,179,Individuals without Shelter
+2014,Clackamas,uinv,316,Individuals without Shelter
+2014,Multnomah,uinv,1772,Individuals without Shelter
+2014,Multnomah,ufindv,123,Individuals in Families without Shelter
+2014,Washington,ufindv,160,Individuals in Families without Shelter
+2014,Clackamas,ufindv,162,Individuals in Families without Shelter
+2015,Clackamas,f,44,Total Unhoused Families
+2015,Washington,f,58,Total Unhoused Families
+2015,Multnomah,f,218,Total Unhoused Families
+2015,Clackamas,indv,357,Total Unhoused Individuals
+2015,Washington,indv,399,Total Unhoused Individuals
+2015,Multnomah,indv,3132,Total Unhoused Individuals
+2015,Clackamas,findv,137,Individuals in Families
+2015,Washington,findv,192,Individuals in Families
+2015,Multnomah,findv,669,Individuals in Families
+2015,Washington,sf,30,Families in Shelters
+2015,Clackamas,sf,37,Families in Shelters
+2015,Multnomah,sf,171,Families in Shelters
+2015,Clackamas,sindv,76,Individuals in Shelters
+2015,Washington,sindv,97,Individuals in Shelters
+2015,Multnomah,sindv,1403,Individuals in Shelters
+2015,Washington,sfindv,99,Individuals in Families in Shelters
+2015,Clackamas,sfindv,110,Individuals in Families in Shelters
+2015,Multnomah,sfindv,511,Individuals in Families in Shelters
+2015,Clackamas,uf,7,Families without Shelter
+2015,Washington,uf,28,Families without Shelter
+2015,Multnomah,uf,47,Families without Shelter
+2015,Clackamas,uinv,281,Individuals without Shelter
+2015,Washington,uinv,302,Individuals without Shelter
+2015,Multnomah,uinv,1729,Individuals without Shelter
+2015,Clackamas,ufindv,27,Individuals in Families without Shelter
+2015,Washington,ufindv,93,Individuals in Families without Shelter
+2015,Multnomah,ufindv,158,Individuals in Families without Shelter
+2016,Washington,f,53,Total Unhoused Families
+2016,Clackamas,f,54,Total Unhoused Families
+2016,Multnomah,f,226,Total Unhoused Families
+2016,Clackamas,indv,298,Total Unhoused Individuals
+2016,Washington,indv,383,Total Unhoused Individuals
+2016,Multnomah,indv,3209,Total Unhoused Individuals
+2016,Clackamas,findv,165,Individuals in Families
+2016,Washington,findv,188,Individuals in Families
+2016,Multnomah,findv,705,Individuals in Families
+2016,Washington,sf,34,Families in Shelters
+2016,Clackamas,sf,47,Families in Shelters
+2016,Multnomah,sf,179,Families in Shelters
+2016,Clackamas,sindv,17,Individuals in Shelters
+2016,Washington,sindv,78,Individuals in Shelters
+2016,Multnomah,sindv,1480,Individuals in Shelters
+2016,Washington,sfindv,115,Individuals in Families in Shelters
+2016,Clackamas,sfindv,138,Individuals in Families in Shelters
+2016,Multnomah,sfindv,547,Individuals in Families in Shelters
+2016,Clackamas,uf,7,Families without Shelter
+2016,Washington,uf,19,Families without Shelter
+2016,Multnomah,uf,47,Families without Shelter
+2016,Clackamas,uinv,281,Individuals without Shelter
+2016,Washington,uinv,305,Individuals without Shelter
+2016,Multnomah,uinv,1729,Individuals without Shelter
+2016,Clackamas,ufindv,27,Individuals in Families without Shelter
+2016,Washington,ufindv,73,Individuals in Families without Shelter
+2016,Multnomah,ufindv,158,Individuals in Families without Shelter
+2017,Clackamas,f,39,Total Unhoused Families
+2017,Washington,f,56,Total Unhoused Families
+2017,Multnomah,f,216,Total Unhoused Families
+2017,Washington,indv,348,Total Unhoused Individuals
+2017,Clackamas,indv,385,Total Unhoused Individuals
+2017,Multnomah,indv,3520,Total Unhoused Individuals
+2017,Clackamas,findv,112,Individuals in Families
+2017,Washington,findv,196,Individuals in Families
+2017,Multnomah,findv,657,Individuals in Families
+2017,Clackamas,sf,20,Families in Shelters
+2017,Washington,sf,30,Families in Shelters
+2017,Multnomah,sf,188,Families in Shelters
+2017,Clackamas,sindv,84,Individuals in Shelters
+2017,Washington,sindv,86,Individuals in Shelters
+2017,Multnomah,sindv,1929,Individuals in Shelters
+2017,Clackamas,sfindv,67,Individuals in Families in Shelters
+2017,Washington,sfindv,89,Individuals in Families in Shelters
+2017,Multnomah,sfindv,580,Individuals in Families in Shelters
+2017,Clackamas,uf,19,Families without Shelter
+2017,Washington,uf,26,Families without Shelter
+2017,Multnomah,uf,28,Families without Shelter
+2017,Washington,uinv,262,Individuals without Shelter
+2017,Clackamas,uinv,301,Individuals without Shelter
+2017,Multnomah,uinv,1591,Individuals without Shelter
+2017,Clackamas,ufindv,45,Individuals in Families without Shelter
+2017,Multnomah,ufindv,77,Individuals in Families without Shelter
+2017,Washington,ufindv,107,Individuals in Families without Shelter
+2018,Clackamas,f,27,Total Unhoused Families
+2018,Washington,f,39,Total Unhoused Families
+2018,Multnomah,f,193,Total Unhoused Families
+2018,Clackamas,indv,317,Total Unhoused Individuals
+2018,Washington,indv,407,Total Unhoused Individuals
+2018,Multnomah,indv,3394,Total Unhoused Individuals
+2018,Clackamas,findv,66,Individuals in Families
+2018,Washington,findv,115,Individuals in Families
+2018,Multnomah,findv,625,Individuals in Families
+2018,Clackamas,sf,8,Families in Shelters
+2018,Washington,sf,26,Families in Shelters
+2018,Multnomah,sf,165,Families in Shelters
+2018,Clackamas,sindv,16,Individuals in Shelters
+2018,Washington,sindv,91,Individuals in Shelters
+2018,Multnomah,sindv,1803,Individuals in Shelters
+2018,Clackamas,sfindv,21,Individuals in Families in Shelters
+2018,Washington,sfindv,72,Individuals in Families in Shelters
+2018,Multnomah,sfindv,548,Individuals in Families in Shelters
+2018,Washington,uf,13,Families without Shelter
+2018,Clackamas,uf,19,Families without Shelter
+2018,Multnomah,uf,28,Families without Shelter
+2018,Clackamas,uinv,301,Individuals without Shelter
+2018,Washington,uinv,316,Individuals without Shelter
+2018,Multnomah,uinv,1591,Individuals without Shelter
+2018,Washington,ufindv,43,Individuals in Families without Shelter
+2018,Clackamas,ufindv,45,Individuals in Families without Shelter
+2018,Multnomah,ufindv,77,Individuals in Families without Shelter
+2019,Clackamas,f,29,Total Unhoused Families
+2019,Washington,f,39,Total Unhoused Families
+2019,Multnomah,f,100,Total Unhoused Families
+2019,Clackamas,indv,385,Total Unhoused Individuals
+2019,Washington,indv,396,Total Unhoused Individuals
+2019,Multnomah,indv,3698,Total Unhoused Individuals
+2019,Clackamas,findv,86,Individuals in Families
+2019,Washington,findv,134,Individuals in Families
+2019,Multnomah,findv,317,Individuals in Families
+2019,Clackamas,sf,25,Families in Shelters
+2019,Washington,sf,30,Families in Shelters
+2019,Multnomah,sf,94,Families in Shelters
+2019,Clackamas,sindv,178,Individuals in Shelters
+2019,Washington,sindv,194,Individuals in Shelters
+2019,Multnomah,sindv,1673,Individuals in Shelters
+2019,Clackamas,sfindv,70,Individuals in Families in Shelters
+2019,Washington,sfindv,104,Individuals in Families in Shelters
+2019,Multnomah,sfindv,305,Individuals in Families in Shelters
+2019,Clackamas,uf,4,Families without Shelter
+2019,Multnomah,uf,6,Families without Shelter
+2019,Washington,uf,9,Families without Shelter
+2019,Washington,uinv,202,Individuals without Shelter
+2019,Clackamas,uinv,207,Individuals without Shelter
+2019,Multnomah,uinv,2025,Individuals without Shelter
+2019,Multnomah,ufindv,12,Individuals in Families without Shelter
+2019,Clackamas,ufindv,16,Individuals in Families without Shelter
+2019,Washington,ufindv,30,Individuals in Families without Shelter
+2020,Clackamas,f,36,Total Unhoused Families
+2020,Washington,f,41,Total Unhoused Families
+2020,Multnomah,f,123,Total Unhoused Families
+2020,Clackamas,indv,235,Total Unhoused Individuals
+2020,Washington,indv,477,Total Unhoused Individuals
+2020,Multnomah,indv,3784,Total Unhoused Individuals
+2020,Clackamas,findv,117,Individuals in Families
+2020,Washington,findv,141,Individuals in Families
+2020,Multnomah,findv,389,Individuals in Families
+2020,Clackamas,sf,32,Families in Shelters
+2020,Washington,sf,32,Families in Shelters
+2020,Multnomah,sf,117,Families in Shelters
+2020,Clackamas,sindv,28,Individuals in Shelters
+2020,Washington,sindv,207,Individuals in Shelters
+2020,Multnomah,sindv,1759,Individuals in Shelters
+2020,Clackamas,sfindv,101,Individuals in Families in Shelters
+2020,Washington,sfindv,104,Individuals in Families in Shelters
+2020,Multnomah,sfindv,377,Individuals in Families in Shelters
+2020,Clackamas,uf,4,Families without Shelter
+2020,Multnomah,uf,6,Families without Shelter
+2020,Washington,uf,9,Families without Shelter
+2020,Clackamas,uinv,207,Individuals without Shelter
+2020,Washington,uinv,270,Individuals without Shelter
+2020,Multnomah,uinv,2025,Individuals without Shelter
+2020,Multnomah,ufindv,12,Individuals in Families without Shelter
+2020,Clackamas,ufindv,16,Individuals in Families without Shelter
+2020,Washington,ufindv,37,Individuals in Families without Shelter
+2021,Washington,f,36,Total Unhoused Families
+2021,Clackamas,f,67,Total Unhoused Families
+2021,Multnomah,f,69,Total Unhoused Families
+2021,Clackamas,indv,280,Total Unhoused Individuals
+2021,Washington,indv,595,Total Unhoused Individuals
+2021,Multnomah,indv,1560,Total Unhoused Individuals
+2021,Washington,findv,121,Individuals in Families
+2021,Clackamas,findv,212,Individuals in Families
+2021,Multnomah,findv,220,Individuals in Families
+2021,Clackamas,sf,29,Families in Shelters
+2021,Washington,sf,31,Families in Shelters
+2021,Multnomah,sf,69,Families in Shelters
+2021,Clackamas,sindv,100,Individuals in Shelters
+2021,Washington,sindv,257,Individuals in Shelters
+2021,Multnomah,sindv,1560,Individuals in Shelters
+2021,Clackamas,sfindv,91,Individuals in Families in Shelters
+2021,Washington,sfindv,102,Individuals in Families in Shelters
+2021,Multnomah,sfindv,220,Individuals in Families in Shelters
+2021,Multnomah,uf,0,Families without Shelter
+2021,Washington,uf,5,Families without Shelter
+2021,Clackamas,uf,38,Families without Shelter
+2021,Multnomah,uinv,0,Individuals without Shelter
+2021,Clackamas,uinv,180,Individuals without Shelter
+2021,Washington,uinv,338,Individuals without Shelter
+2021,Multnomah,ufindv,0,Individuals in Families without Shelter
+2021,Washington,ufindv,19,Individuals in Families without Shelter
+2021,Clackamas,ufindv,121,Individuals in Families without Shelter
+2022,Clackamas,f,60,Total Unhoused Families
+2022,Washington,f,78,Total Unhoused Families
+2022,Multnomah,f,221,Total Unhoused Families
+2022,Clackamas,indv,378,Total Unhoused Individuals
+2022,Washington,indv,516,Total Unhoused Individuals
+2022,Multnomah,indv,4560,Total Unhoused Individuals
+2022,Clackamas,findv,193,Individuals in Families
+2022,Washington,findv,292,Individuals in Families
+2022,Multnomah,findv,668,Individuals in Families
+2022,Clackamas,sf,22,Families in Shelters
+2022,Multnomah,sf,75,Families in Shelters
+2022,Washington,sf,78,Families in Shelters
+2022,Clackamas,sindv,198,Individuals in Shelters
+2022,Washington,sindv,289,Individuals in Shelters
+2022,Multnomah,sindv,1956,Individuals in Shelters
+2022,Clackamas,sfindv,72,Individuals in Families in Shelters
+2022,Multnomah,sfindv,215,Individuals in Families in Shelters
+2022,Washington,sfindv,292,Individuals in Families in Shelters
+2022,Washington,uf,0,Families without Shelter
+2022,Clackamas,uf,38,Families without Shelter
+2022,Multnomah,uf,146,Families without Shelter
+2022,Clackamas,uinv,180,Individuals without Shelter
+2022,Washington,uinv,227,Individuals without Shelter
+2022,Multnomah,uinv,2604,Individuals without Shelter
+2022,Washington,ufindv,0,Individuals in Families without Shelter
+2022,Clackamas,ufindv,121,Individuals in Families without Shelter
+2022,Multnomah,ufindv,453,Individuals in Families without Shelter
+2023,Clackamas,f,36,Total Unhoused Families
+2023,Washington,f,61,Total Unhoused Families
+2023,Multnomah,f,414,Total Unhoused Families
+2023,Clackamas,indv,280,Total Unhoused Individuals
+2023,Washington,indv,546,Total Unhoused Individuals
+2023,Multnomah,indv,4998,Total Unhoused Individuals
+2023,Clackamas,findv,130,Individuals in Families
+2023,Washington,findv,227,Individuals in Families
+2023,Multnomah,findv,1299,Individuals in Families
+2023,Clackamas,sf,35,Families in Shelters
+2023,Washington,sf,59,Families in Shelters
+2023,Multnomah,sf,100,Families in Shelters
+2023,Clackamas,sindv,106,Individuals in Shelters
+2023,Washington,sindv,321,Individuals in Shelters
+2023,Multnomah,sindv,2018,Individuals in Shelters
+2023,Clackamas,sfindv,126,Individuals in Families in Shelters
+2023,Washington,sfindv,222,Individuals in Families in Shelters
+2023,Multnomah,sfindv,335,Individuals in Families in Shelters
+2023,Clackamas,uf,1,Families without Shelter
+2023,Washington,uf,2,Families without Shelter
+2023,Multnomah,uf,314,Families without Shelter
+2023,Clackamas,uinv,174,Individuals without Shelter
+2023,Washington,uinv,225,Individuals without Shelter
+2023,Multnomah,uinv,2980,Individuals without Shelter
+2023,Clackamas,ufindv,4,Individuals in Families without Shelter
+2023,Washington,ufindv,5,Individuals in Families without Shelter
+2023,Multnomah,ufindv,964,Individuals in Families without Shelter
